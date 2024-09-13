@@ -1,0 +1,27 @@
+Datos Ingresados:
+Distritos: 9650 y 4632
+Disponibilidad a partir de las 16:0:0
+Duracion maxima: 2:0:0
+El cliente no llevara alimentos
+================================================================================
+              LISTA DE PELICULAS A LAS QUE PUEDE ASISTIR
+    DISTRITO:   9650  - Jesus_Maria         
+
+    SALA    PELICULA                      COSTO   INICIA     TERMINA    DURACION
+    22210   Shazam                        36.78   18:03:01   19:53:37   01:50:36
+--------------------------------------------------------------------------------
+CANTIDAD DE PELICULAS: 1
+
+--------------------------------------------------------------------------------
+    DISTRITO:   4632  - Pueblo_Libre        
+
+    SALA    PELICULA                      COSTO   INICIA     TERMINA    DURACION
+    77522   Vertigo                       29.97   14:46:36   16:44:41   01:58:05
+    77659   The_Pope_s_Exorcist           42.72   14:30:12   16:09:42   01:39:30
+    77659   The_Pope_s_Exorcist           42.72   16:28:25   18:07:55   01:39:30
+    77659   The_Pope_s_Exorcist           42.72   22:27:42   23:57:12   01:29:30
+--------------------------------------------------------------------------------
+CANTIDAD DE PELICULAS: 4
+
+================================================================================
+Tienes 5 opciones de peliculas con los datos que ha ingresado
