@@ -1,0 +1,5 @@
+10004    Almacen$San=Miguel    15094
+10001  Almacen%Jesus8Maria    15084
+10003      Almacen#San{Juan)De3Miraflores    15085
+10005    Almacen+Central    15166
+10007     Almacen_Villa-Maria.Del,Triunfo    15156

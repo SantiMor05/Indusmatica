@@ -195,7 +195,7 @@ void buscarImprimirInfoPersona(int dni, ifstream &archTele,
             if (aa > 2009) {
                 archReporte << setw(14) << "Menor";
                 categoria = 1;
-            } else if (aa > 1988) {
+            } else if (aa > 1998) {
                 archReporte << setw(14) << "Joven";
                 categoria = 2;
             } else {
