@@ -1,0 +1,20 @@
+                                                       INSTITUCION EDUCATIVA_TP
+                                            PROMEDIO PONDERADO DE LOS ALUMNOS MATRICULADOS
+                                                           CICLO : 2024-1
+                                                         FACULTAD DE DERECHO
+=======================================================================================================================================
+              ALUMNO                                No. de Cursos      Suma Ponderada          No. de Creditos      Prom Ponderado
+---------------------------------------------------------------------------------------------------------------------------------------
+  20198922 - Moises Miguel Pairazaman Alamo              18               1073.25                   81.50                13.17
+  20195979 - La Haza Francisco Edgar Mejia De            15               1053.25                   74.50                14.14
+  20197155 - Williams Paul Justino Cruz                   9                493.75                   41.25                11.97
+  20193891 - Elia Rosa Camacho Aguero                    13                754.25                   52.75                14.30
+  20196536 - Virginia Irma Benavente Ayala               10                555.50                   41.25                13.47
+  20224165 - Madeleine Yliana Miyake Merel               14                716.00                   64.75                11.06
+  20198069 - Evert Roberto Amezquita Epiquen             14                652.50                   58.50                11.15
+  20198434 - Silvana Maria Chavez Prado                  16               1017.75                   66.00                15.42
+  20193012 - Alberto Raul Cuba Pairazaman                14                669.25                   59.50                11.25
+  20231938 - Bruno Roberto Martel Asmad                  18                916.25                   79.00                11.60
+  20212697 - Oscar Jose Retamoso Barrera                 14                657.25                   57.00                11.53
+  20196245 - Gonzalo Teobaldo Vega Munoz                 17               1024.50                   77.75                13.18
+  20193490 - Johan Jose Coronado Figueroa                16                846.50                   69.75                12.14
