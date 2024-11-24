@@ -1,0 +1,37 @@
+                                                               INSTITUCION EDUCATIVA_TP
+                                                    PROMEDIO PONDERADO DE LOS ALUMNOS MATRICULADOS
+                                                                    CICLO: 2024-1
+                                                         FACULTAD DE ARQUITECTURA Y URBANISMO
+                                                                          Y
+                                                             ESTUDIOS GENERALES CIENCIAS
+======================================================================================================================================================
+    ALUMNO                                               No. de Cursos    Suma Ponderada     No. de Creditos    Promedio Ponderado    Facultad
+------------------------------------------------------------------------------------------------------------------------------------------------------
+20235440 - PORTUGAL BENAVENTE JOHANA GLORIA                   16             980.50               70.50               13.91           EEGGCC
+20205864 - MALDONADO FLORIAN JOHANA SILVIA                    10             646.50               46.50               13.90           EEGGCC
+20197374 - VILCARA CORREA VICTOR JUSTINO                       7             430.25               32.50               13.24           EEGGCC
+20219990 - ACUNA YINO ROCIO YOLANDA                            9             544.00               41.25               13.19           EEGGCC
+20198608 - GORDILLO YINO YVONNE ROSARIO                       15             814.00               62.00               13.13           EEGGCC
+20195340 - CERNA DURAND MARTIN PEDRO                          14             754.75               62.50               12.08           EEGGCC
+20213075 - FLORIAN MORALES YDALI ROCIO                        16             851.50               71.00               11.99           EEGGCC
+20194050 - CORRALES TSUKAZAN IRMA LOURDES                     18             976.00               82.00               11.90           EEGGCC
+20197557 - CARO POLO SANDRO                                   13             638.75               57.25               11.16           EEGGCC
+20195764 - CALIXTO TOMASICHE MONICA DORIS                     14             585.25               62.00                9.44           EEGGCC
+20193984 - PAREDES PATINO CHRISTIAN RAUL FELIPE               10             393.25               44.75                8.79           EEGGCC
+20229272 - CRUZ FUENTES JOHANA DALI                           18            1177.00               79.50               14.81           FARQUITURB
+20205844 - VILLA YALLICO TATIANA NANCY                        15             928.75               69.00               13.46           FARQUITURB
+20202687 - MORALES VALVERDE INES MARTHA                       15             867.25               64.50               13.45           FARQUITURB
+20238549 - JUSTINO FORZANI ERICKA VICTORIA                    12             752.00               56.00               13.43           FARQUITURB
+20205830 - FERNANDEZ ORTEGA ELIZABETH ELIZABETH               13             722.00               54.00               13.37           FARQUITURB
+20208971 - SUAREZ BOLANOS RAFAEL FLAVIO                       13             725.00               55.25               13.12           FARQUITURB
+20219566 - MEDINA VELASQUEZ MILENA JENNY                      22            1281.75               98.50               13.01           FARQUITURB
+20233816 - VALVERDE BERROCAL RONY GONZALO                     14             822.75               63.75               12.91           FARQUITURB
+20208175 - HIJAR YEP WILLIAMS CHRISTIAN                       15             834.00               65.50               12.73           FARQUITURB
+20222575 - YOSHINARI RIVERA PAUL                              19            1048.50               84.50               12.41           FARQUITURB
+20226271 - VELASQUEZ HUAYANAY EDGARD HENRY                    16             871.25               71.75               12.14           FARQUITURB
+20208940 - BARRIOS TOMASICHE CARLOS ALBERTO                   13             719.50               60.50               11.89           FARQUITURB
+20237059 - CALDERON ORTEGA GUILLERMO JORGE                    10             540.50               46.00               11.75           FARQUITURB
+20193769 - NORABUENA PRECIADO CINTHIA                         22            1176.00              102.75               11.45           FARQUITURB
+20207053 - LOZADA YINO MARTHAVALERIA                          15             796.75               71.75               11.10           FARQUITURB
+======================================================================================================================================================
+Alumno con mayor numero de creditos matriculados : NORABUENA PRECIADO CINTHIA [20193769] con 102.75 matriculados
