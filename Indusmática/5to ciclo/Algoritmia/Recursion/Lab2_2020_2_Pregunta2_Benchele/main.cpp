@@ -38,6 +38,7 @@ int sonda(int x, int y, int mov_x, int mov_y, int flag_x, int flag_y){
     int contador = 0;
     //Caso base
     if(N <= x or N <= y or x < 0 or y < 0)return 0;
+    //Analiza el punto en donde cae (0/1)
     if(not(flag_x) and not(flag_y) and mapa[x][y])contador++;
     if(not(flag_x)){ //Recorre verticalmente
         for (int i = 0; i < x; i++) contador += mapa[i][y];
