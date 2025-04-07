@@ -36,13 +36,14 @@ void movimientos(){
 
 int sonda(int x, int y, int mov_x, int mov_y, int flag_x, int flag_y){
     int contador = 0;
+    //Caso base
     if(N <= x or N <= y or x < 0 or y < 0)return 0;
     if(not(flag_x) and not(flag_y) and mapa[x][y])contador++;
-    if(not(flag_x)){
+    if(not(flag_x)){ //Recorre verticalmente
         for (int i = 0; i < x; i++) contador += mapa[i][y];
         for (int i = x + 1; i < N; i++) contador += mapa[i][y];
     }
-    if(not(flag_y)){
+    if(not(flag_y)){ //Recorre horizontalmente
         for (int i = 0; i < y; i++) contador += mapa[x][i];
         for (int i = y + 1; i < M; i++) contador += mapa[x][i];
     }
