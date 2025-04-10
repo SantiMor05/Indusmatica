@@ -1,0 +1,23 @@
+54393647  Reyes Tang Edward 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+Total a pagar: 0
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+67066631  Arca Amezquita Edric Ronald
+Libros entregados:
+       Pedido No.  Codigo    Precio
+Total a pagar: 0
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+DESPUES
+54393647  Reyes Tang Edward 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         IIM5175     IIM5175     30.23
+Total a pagar: 30.23
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+
