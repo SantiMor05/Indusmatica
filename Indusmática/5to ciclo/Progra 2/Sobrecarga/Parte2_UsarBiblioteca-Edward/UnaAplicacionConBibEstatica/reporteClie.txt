@@ -1,0 +1,731 @@
+
+54393647  Reyes Tang Edward 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         UCJ9882     UCJ9882     54.97
+         SPM4763     SPM4763     83.27
+         BSX2922     BSX2922    146.19
+         IBP7411     IBP7411     68.15
+         OWU1533     OWU1533    213.86
+Total a pagar: 566.44
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+67066631  Arca Amezquita Edric Ronald
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         JZC7527     JZC7527    147.44
+         CST1133     CST1133      31.4
+         KSX7995     KSX7995    157.98
+         DVR5984     DVR5984    145.32
+Total a pagar: 482.14
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+32231860  Cerna Hijar Jose Rolando
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         DDQ0721     DDQ0721    250.24
+         RWW7975     RWW7975    251.27
+Total a pagar: 501.51
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+14500753  Delgado Gonzales Guillermo Alfonso
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         ALH8812     ALH8812     296.1
+         JLQ6546     JLQ6546     48.76
+         OQK1590     OQK1590    100.56
+         JLQ6546     JLQ6546     48.76
+         BUC5125     BUC5125    101.02
+         PQZ1316     PQZ1316    110.29
+         ILA4795     ILA4795     66.39
+         LDL2628     LDL2628    140.97
+Total a pagar: 912.85
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+26916299  Chung Lee Alvaro 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+Total a pagar: 0
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+87804471  Diaz Antezano Magali Silvana
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         JXK3142     JXK3142    104.88
+         ZPD6557     ZPD6557    267.59
+         ELC8965     ELC8965     13.46
+         ZOY6470     ZOY6470     68.01
+         RNG2321     RNG2321    238.45
+         ICU6090     ICU6090    104.59
+         CXW5879     CXW5879     46.15
+         VPN5351     VPN5351    182.76
+         EEJ4830     EEJ4830     82.02
+Total a pagar: 1107.91
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+81462164  Fernandez Ortega Elizabeth Elizabeth
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         EZP0333     EZP0333     96.07
+         CLG5566     CLG5566     79.21
+         CMP1150     CMP1150      19.5
+         ULM8751     ULM8751    131.62
+         TBZ2657     TBZ2657     42.95
+         TOJ1764     TOJ1764    154.27
+         EBT7258     EBT7258    201.06
+         KVL6246     KVL6246    265.01
+Total a pagar: 989.69
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+37500242  Pinto Calixto Shirley 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+Total a pagar: 0
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+45834351  Santisteban Meza Rosa 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         VFZ9435     VFZ9435     96.28
+         BZY0235     BZY0235     55.75
+         TVR7016     TVR7016    196.32
+Total a pagar: 348.35
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+35030611  Cabrera Luna Shirley Isabel
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         HRT0664     HRT0664     76.33
+         ZLE2920     ZLE2920    208.38
+         BUT4998     BUT4998    246.78
+Total a pagar: 531.49
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+81082011  Shirakawa Ortega Angel 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         JXK3142     JXK3142    104.88
+         CXW5879     CXW5879     46.15
+         KBF4088     KBF4088    162.02
+         CRR5443     CRR5443      35.5
+         QRH6838     QRH6838    162.37
+         HPP3360     HPP3360     12.72
+         UQL8643     UQL8643     15.12
+         CRY6839     CRY6839     159.1
+Total a pagar: 697.86
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+92240876  Mejia Diaz Blanca Milagros
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         BTX3816     BTX3816    232.71
+         DEK2757     DEK2757     61.18
+         SMI7078     SMI7078    148.98
+         RZX8790     RZX8790    197.01
+         EWI3090     EWI3090     46.34
+         OCI8959     OCI8959    140.94
+         KWL0415     KWL0415     78.57
+         VMW6915     VMW6915    292.26
+         PPI9259     PPI9259     89.88
+         QCA9584     QCA9584    168.95
+         VSG3432     VSG3432    220.82
+         MNL3677     MNL3677    205.14
+Total a pagar: 1882.78
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+45181396  Cerna Durand Martin 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         SFZ1256     SFZ1256    154.35
+         BZY0235     BZY0235     55.75
+         XCC4070     XCC4070    111.54
+         KLO8691     KLO8691    134.66
+         UCJ9882     UCJ9882     54.97
+Total a pagar: 511.27
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+45002711  Landeo Sueldo Adolfo 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         DPZ8059     DPZ8059    159.18
+         AKU9740     AKU9740    230.59
+         KWL0415     KWL0415     78.57
+Total a pagar: 468.34
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+96056368  Raffo Chung Adria Gloria
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         GOG7446     GOG7446    230.55
+         JXK3142     JXK3142    104.88
+         HHR5161     HHR5161    232.45
+Total a pagar: 567.88
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+38724322  Inga Flores Cesar Adolfo
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         RSK1164     RSK1164     91.91
+         HGN9910     HGN9910     17.11
+         HWM4049     HWM4049    201.21
+         WCZ0845     WCZ0845       154
+         CKC4095     CKC4095      32.4
+         ZYF6683     ZYF6683    280.76
+         TMR5068     TMR5068    254.78
+Total a pagar: 1032.17
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+60740809  Lozada Yino Martha 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         XTM9385     XTM9385    155.79
+         VSG3432     VSG3432    220.82
+         CTW5846     CTW5846    213.41
+         DDU0764     DDU0764      39.2
+         PPI9259     PPI9259     89.88
+         IFL0150     IFL0150     35.64
+Total a pagar: 754.74
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+49516360  Mendoza Egusquiza Rosario 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         PQZ1316     PQZ1316    110.29
+         NBL8415     NBL8415       252
+         LQA8555     LQA8555    248.74
+         VFZ9435     VFZ9435     96.28
+         EBT7258     EBT7258    201.06
+         YKQ9278     YKQ9278     94.02
+         WCZ0845     WCZ0845       154
+Total a pagar: 1156.39
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+34460612  Morales Valverde Ines Martha
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         CRY6839     CRY6839     159.1
+         VYG3594     VYG3594    104.74
+         PQZ1316     PQZ1316    110.29
+         XCC4070     XCC4070    111.54
+         SFR1226     SFR1226    193.39
+         GUN8655     GUN8655     76.44
+         CKC4095     CKC4095      32.4
+         ZLE2920     ZLE2920    208.38
+Total a pagar: 996.28
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+11750801  Raffo Arias Surami Annie
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         KGO1734     KGO1734      47.9
+         CRY6839     CRY6839     159.1
+         HCT8192     HCT8192      99.1
+         VDL9379     VDL9379    259.55
+         WYE2119     WYE2119     90.66
+         KLV1872     KLV1872    185.25
+         GQC1814     GQC1814      1.08
+         ZQY9966     ZQY9966    235.88
+         VOI0019     VOI0019      2.32
+         MVU0233     MVU0233    192.02
+Total a pagar: 1272.86
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+85870289  Paredes Patino Christian 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         HPP3360     HPP3360     12.72
+         SFZ1256     SFZ1256    154.35
+         FWK6327     FWK6327    109.19
+Total a pagar: 276.26
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+20449598  Velasquez Huayanay Edgard Henry
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         NEW1762     NEW1762    296.53
+         WMN3648     WMN3648     61.94
+         MLC7198     MLC7198    141.87
+Total a pagar: 500.34
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+72832218  Vega Garcia Janet Rebeca
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         HWM4049     HWM4049    201.21
+         MNL3677     MNL3677    205.14
+         VMW6915     VMW6915    292.26
+         SQB7146     SQB7146     83.99
+         IMK4892     IMK4892    272.34
+         KWL0415     KWL0415     78.57
+         BDK4183     BDK4183     49.99
+         JSM8271     JSM8271      29.6
+Total a pagar: 1213.1
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+66747161  Vasquez Paz Alex Martin
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         KGO1734     KGO1734      47.9
+         EEJ4830     EEJ4830     82.02
+         WYE2119     WYE2119     90.66
+         RII8346     RII8346     69.63
+         CRR5443     CRR5443      35.5
+Total a pagar: 325.71
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+88080249  Coronel Chumpitaz Heli 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         NEO9165     NEO9165    234.34
+         PZP7176     PZP7176     15.93
+         MEH2993     MEH2993    125.36
+         MBB0685     MBB0685    221.97
+         SQB7146     SQB7146     83.99
+         NFP3266     NFP3266     29.28
+         TAB4639     TAB4639     26.91
+Total a pagar: 737.78
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+61212473  Forzani Caro Alonso 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         JGG5049     JGG5049    138.03
+Total a pagar: 138.03
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+21344013  Aquino Toro Valentina Rocio
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         PCS8992     PCS8992     80.07
+         UXZ2187     UXZ2187     114.5
+         BXE0974     BXE0974     44.79
+         JEN0751     JEN0751    146.88
+         ZQD4253     ZQD4253    113.13
+         USM9579     USM9579     121.6
+         CKR6798     CKR6798    149.43
+         IMC3155     IMC3155    182.44
+         QQQ4712     QQQ4712    249.38
+         IMK4892     IMK4892    272.34
+         PQZ1316     PQZ1316    110.29
+         VFZ9435     VFZ9435     96.28
+Total a pagar: 1681.13
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+76693511  Laura Wong Melvin Henrry
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         BUY4915     BUY4915     72.44
+         HGN9910     HGN9910     17.11
+         UDS2730     UDS2730    160.51
+Total a pagar: 250.06
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+79743481  Salas Aguero Daniel 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         EJE8138     EJE8138    294.05
+Total a pagar: 294.05
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+61039260  Cerna Pairazaman Fiorella Margot
+Libros entregados:
+       Pedido No.  Codigo    Precio
+Total a pagar: 0
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+14142586  Piscoya Bravo Cesar Bruno
+Libros entregados:
+       Pedido No.  Codigo    Precio
+Total a pagar: 0
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+36699613  Mejia De La Haza Francisco Edgar
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         SMW0186     SMW0186    144.22
+         SBU9053     SBU9053     53.71
+Total a pagar: 197.93
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+14268463  Diaz Correa Irma Virginia
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         FYV9055     FYV9055    147.76
+         VFI8064     VFI8064    254.69
+         BZY0235     BZY0235     55.75
+         PQZ1316     PQZ1316    110.29
+         IFL0150     IFL0150     35.64
+         JNC0786     JNC0786    291.57
+         IFL0150     IFL0150     35.64
+         VMW6915     VMW6915    292.26
+         EHX6253     EHX6253    266.04
+         XBC5847     XBC5847    268.13
+         ETZ8565     ETZ8565    175.68
+         BHD6079     BHD6079     86.71
+         JLQ6546     JLQ6546     48.76
+         AGQ7769     AGQ7769     99.67
+Total a pagar: 2168.59
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+33958767  Perez Farfan Richard Sandro
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         CRY6839     CRY6839     159.1
+         RZX8790     RZX8790    197.01
+         LRV5687     LRV5687      7.82
+         XIU6076     XIU6076    232.77
+         JZC7527     JZC7527    147.44
+Total a pagar: 744.14
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+86898639  Pasquel Quio Surami Janet
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         XIU2628     XIU2628     34.25
+         UEJ1235     UEJ1235    129.07
+         DEK2757     DEK2757     61.18
+         FMX8255     FMX8255    137.78
+         CJN4376     CJN4376    151.91
+Total a pagar: 514.19
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+20610190  Auris Zimic Javier Daniel
+Libros entregados:
+       Pedido No.  Codigo    Precio
+Total a pagar: 0
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+         000050  JZC7527
+
+65071478  Arroyo Gordillo Maria Heli
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         RWW7975     RWW7975    251.27
+         FYV9055     FYV9055    147.76
+         QRH6838     QRH6838    162.37
+         IPE3429     IPE3429     69.56
+         MWB2923     MWB2923    195.24
+         WOF6634     WOF6634    174.46
+         WPU8819     WPU8819     59.08
+Total a pagar: 1059.74
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+63602514  Shirakawa Miranda Madeleine 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         KPE7420     KPE7420    288.51
+         DVR5984     DVR5984    145.32
+         QKH2262     QKH2262     83.83
+Total a pagar: 517.66
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+51235238  Prado Falcon Edgar Richard
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         ZAL2738     ZAL2738     107.8
+         JZQ8143     JZQ8143     60.51
+         UXZ2187     UXZ2187     114.5
+         VFZ9435     VFZ9435     96.28
+Total a pagar: 379.09
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+37751890  Romero Palomares Gloria Tatiana
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         KWL0415     KWL0415     78.57
+         IMK4892     IMK4892    272.34
+         HGQ0131     HGQ0131     62.13
+         RLQ7170     RLQ7170    114.29
+         VMW6915     VMW6915    292.26
+         CRY6839     CRY6839     159.1
+         WGA2754     WGA2754    124.58
+         FNM6936     FNM6936    279.18
+         JBR9372     JBR9372      1.94
+         FWP8469     FWP8469       260
+         WPU8819     WPU8819     59.08
+         CKC4095     CKC4095      32.4
+         BTX3816     BTX3816    232.71
+         NEW1762     NEW1762    296.53
+         HPM0950     HPM0950    103.01
+         NBL8415     NBL8415       252
+         QVX9089     QVX9089     86.76
+         HPM0950     HPM0950    103.01
+Total a pagar: 2809.89
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+46582367  Justino Forzani Ericka Victoria
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         IIM5175     IIM5175     30.23
+         MBQ9495     MBQ9495    202.58
+         EBT7258     EBT7258    201.06
+         QYH7021     QYH7021     26.46
+Total a pagar: 460.33
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+27109544  Henriquez Espino Beatriz 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         WWT1581     WWT1581     15.88
+         OBD2849     OBD2849     76.39
+         CMP1150     CMP1150      19.5
+         HSE3213     HSE3213     72.12
+         FNM6936     FNM6936    279.18
+         ECT0289     ECT0289    223.26
+         WWT1581     WWT1581     15.88
+Total a pagar: 702.21
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+17750908  Chumpitaz Iberos Ronal 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         QBL9575     QBL9575    287.51
+         DDQ0721     DDQ0721    250.24
+         CKC4095     CKC4095      32.4
+         XJT3661     XJT3661     36.07
+         IUG2294     IUG2294     129.1
+         XIU2628     XIU2628     34.25
+         PQB0775     PQB0775    177.59
+         USE5598     USE5598    212.47
+         ZYF6683     ZYF6683    280.76
+         RYI5447     RYI5447    108.89
+Total a pagar: 1549.28
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+66152145  Hernandez Barrios Emilio 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+Total a pagar: 0
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+42302422  Maldonado Ramirez Silvana 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         WPU8819     WPU8819     59.08
+         CTW5846     CTW5846    213.41
+         YZV6954     YZV6954     61.22
+         QKH2262     QKH2262     83.83
+         TAB4639     TAB4639     26.91
+         RWW7975     RWW7975    251.27
+         ZOY6470     ZOY6470     68.01
+         KTA8754     KTA8754     37.22
+         QBL9575     QBL9575    287.51
+         WHU1288     WHU1288     55.12
+         RZX8790     RZX8790    197.01
+         JZQ8143     JZQ8143     60.51
+Total a pagar: 1401.1
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+37328103  Palomares Vera Henrry Humberto
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         EZP0333     EZP0333     96.07
+         YJI3961     YJI3961     99.35
+         MBQ9495     MBQ9495    202.58
+         JXK3142     JXK3142    104.88
+         CST1133     CST1133      31.4
+         LJD9991     LJD9991    197.87
+         OBH4691     OBH4691    101.85
+         KTA8754     KTA8754     37.22
+Total a pagar: 871.22
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+48053960  Corrales Tsukazan Irma Lourdes
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         VFZ9435     VFZ9435     96.28
+         SQB7146     SQB7146     83.99
+         YZV6954     YZV6954     61.22
+Total a pagar: 241.49
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+83265244  Wong Martel Madeleine 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         JZU0977     JZU0977    179.82
+         PQB0775     PQB0775    177.59
+         WWT1581     WWT1581     15.88
+         EJE8138     EJE8138    294.05
+         BXE0974     BXE0974     44.79
+         ALH8812     ALH8812     296.1
+         PZP7176     PZP7176     15.93
+         HVZ1228     HVZ1228    205.18
+         RSK1164     RSK1164     91.91
+         LJE6687     LJE6687    151.29
+Total a pagar: 1472.54
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+50860318  Salazar Corrales Lorena Irma
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         UDS2730     UDS2730    160.51
+Total a pagar: 160.51
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+87570336  Pairazaman Alamo Moises Miguel
+Libros entregados:
+       Pedido No.  Codigo    Precio
+Total a pagar: 0
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+47659552  Prado Vergel Carlos Julian
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         QMI4747     QMI4747    189.13
+         IUI3314     IUI3314    128.38
+         NFP3266     NFP3266     29.28
+         QRH6838     QRH6838    162.37
+         XIU6076     XIU6076    232.77
+         VFI8064     VFI8064    254.69
+         YJI3961     YJI3961     99.35
+         NBL8415     NBL8415       252
+         NGQ6935     NGQ6935    104.53
+         HPP3360     HPP3360     12.72
+         KVL6246     KVL6246    265.01
+         OCI8959     OCI8959    140.94
+Total a pagar: 1871.17
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+57431952  Castro Suarez Rolando 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         DVL7760     DVL7760     98.18
+         USE5598     USE5598    212.47
+         TBZ2657     TBZ2657     42.95
+         VSG3432     VSG3432    220.82
+         JGG5049     JGG5049    138.03
+         JZQ8143     JZQ8143     60.51
+         QHZ8547     QHZ8547    246.91
+         UCA0857     UCA0857      8.77
+         BTX3816     BTX3816    232.71
+         CRR5443     CRR5443      35.5
+         MBQ9495     MBQ9495    202.58
+         PHL4155     PHL4155    194.39
+Total a pagar: 1729.32
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+         000107  DEK2757
+
+58717040  Cabrera Canales Guillermo Edric
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         FBO8724     FBO8724    104.07
+         YZV6954     YZV6954     61.22
+         BZY0235     BZY0235     55.75
+         RNG2321     RNG2321    238.45
+Total a pagar: 459.49
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+33583840  Villa Yallico Tatiana Nancy
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         KSX7995     KSX7995    157.98
+         WPU8819     WPU8819     59.08
+         JJV7549     JJV7549    110.16
+         JBR9372     JBR9372      1.94
+         RWW7975     RWW7975    251.27
+         RLQ7170     RLQ7170    114.29
+         RSK1164     RSK1164     91.91
+Total a pagar: 786.63
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+15129661  Valverde Flores Irma Ydali
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         JSM8271     JSM8271      29.6
+         WOF6634     WOF6634    174.46
+         RAO4129     RAO4129     80.13
+         QCA9584     QCA9584    168.95
+         FMX8255     FMX8255    137.78
+Total a pagar: 590.92
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+65830353  Caro Polo Sandro 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         TOJ1764     TOJ1764    154.27
+         EDQ0577     EDQ0577     31.54
+         BZY0235     BZY0235     55.75
+         GWE4133     GWE4133    298.03
+         BDK4183     BDK4183     49.99
+         VSG3432     VSG3432    220.82
+         HPP3360     HPP3360     12.72
+         XIU2628     XIU2628     34.25
+         JSM8271     JSM8271      29.6
+         GDA4236     GDA4236    115.31
+         SMW0186     SMW0186    144.22
+Total a pagar: 1146.5
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
+
+69200503  Norabuena Preciado Cinthia 
+Libros entregados:
+       Pedido No.  Codigo    Precio
+         CPE5718     CPE5718    254.78
+         KGO1734     KGO1734      47.9
+         IUG2294     IUG2294     129.1
+         ILG7766     ILG7766    296.63
+         DVL7760     DVL7760     98.18
+         UEJ1235     UEJ1235    129.07
+         JXK3142     JXK3142    104.88
+         IIM5175     IIM5175     30.23
+         ZQY9966     ZQY9966    235.88
+         GKG6581     GKG6581    100.33
+         WYE2119     WYE2119     90.66
+         UXZ2187     UXZ2187     114.5
+Total a pagar: 1632.14
+Libros no entregados por falta de stock:
+       Pedido No.  Codigo  
