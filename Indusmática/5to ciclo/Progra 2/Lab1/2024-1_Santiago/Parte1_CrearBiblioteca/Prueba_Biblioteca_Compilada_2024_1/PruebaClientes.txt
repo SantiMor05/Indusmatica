@@ -1,0 +1,402 @@
+54393647   Reyes Tang Edward 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+      00001          TAB4639     26.91
+      00002          DTH6788      5.00
+Total a pagar: 31.91
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+67066631   Arca Amezquita Edric Ronald
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+      00003          QKH2262
+
+32231860   Cerna Hijar Jose Rolando
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+14500753   Delgado Gonzales Guillermo Alfonso
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+26916299   Chung Lee Alvaro 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+87804471   Diaz Antezano Magali Silvana
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+81462164   Fernandez Ortega Elizabeth Elizabeth
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+37500242   Pinto Calixto Shirley 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+45834351   Santisteban Meza Rosa 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+35030611   Cabrera Luna Shirley Isabel
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+81082011   Shirakawa Ortega Angel 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+92240876   Mejia Diaz Blanca Milagros
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+45181396   Cerna Durand Martin 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+45002711   Landeo Sueldo Adolfo 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+96056368   Raffo Chung Adria Gloria
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+38724322   Inga Flores Cesar Adolfo
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+60740809   Lozada Yino Martha 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+49516360   Mendoza Egusquiza Rosario 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+34460612   Morales Valverde Ines Martha
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+11750801   Raffo Arias Surami Annie
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+85870289   Paredes Patino Christian 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+20449598   Velasquez Huayanay Edgard Henry
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+72832218   Vega Garcia Janet Rebeca
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+66747161   Vasquez Paz Alex Martin
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+88080249   Coronel Chumpitaz Heli 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+61212473   Forzani Caro Alonso 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+21344013   Aquino Toro Valentina Rocio
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+76693511   Laura Wong Melvin Henrry
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+79743481   Salas Aguero Daniel 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+61039260   Cerna Pairazaman Fiorella Margot
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+14142586   Piscoya Bravo Cesar Bruno
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+36699613   Mejia De La Haza Francisco Edgar
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+14268463   Diaz Correa Irma Virginia
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+33958767   Perez Farfan Richard Sandro
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+86898639   Pasquel Quio Surami Janet
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+20610190   Auris Zimic Javier Daniel
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+65071478   Arroyo Gordillo Maria Heli
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+63602514   Shirakawa Miranda Madeleine 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+51235238   Prado Falcon Edgar Richard
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+37751890   Romero Palomares Gloria Tatiana
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+46582367   Justino Forzani Ericka Victoria
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+27109544   Henriquez Espino Beatriz 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+17750908   Chumpitaz Iberos Ronal 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+66152145   Hernandez Barrios Emilio 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+42302422   Maldonado Ramirez Silvana 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+37328103   Palomares Vera Henrry Humberto
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+48053960   Corrales Tsukazan Irma Lourdes
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+83265244   Wong Martel Madeleine 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+50860318   Salazar Corrales Lorena Irma
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+87570336   Pairazaman Alamo Moises Miguel
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+47659552   Prado Vergel Carlos Julian
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+57431952   Castro Suarez Rolando 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+58717040   Cabrera Canales Guillermo Edric
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+33583840   Villa Yallico Tatiana Nancy
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+15129661   Valverde Flores Irma Ydali
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+65830353   Caro Polo Sandro 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
+69200503   Norabuena Preciado Cinthia 
+Libros entregados: 
+     Pedido No.      Codigo      Precio
+Total a pagar: 0.00
+Libros no entregados por falta de stock
+     Pedido No.      Codigo
+
