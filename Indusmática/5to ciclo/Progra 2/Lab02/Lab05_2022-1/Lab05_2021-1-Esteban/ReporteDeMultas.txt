@@ -1,0 +1,551 @@
+================================================================================
+63736112     ZAMORA ZAVALETA RONAL MANUEL                   Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:  3950.00
+================================================================================
+45043076     VEGA VILCARA CARMELA TERESA                    Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1896.00
+                                                            Muy Grave:  1422.00
+================================================================================
+53853385     SOLIS NARVAEZ MARIA MADELEINE                  Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      2844.00
+                                                            Muy Grave:  3871.00
+================================================================================
+27185429     SOLIS CHUNG ROLANDO                            Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:     0.00
+================================================================================
+35912665     MARTINEZ CRUZ EVERT RONY                       Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:  6873.00
+================================================================================
+13219606     RODRIGUEZ MORENO BLANCA OFELIA                 Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:  1896.00
+================================================================================
+71832810     SUELDO SEDANO ADRIA                            Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:     0.00
+================================================================================
+35297848     ASTETE CHANG GUIDA                             Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       316.00
+                                                            Muy Grave:   474.00
+================================================================================
+80310768     MINAYA BERROCAL HELI                           Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       316.00
+                                                            Muy Grave:   948.00
+================================================================================
+75945248     MEJIA RODRIGUEZ INES VALENTINA                 Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       316.00
+                                                            Muy Grave:     0.00
+================================================================================
+84186239     RIVERO CORONADO HECTOR ALONSO                  Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       316.00
+                                                            Muy Grave:   948.00
+================================================================================
+68310808     CANO POLO MILAGROS ISABEL                      Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:   474.00
+================================================================================
+97849227     PRADO ESPINOZA MILAGROS                        Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:  7347.00
+================================================================================
+88854166     PINTO ROJAS JUVENAL FRANCISCO                  Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:   948.00
+================================================================================
+15029228     VALVERDE MAEIREIZO MELVIN JAIR                 Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:   948.00
+================================================================================
+60335381     DIAZ TANG ENRIQUE                              Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:     0.00
+================================================================================
+54141214     DURAND MIRANDA MIGUEL JUAN                     Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:  1422.00
+================================================================================
+79766395     FUENTES ESCALANTE PATRICIA ELIZABETH           Suma De Falta:
+                                                            Leves:       316.00
+                                                            Grave:       948.00
+                                                            Muy Grave:  3397.00
+================================================================================
+48878256     RAFFO CORONADO ROLANDO                         Suma De Falta:
+                                                            Leves:       316.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:   948.00
+================================================================================
+89314225     RIOS DURAND CARLOS EDILBERTO                   Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:  5925.00
+================================================================================
+48450395     RAMIREZ ASTETE KARINA ESTEFANIA                Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:   948.00
+================================================================================
+31107104     MOSCOSO ARIAS FIORELLA                         Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:     0.00
+================================================================================
+16477908     BACA CAMACHO MILAGROS NATALIA                  Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:   474.00
+================================================================================
+58992942     NARVAEZ CASTILLO JESUS RAFAEL                  Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:   948.00
+================================================================================
+77763722     FARFAN SALAZAR MARGOT                          Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:  2370.00
+================================================================================
+32090869     SUELDO ANTEZANO LUIS JESUS                     Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:   474.00
+================================================================================
+66849703     MERCADO CORONEL ELIA                           Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1896.00
+                                                            Muy Grave:   474.00
+================================================================================
+26522329     SANCHEZ DEL CASTILLO FIORELLA ROSARIO          Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:       948.00
+                                                            Muy Grave:     0.00
+================================================================================
+73357516     TRIGUEROS JUGO LUZ                             Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      2212.00
+                                                            Muy Grave:   474.00
+================================================================================
+48528209     ZAVALETA CORONADO FELICITA ELOISA              Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:  5925.00
+================================================================================
+69494747     MENDOZA ROMERO VIRGINIA YDALI                  Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:     0.00
+================================================================================
+47844324     VILCA LEE NESTOR HUGO                          Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:       316.00
+                                                            Muy Grave:     0.00
+================================================================================
+82870470     SEDANO RETAMOSO ELIA YOLANDA                   Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:   474.00
+================================================================================
+89941095     ARCA LARRIEGA LUCERO YLIANA                    Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:  2133.00
+================================================================================
+87495937     MORALES PASQUEL KARIN MARIBEL                  Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      2212.00
+                                                            Muy Grave:  4424.00
+================================================================================
+49927087     INGA PALOMARES ERIKA                           Suma De Falta:
+                                                            Leves:       316.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:  4424.00
+================================================================================
+50201756     ZEGARRA PENA CARMELA                           Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:   474.00
+================================================================================
+29989682     CAMACHO PAIRAZAMAN YDALI LUCERO                Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:  2370.00
+================================================================================
+64178096     VIZCARRA CARBAJAL IVAN FAUSTO                  Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:       632.00
+                                                            Muy Grave:  3081.00
+================================================================================
+69252518     GORDILLO SANCHEZ RONALD JUVENAL                Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:  2923.00
+================================================================================
+42956681     POMAJAMBO EGUSQUIZA PAUL                       Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:   948.00
+================================================================================
+68303148     PATINO BOLANOS DELICIA VIRGINIA                Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:     0.00
+================================================================================
+87282766     SUAREZ CHANG GLORIA                            Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:   948.00
+================================================================================
+73818744     FUENTES GAMARRA HUGO                           Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:       316.00
+                                                            Muy Grave:   948.00
+================================================================================
+53374153     SERRANO IBEROS FRANCISCO                       Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:  6399.00
+================================================================================
+60784914     RUIZ ZEVALLOS WALTER RONY                      Suma De Falta:
+                                                            Leves:       316.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:  2844.00
+================================================================================
+35671623     EPIQUEN YEP GUIDA VICTORIA                     Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:  3397.00
+================================================================================
+44188994     VILCARA YALLICO MAGALI                         Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:  4898.00
+================================================================================
+73972114     AVILA MARTEL JAIME MANUEL                      Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      2212.00
+                                                            Muy Grave:   948.00
+================================================================================
+99950484     CORTES CORTEZ RAUL ALEX                        Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:   948.00
+================================================================================
+28820944     RIOS ZAMORA INES                               Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:   474.00
+================================================================================
+71578206     ARROYO TOMASICHE NATALIA                       Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:  2844.00
+================================================================================
+21621497     AYALA CASTILLO ERICKA OFELIA                   Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:   711.00
+================================================================================
+30441350     RETAMOSO SALAMANCA DELIA MARITZA               Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      1896.00
+                                                            Muy Grave:  1422.00
+================================================================================
+63291514     LAU ZAVALETA YDALI ELIA                        Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:       316.00
+                                                            Muy Grave:     0.00
+================================================================================
+70414420     AVILA REYES TATIANA                            Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:       632.00
+                                                            Muy Grave:  4898.00
+================================================================================
+54447051     AVILA DEL CASTILLO ANNIE                       Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:  6399.00
+================================================================================
+51395324     TRIGUEROS PORTUGAL ARTURO FAUSTO               Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:         0.00
+                                                            Muy Grave:     0.00
+================================================================================
+32244565     HENRIQUEZ PAREDES PAUL RAFAEL                  Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      2528.00
+                                                            Muy Grave:  2370.00
+================================================================================
+79641328     TOKESHI GUEVARA JAIME                          Suma De Falta:
+                                                            Leves:       316.00
+                                                            Grave:       632.00
+                                                            Muy Grave:   474.00
+================================================================================
+34976629     LOZADA ARGUEDAS FELICITA VALENTINA             Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:  1659.00
+================================================================================
+75348522     LOZADA FORZANI DELIA                           Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:     0.00
+================================================================================
+27268323     LOZADA IBEROS HELI BLANCA                           NO TIENE MULTAS
+================================================================================
+88167677     PRADO VERA JUAN                                Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      1896.00
+                                                            Muy Grave:  2844.00
+================================================================================
+86429854     MOSCOSO LAURA JANET VALENTINA                  Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:  7347.00
+================================================================================
+67185679     FLORENCIO CORONADO ALONSO                      Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:  1896.00
+================================================================================
+80457845     NORABUENA MOYA HECTOR                          Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:   474.00
+================================================================================
+24859596     FLORIAN CUBA CHRISTIAN                         Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:  1422.00
+================================================================================
+39544560     LUNA VARGAS WALDEMAR                           Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       316.00
+                                                            Muy Grave:  7347.00
+================================================================================
+90467829     IPARRAGUIRRE PEREZ NICOLAS                     Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      2212.00
+                                                            Muy Grave:   948.00
+================================================================================
+15115705     HERNANDEZ CORRALES GUILLERMO                        NO TIENE MULTAS
+================================================================================
+73567806     ARCA SANCHEZ MAGALI BEATRIZ                    Suma De Falta:
+                                                            Leves:       316.00
+                                                            Grave:      1896.00
+                                                            Muy Grave: 10270.00
+================================================================================
+81485316     JUSTINO MARTINEZ ENRIQUE                       Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:   948.00
+================================================================================
+49428502     RIVERO CORTEZ WILVER ALFONSO                   Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:     0.00
+================================================================================
+12270502     CUEVA FUENTES CINTHIA DELIA                    Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:   948.00
+================================================================================
+29833157     HIJAR LAM MARTIN                               Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1896.00
+                                                            Muy Grave:  3871.00
+================================================================================
+38862473     WONG MAEIREIZO BEATRIZ                         Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:   948.00
+================================================================================
+12858682     ZARATE PEREZ ALEXANDER                         Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       316.00
+                                                            Muy Grave:  1896.00
+================================================================================
+86718074     ESCALANTE ROJAS INES ADRIA                     Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:  4898.00
+================================================================================
+54665716     GONZALES GAMARRA GIOVANA KARINA                Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:     0.00
+================================================================================
+36079131     ZAVALETA VILCA ERICKA ELEONOR                  Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:       316.00
+                                                            Muy Grave:   474.00
+================================================================================
+31205866     VIZCARRA MONTERO JAIR                          Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:     0.00
+================================================================================
+12443643     LEE SERRANO ROSARIO                            Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       316.00
+                                                            Muy Grave:   474.00
+================================================================================
+44346371     ALFARO ALFARO ERICK BRUNO                      Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       316.00
+                                                            Muy Grave:     0.00
+================================================================================
+25518120     RONDON CABRERA ALEXANDER ADOLFO                Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:       948.00
+                                                            Muy Grave:   474.00
+================================================================================
+15559308     BRAVO CORTES JANET FLOR                        Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1896.00
+                                                            Muy Grave:  2923.00
+================================================================================
+30046639     SALAMANCA VEGA VIRGINIA MARTHA                 Suma De Falta:
+                                                            Leves:       316.00
+                                                            Grave:      1896.00
+                                                            Muy Grave:   948.00
+================================================================================
+39244942     PENA SUAREZ GLENDA MARGOT                      Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:     0.00
+================================================================================
+81528434     EPIQUEN AVILA ENRIQUE                          Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:       632.00
+                                                            Muy Grave:  1422.00
+================================================================================
+35683701     DIAZ MOYA ELIA ANNIE                           Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       316.00
+                                                            Muy Grave:   474.00
+================================================================================
+43454884     ESPINOZA CHANG SHIRLEY                         Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:   474.00
+================================================================================
+96693273     VALDERRAMA BERROCAL EVERT                      Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      2528.00
+                                                            Muy Grave:  2449.00
+================================================================================
+64532449     INFANTES MERCADO LUIS WALDEMAR                 Suma De Falta:
+                                                            Leves:       316.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:  4424.00
+================================================================================
+77367073     JAUREGUI DEL CASTILLO VICTOR RICARDO           Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      2212.00
+                                                            Muy Grave:  3397.00
+================================================================================
+81799482     CERNA CERNA CINTHIA                            Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       316.00
+                                                            Muy Grave:     0.00
+================================================================================
+13628871     QUIROGA HERNANDEZ SILVANA ZKENIA               Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:  3950.00
+================================================================================
+79672079     CONTRERAS CHANG JOHANA CINTHIA                 Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      2212.00
+                                                            Muy Grave:   474.00
+================================================================================
+19963454     SALAMANCA CABRERA NESTOR EVERT                 Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:  2844.00
+================================================================================
+51929951     CHAVEZ BERROCAL JOHAN                               NO TIENE MULTAS
+================================================================================
+74325123     TANG MOSCOSO JOHANA                            Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:   948.00
+================================================================================
+47528229     SAAVEDRA GONZALES WILMER                       Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:   474.00
+================================================================================
+50200823     LEYVA SAM DIANA DELIA                          Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:  1422.00
+================================================================================
+37080813     FLORIAN VALDERRAMA JOSE                        Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:       948.00
+                                                            Muy Grave:   474.00
+================================================================================
+16136330     YEP PRECIADO RICHARD                           Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:   474.00
+================================================================================
+19568447     VEGA SORIA HENRRY                              Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       632.00
+                                                            Muy Grave:     0.00
+================================================================================
+82031355     EGUSQUIZA BERROCAL DORIS NANCY                 Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:      1264.00
+                                                            Muy Grave:  2449.00
+================================================================================
+52003695     CARBAJAL SALAS MAGDA ZKENIA                    Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:     0.00
+================================================================================
+34248357     LEYVA LANDEO NANCY SONIA                       Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      1896.00
+                                                            Muy Grave:  3081.00
+================================================================================
+27864822     FIGUEROA MEDINA MADELEINE                      Suma De Falta:
+                                                            Leves:       474.00
+                                                            Grave:      1580.00
+                                                            Muy Grave:     0.00
+================================================================================
+85501710     VIZCARDO SINCHE MARIBEL                        Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:       948.00
+                                                            Muy Grave:  1185.00
+================================================================================
+16925690     CABRERA TORO FANNY                             Suma De Falta:
+                                                            Leves:         0.00
+                                                            Grave:      2212.00
+                                                            Muy Grave:  1422.00
+================================================================================
+52002275     CASANOVA ZEGARRA MARITZA                       Suma De Falta:
+                                                            Leves:       158.00
+                                                            Grave:       316.00
+                                                            Muy Grave:   711.00
