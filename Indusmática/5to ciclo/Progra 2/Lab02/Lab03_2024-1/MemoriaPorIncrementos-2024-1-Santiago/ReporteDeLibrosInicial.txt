@@ -1,0 +1,271 @@
+PRUEBA LIBROS
+================================================================================
+Codigo      Nombre                                                       Stock
+--------------------------------------------------------------------------------
+IIM5175     Diamantes y pedernales                                         2
+YDK7687     El otonio del patriarca                                       60
+ZOY6470     El viejo y el mar                                             25
+ETZ8565     Confesiones de una mascara                                    27
+LQL0880     Contra el fascismo                                            34
+VFZ9435     El olor de la Edad Media                                      49
+SFZ1256     La Iliada                                                     34
+EDQ0577     Las aventuras de Pinocho                                      27
+YJI3961     Cien anios de soledad                                         45
+VPN5351     El Amante                                                     27
+PVS2464     Sapiens                                                       18
+DVL7760     Falco                                                         57
+QRH6838     Las cronicas de Narnia                                        43
+LDL2628     Harry Potter y el caliz de fuego (Harry Potter 4)              3
+SBU9053     Tierra arrasada                                               34
+ZJM1292     El suenio del celta                                           52
+CRA4157     El forastero misterioso                                       39
+RII8346     Las dos Dianas                                                23
+JBR9372     El maestro de esgrima                                         60
+NEO9165     Emperador de Roma                                             65
+TBZ2657     Olalla                                                         5
+IBP7411     Nunca                                                         40
+GPH1575     La gran aventura de los griegos                                3
+XIU2628     Cabo Trafalgar                                                21
+DDT0017     Viaje al fin de la noche                                      38
+ILG7766     Iliada                                                         7
+HGQ0131     Odisea                                                        22
+HLB4548     Frankenstein o el moderno Prometeo                            18
+SQB7146     Cronica de una muerte anunciada                               31
+VHK9148     Historia y cronologia del mundo                               63
+MVU0233     La conspiracioni                                              60
+KWL0415     1923                                                          24
+WPU8819     Tristam Shandy                                                47
+JTX5687     Veinte mil leguas de viaje submarino                          29
+HCT8192     Diario                                                        63
+OMN0252     Los hermanos Karamazov                                        42
+CKC4095     El Gran Gatsby                                                26
+JLQ6546     El retorno del Rey                                            37
+MSW8176     Todo se desmorona                                             23
+TDY0497     La chica del tren                                             40
+NBL8415     Espania con honra                                             50
+IMC3155     Los pilares de la tierra                                      35
+FWK6327     El doble                                                      24
+GQC1814     Apocalipticos e integrados                                    26
+PRD1648     Relato de un naufrago                                         10
+SBF7018     El handicap de la vida                                         2
+LVP3355     Las aventuras de Sherlock Holmes                              35
+FBO8724     El pendulo de Foucault                                        64
+WCZ0845     El cementerio de Praga                                         5
+WOF6634     El problema final                                             64
+CUV7849     Ficciones                                                     50
+VMW6915     Travesuras de la ninia mala                                   12
+MBQ9495     Tormenta de espadas                                           27
+LQA8555     Rimas y leyendas                                              14
+IMK4892     La tabla de Flandes                                           21
+QCA9584     Dr. Jekyll y Mr. Hyde                                         27
+XJT3661     Las aventuras de Tom Sawye                                    65
+THT4126     Harry Potter y las reliquias de la muerte (Harry Potter 7)    15
+PZP7176     La caida de los gigantes                                      28
+UQL8643     Dracula                                                       23
+RLQ7170     El tango de la guardia vieja                                  65
+KTA8754     Ulises                                                        22
+TOJ1764     Ensayo sobre la ceguera                                       40
+GWE4133     El gato negro y otros cuentos                                 64
+ZPD6557     El ruido y la furia                                           10
+IUG2294     El proceso                                                    17
+WGA2754     El club Dumas                                                  8
+YJE2497     Progreso del peregrino                                        65
+XCC4070     El italiano                                                   16
+OBD2849     El invierno del mundo                                         51
+UCJ9882     El reino de este mundo                                        20
+QVU3526     Vidas intrepidas                                              45
+VTY5195     Un asunto de honor                                            48
+FKK6524     Los renglones torcidos de Dios                                36
+KPE7420     Jane Eyre                                                     31
+MWB2923     Mudlarking                                                    55
+ISY5671     Harry Potter y la piedra filosofal (Harry Potter 1)           23
+NBE1339     Palmeras en la nieve                                          20
+JHP0390     El conde de Montecristo                                        5
+OWU1533     Cuatro principes                                              31
+SFR1226     Ana la de las tejas verdes                                     2
+HRT0664     Los funerales de la Mama Grande                               42
+HPP3360     El pintor de batallas                                         53
+DND9446     Lo que el viento se llevo                                     58
+LJD9991     Baudolino                                                      6
+XIU6076     Rebelion en la granja                                         40
+PWX7633     La tia Julia y el escribidor                                  40
+UXZ2187     Los 7 habitos de la gente altamente efectiva                  35
+UEJ1235     Grandes esperanzas                                            64
+DDQ0721     En busca del tiempo perdido                                   50
+HWM4049     Romper el circulo                                             61
+EWI3090     La seniora Dalloway                                           17
+JZC7527     El tambor de hojalata                                          2
+WYE2119     El asedio                                                     46
+YKQ9278     Alicia en el pais de las maravillas                           23
+ZNF2241     El extranio caso del Dr. Jekyll y Mr. Hyde                    47
+CTW5846     El medievo cristiano                                           2
+FWP8469     Justine o los infortunios                                     31
+CRY6839     Ricardo III                                                   43
+WMN3648     Pasaje a la India                                              4
+QBL9575     Los miserables                                                53
+VOI0019     El evangelio según Jesucristo                                 52
+TMR5068     Los tres mosqueteros                                          52
+RWW7975     El nombre de la rosa                                          47
+LJE6687     El codigo Da Vinci                                            34
+PPI9259     Revolucion                                                    55
+ZYF6683     Harry Potter y la Orden del Fenix ( Harry Potter 5)           27
+GKG6581     Hombres buenos                                                44
+WWT1581     La piel del tambor                                            57
+CMP1150     Don Quijote de la Mancha                                      27
+CPE5718     Paris era una fiesta                                          50
+SHF2360     Un dia de colera                                              10
+ETV5056     Moby Dick                                                     31
+USE5598     Fortaleza digitali                                            38
+TVR7016     El corazon de las tinieblas                                   32
+BSX2922     Una historia de Espania                                        1
+GXB5722     Cumbres borrascosas                                           45
+ZLE2920     Historia de la Edad Media                                     28
+MNL3677     El Hobbit                                                     41
+ZAL2738     1984                                                          34
+PQZ1316     La Eneida                                                     48
+DDU0764     Dioses tumbas y sabios                                         7
+EEJ4830     El Principito                                                 52
+DPZ8059     El hombre que pudo reinar                                     22
+JJV7549     Los hombres que no amaban a las mujeres                       21
+JXK3142     En el camino                                                  51
+USM9579     El perfume                                                    22
+JGG5049     El eterno marido                                              53
+MIK5358     La transformacion del mundo                                   30
+BDK4183     La isla del tesoro                                            30
+ECT0289     Juego de tronos                                                9
+DVR5984     Mil soles esplendidos                                         24
+EBE0042     Capitanes intrepidos                                          39
+CXW5879     Los barcos se pierden en tierra                               51
+GOG7446     El guardian entre el centeno                                  57
+QYH7021     Historia del siglo XX: 1914-1991                               2
+KCI5219     El Maestro y Margarita                                        21
+FMX8255     Las aventuras de Huckleberry Finn                             55
+ZQY9966     El suenio del tio                                             30
+DXP8640     El retrato de Dorian Gray                                     62
+LRV5687     La guerra del fin del mundo                                   64
+EBT7258     Linea de fuego                                                 5
+ELC8965     Las aventuras de Rocambole                                    38
+ULM8751     La sumisa                                                      8
+PGK5617     El Rey Lear                                                   36
+QFG6515     El libro de la selva                                          60
+QVX9089     Madame Bovary                                                 28
+QMI4747     La isla de los amores infinitos                               26
+SMW0186     La sombra del viento                                          65
+HSE3213     Por quien doblan las campanas                                 20
+RZX8790     El senior de las moscas                                       23
+XMT1768     Los diarios de Adan y Eva                                     21
+HGN9910     La ciudad y los perros                                        62
+JNC0786     Mi isla                                                       46
+HHR5161     El francotirador paciente                                     23
+FNM6936     Divina comedia                                                50
+HVZ1228     El húsar                                                      43
+MKB4184     Napoleon                                                      65
+KBF4088     Harry Potter y el prisionero de Azkaban (Harry Potter 3)      24
+ZQD4253     Harry Potter y el misterio del principe ( Harry Potter 6)     64
+PHL4155     El idiota                                                     20
+EYV0597     Cuentos de la selva                                            2
+AKU9740     Conversacion en La Catedral                                   31
+ACM9578     Amadis de gaula                                               33
+OCI8959     David Copperfield                                             65
+EJE8138     Yawar fiesta                                                  16
+WHU1288     La hija italiana                                              14
+ICU6090     La fiesta del chivo                                           14
+BUC5125     El faro de Stalingrado                                        26
+BUY4915     La sombra del aguila                                          22
+USK1312     Un mundo sin fin                                              50
+VFO4193     La catedral del mar                                           20
+OWO8918     Origen                                                        60
+YZV6954     Corazon de las tinieblas                                      30
+CLG5566     Pantaleon y las visitadoras                                    1
+IUI3314     El coronel no tiene quien le escriba                          32
+EFD3949     La divina comedia                                             26
+FVV9246     Matar a un ruisenior                                          54
+SPM4763     Eva                                                           18
+BHD6079     Zorba el griego                                               10
+RYI5447     El corazon es un cazador solitario                            14
+BUB3833     Otelo                                                         11
+EUO8195     El jardin del Eden                                            11
+KSX7995     El simbolo perdidoi                                            8
+MTZ2227     Hamlet                                                        42
+JSM8271     La Odisea                                                     53
+KVL6246     La edad media - barbaros - cristianos y musulmanes            19
+QMJ4188     Emma                                                          20
+QKH2262     Fiesta                                                        23
+HXB2949     El medico                                                     32
+OBH4691     Crimen y castigo                                              62
+IPE3429     Sidi                                                          49
+ILA4795     La ladrona de libros                                          39
+EFQ0297     Trampa 22                                                     31
+BRG4234     La telarania de Carlota                                       15
+EZP0333     La Reina del Sur                                              60
+MBB0685     El capitan Alatriste                                          25
+CST1133     Inferno                                                       10
+RNG2321     El Aleph                                                      36
+RSK1164     El amor en los tiempos del colera                             24
+WYS2674     Secuestrado                                                   54
+CRR5443     Un mundo feliz                                                29
+JEN0751     Ana Karenina                                                  51
+IGT8523     Una columna de fuego                                          20
+FYV9055     Macbeth                                                       42
+LGB2311     Decameron                                                      7
+MEH2993     Hijos de un tiempo perdido                                     5
+CJN4376     Harry Potter y la camara secreta (Harry Potter 2)              7
+ION3794     Crepúsculo                                                    46
+HDA2333     Lituma en los Andes                                           51
+CKR6798     El lobo estepario                                             49
+GDA4236     Gente normal                                                  62
+BAP2859     El túnel                                                       5
+EHX6253     La isla de las tormentas                                       7
+OUU5470     La carta esferica                                             25
+PQB0775     El diablo de la botella y otros cuentos                       29
+DEF7625     Las uvas de la ira                                            19
+UDS2730     Los Nibelungos                                                23
+DTH6788     Los perros duros no bailan                                    20
+KLV1872     Orgullo y prejuicio                                           53
+BUT4998     Lolita                                                        28
+XBC5847     Tiempos recios                                                33
+AZL1098     El extranjero                                                 65
+BZY0235     Fausto                                                        22
+QQQ4712     Nuestra Seniora de Paris                                      58
+BTX3816     El jugador                                                    54
+MLC7198     Los rios profundos                                             7
+JZU0977     El alquimista                                                 62
+AGQ7769     La Flecha Negra                                               50
+BXE0974     Los viajes de Gulliver                                        63
+UFK9792     El psicoanalista                                              39
+XRL3393     Le dedico mi silencio                                         45
+GUN8655     Angeles y demoniosi                                           52
+NGQ6935     La casa de los espiritus                                      58
+PWB4941     La montania magica                                            63
+NEW1762     Territorio comanche                                           21
+QHZ8547     Adios a las armas                                             50
+PCS8992     Y no quedo ninguno                                            31
+VFI8064     A sangre fria                                                 25
+XTM9385     El mundo                                                      64
+VDL9379     Los juegos del hambre                                         34
+IFL0150     Romeo y Julieta                                               63
+JZQ8143     Suenios de robot                                              31
+SXT1015     Mientras agonizo                                               1
+KGO1734     Una historia del mundo                                        15
+SMI7078     Los cachorros                                                 27
+RAO4129     Stalingrado                                                   18
+VYG3594     Los demonios                                                   3
+HLC2748     El senior de los anillos (Trilogia)                           30
+GJM4671     Origenes                                                      36
+VYK6352     Armas germenes y acero                                        34
+VSG3432     Bajo bandera negra                                             9
+OQK1590     Cometas en el cielo                                            4
+JXC1015     Robinson Crusoe                                               58
+TAB4639     El color que cayo del cielo                                   43
+YXF2137     En agosto nos vemos                                           35
+SIR3963     Memorias de una geisha                                        34
+ALH8812     Guerra y Paz                                                  50
+UCA0857     SPQR: una historia de la antigua Roma                         10
+KLO8691     Catedral                                                      26
+HPM0950     Fahrenheit 451                                                43
+JOF6762     Ojos azules                                                   43
+DEK2757     En llamas                                                      2
+RRE8138     Trilogia de la Fundacion                                      44
+JKE9650     La metamorfosis                                               44
+BZX4462     Culpa mia                                                     37
+NFP3266     Sabotaje                                                       4
