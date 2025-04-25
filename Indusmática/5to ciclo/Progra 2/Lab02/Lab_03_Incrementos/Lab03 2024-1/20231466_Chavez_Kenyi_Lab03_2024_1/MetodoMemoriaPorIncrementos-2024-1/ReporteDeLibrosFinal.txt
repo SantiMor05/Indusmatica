@@ -233,7 +233,7 @@ XRL3393             Le dedico mi silencio                                       
 GUN8655             Angeles y demoniosi                                         Dan Brown                                             51               0
 NGQ6935             La casa de los espiritus                                    Isabel Allende                                        57               0
 PWB4941             La montania magica                                          Thomas Mann                                           63               0
-NEW1762             Territorio comanche                                         Arturo Perez-Reverte                                  18               0
+NEW1762             Territorio comanche                                         Arturo Perez-Reverte                                  17               0
 QHZ8547             Adios a las armas                                           Hernest Hemingway                                     49               0
 PCS8992             Y no quedo ninguno                                          Agatha Christie                                       29               0
 VFI8064             A sangre fria                                               Truman Capote                                         21               0

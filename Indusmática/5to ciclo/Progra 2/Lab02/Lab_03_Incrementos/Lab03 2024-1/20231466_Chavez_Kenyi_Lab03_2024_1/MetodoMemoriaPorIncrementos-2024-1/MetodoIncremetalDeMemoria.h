@@ -53,12 +53,16 @@ void imprimirPedidos(bool *pedidosAtendidos, char **pedidosClientes,
         ofstream &archRep) ;
 
 
+void qsort(int **pedidosClientes, int izq, int der);
+
+void cambiar(int *&pedI, int *&pedJ);
+
 void pruebaDeLecturaDeLibros(const char*nombArch, char ***libros, int **stock);
 
 void atencionDePedidos(const char*nombArch, char ***libros, int **stock,
         int **&pedidosClientes, char ***&pedidosLibros, bool**&pedidosAtendidos);
 
-void ordenarPedidosClientes(int **&pedidosClientes);
+void ordenarPedidosClientes(int **pedidosClientes);
 void reporteDeEntregaDePedidos(const char*nombArch, int **pedidosClientes,
         char ***pedidosLibros, bool**pedidosAtendidos);
 

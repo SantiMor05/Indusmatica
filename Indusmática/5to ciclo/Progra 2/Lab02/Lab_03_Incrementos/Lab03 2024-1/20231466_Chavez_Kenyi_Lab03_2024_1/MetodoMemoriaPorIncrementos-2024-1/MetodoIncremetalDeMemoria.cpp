@@ -14,7 +14,7 @@
 #include <fstream>
 #include <iomanip>
 #include <cstring>
-#include <algorithm>
+
 using namespace std;
 #include "MetodoIncremetalDeMemoria.h"
 #include "AperturaDeArchivos.h"
@@ -160,7 +160,7 @@ void leerPedidos(char ***&pedidosLibros, bool **&pedidosAtendidos,
         int **stock, char ***libros) {
     char cod[8]{};
     int posL;
-    if (capLib < numPed) {
+    if (capLib <= numPed) {
         aumentarEspacioPedidos(pedidosLibros, pedidosAtendidos, capLib, numPed);
     }
     int cap = 0, nd = 0;
@@ -324,8 +324,40 @@ int buscarDni(int **pedidosClientes, int dni) {
     return NO_ENCONTRADO;
 }
 
-void ordenarPedidosClientes(int **&pedidosClientes) {
+void ordenarPedidosClientes(int **pedidosClientes) {
+    int cant = 0;
+    for (int i = 0; pedidosClientes[i]; i++)cant++;
+    qsort(pedidosClientes, 0, cant - 1);
+}
 
+void qsort(int **pedidosClientes, int izq, int der) {
+    int limite, pos;
+    if (izq >= der)return;
+    pos = (izq + der) / 2;
+    cambiar(pedidosClientes[izq], pedidosClientes[der]);
+    limite = izq;
+    int *auxPedI, *auxPedL;
+    for (int i = izq + 1; i <= der; i++) {
+        auxPedI = pedidosClientes[i];
+        auxPedL = pedidosClientes[izq];
+
+        if (auxPedI[1] > auxPedL[1] or (auxPedI[1] == auxPedL[1] and
+                auxPedI[0] > auxPedL[0])) {
+            limite++;
+            cambiar(pedidosClientes[limite], pedidosClientes[i]);
+        }
+    }
+    cambiar(pedidosClientes[limite], pedidosClientes[izq]);
+    qsort(pedidosClientes, izq, limite - 1);
+    qsort(pedidosClientes, limite + 1, der);
+}
+
+void cambiar(int *&pedI, int *&pedJ) {
+    int *auxCod;
+
+    auxCod = pedI;
+    pedI = pedJ;
+    pedJ = auxCod;
 }
 
 void reporteDeEntregaDePedidos(const char*nombArch, int **pedidosClientes,
@@ -333,19 +365,25 @@ void reporteDeEntregaDePedidos(const char*nombArch, int **pedidosClientes,
     ofstream archRep;
     AperturaDeUnArchivoDeTextosParaEscribir(archRep, nombArch);
     int cantPed;
-    archRep << setw(MAX_LINE / 2) << "Reporte de mis huevos" << endl;
+    archRep << setw(MAX_LINE / 2) << "REPORTE TOP 5" << endl;
+    archRep << setw(MAX_LINE / 2 + 3) << "ATENCION DE PEDIDOS" << endl;
     imprimirLinea(MAX_LINE, '=', archRep);
     int *auxCli;
-    for (int i = 0; pedidosClientes[i]; i++) {
+    for (int i = 0; i<5; i++) {
         auxCli = pedidosClientes[i];
         cantPed = auxCli[1];
         archRep << "CLIENTE: " << auxCli[0] << setw(40)
                 << "CANTIDAD DE PEDIDOS: " << cantPed << endl;
         imprimirLinea(MAX_LINE, '=', archRep);
         for (int j = 2; j < cantPed + 2; j++) {
-            archRep << auxCli[j] << setw(12) << " " ;
+            archRep << "Pedido No." << setw(20) << "Codigo del Libro"
+                    << setw(18) << "Observacion" << endl;
+            imprimirLinea(MAX_LINE, '-', archRep);
+            archRep << setw(6) << setfill('0') << auxCli[j] << setfill(' ')
+                    << setw(12) << " ";
             imprimirPedidos(pedidosAtendidos[auxCli[j]],
                     pedidosLibros[auxCli[j]], archRep);
+            imprimirLinea(MAX_LINE, '-', archRep);
         }
         imprimirLinea(MAX_LINE, '=', archRep);
     }
@@ -358,7 +396,7 @@ void imprimirPedidos(bool *pedidosAtendidos, char **pedidosLibros,
         return;
     }
     for (int i = 0; pedidosLibros[i]; i++) {
-        if (i != 0) archRep << setw(14) << " ";
+        if (i != 0) archRep << setw(18) << " ";
         archRep << pedidosLibros[i] << setw(12) << " ";
         if (pedidosAtendidos[i]) {
             archRep << "SE ATENDIO" << endl;
