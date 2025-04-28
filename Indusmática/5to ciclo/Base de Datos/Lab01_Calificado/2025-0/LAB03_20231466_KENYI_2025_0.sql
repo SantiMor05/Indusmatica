@@ -72,6 +72,116 @@ ADD CONSTRAINT PK_CLIENTE_ID PRIMARY KEY(CLIENTE_ID);
 
 --PREGUNTA 5:
 
+CREATE TABLE L3_EDITORIALES (
+    EDITORIAL_ID NUMBER PRIMARY KEY,
+    NOMBRE VARCHAR2(100) NOT NULL,
+    PAIS_ORIGEN VARCHAR2(50),
+    ESPECIALIDAD_TEMATICA VARCHAR2(100),
+    CONTACTO_NOMBRE VARCHAR2(100),
+    CONTACTO_EMAIL VARCHAR2(100),
+    CONTACTO_TELEFONO VARCHAR2(20)
+);
+
+drop table l3_libros;
+
+CREATE TABLE L3_CLIENTES (
+    CLIENTE_ID NUMBER PRIMARY KEY,
+    TIPO_CLIENTE_ID NUMBER,
+    NOMBRE VARCHAR2(100) NOT NULL,
+    APELLIDO VARCHAR2(100),
+    EMAIL VARCHAR2(100),
+    TELEFONO VARCHAR2(20),
+    CODIGO_PUCP VARCHAR2(20)
+);
+
+CREATE TABLE L3_PRODUCTOS (
+    PRODUCTO_ID NUMBER PRIMARY KEY,
+    CODIGO_PRODUCTO VARCHAR2(20) UNIQUE,
+    NOMBRE VARCHAR2(100) NOT NULL,
+    DESCRIPCION VARCHAR2(400),
+    CATEGORIA_ID NUMBER,
+    PRECIO_BASE NUMBER(10,2) NOT NULL,
+    STOCK_ACTUAL NUMBER DEFAULT 0,
+    STOCK_MINIMO NUMBER,
+    STOCK_SEGURIDAD NUMBER,
+    ESTADO VARCHAR2(20) DEFAULT 'ACTIVO',
+    EDITORIAL_ID NUMBER,
+    UBICACION_ALMACEN VARCHAR2(50),
+    CONSTRAINT FK_PRODUCTOS_EDITORIALES FOREIGN KEY (EDITORIAL_ID) 
+        REFERENCES L3_EDITORIALES(EDITORIAL_ID)
+);
+
+CREATE TABLE L3_LIBROS (
+    LIBRO_ID NUMBER PRIMARY KEY,
+    PRODUCTO_ID NUMBER NOT NULL,
+    ISBN VARCHAR2(13) UNIQUE,
+    ANIO_PUBLICACION NUMBER(4),
+    EDICION VARCHAR2(50),
+    IDIOMA VARCHAR2(30),
+    NUM_PAGINAS NUMBER,
+    DIMENSIONES VARCHAR2(50),
+    PESO NUMBER(6,2),
+    TIPO_ENCUADERNACION VARCHAR2(50),
+    CONSTRAINT FK_LIBROS_PRODUCTOS FOREIGN KEY (PRODUCTO_ID) 
+        REFERENCES L3_PRODUCTOS(PRODUCTO_ID)
+);
+
+-- Tabla PEDIDOS_ESPECIALES
+CREATE TABLE L3_PEDIDOS_ESPECIALES (
+    PEDIDO_ESPECIAL_ID NUMBER PRIMARY KEY,
+    CLIENTE_ID NUMBER NOT NULL,
+    FECHA_SOLICITUD DATE DEFAULT SYSDATE,
+    FECHA_ENTREGA_ESTIMADA DATE,
+    ESTADO VARCHAR2(20) DEFAULT 'PENDIENTE',
+    MONTO_ADELANTO NUMBER(10,2) DEFAULT 0,
+    OBSERVACIONES VARCHAR2(400),
+    CONSTRAINT FK_PEDIDOSESP_CLIENTES FOREIGN KEY (CLIENTE_ID) 
+        REFERENCES L3_CLIENTES(CLIENTE_ID)
+);
+
+-- Productos
+INSERT INTO l3_productos VALUES (1, 'LIB001', 'C�lculo Diferencial', 'Libro fundamental de c�lculo para ciencias e ingenier�a', 1, 150.00, 50, 10, 20, 'ACTIVO', 2, 'EST-A1-01');
+INSERT INTO l3_productos VALUES (2, 'LIB002', 'Derecho Civil', 'Manual completo de derecho civil', 1, 180.00, 0, 8, 15, 'DESCONTINUADO', 1, 'EST-A1-02');
+INSERT INTO l3_productos VALUES (3, 'LIB003', 'Introducci�n a la Psicolog�a', 'Fundamentos de psicolog�a general', 1, 130.00, 45, 10, 18, 'ACTIVO', 3, 'EST-A1-03');
+INSERT INTO l3_productos VALUES (4, 'REV001', 'Journal of Engineering Vol.1', 'Revista acad�mica de ingenier�a', 2, 45.00, 30, 5, 10, 'ACTIVO', 6, 'EST-B1-01');
+INSERT INTO l3_productos VALUES (5, 'REV002', 'Economics Review', 'Revista especializada en econom�a', 2, 55.00, 25, 5, 12, 'ACTIVO', 4, 'EST-B1-02');
+INSERT INTO l3_productos VALUES (6, 'LIB004', 'Qu�mica Org�nica', 'Texto completo de qu�mica org�nica', 1, 160.00, 35, 8, 15, 'ACTIVO', 2, 'EST-A1-04');
+INSERT INTO l3_productos VALUES (7, 'MER001', 'Polo PUCP', 'Polo institucional con logo PUCP', 4, 35.00, 100, 20, 40, 'ACTIVO', NULL, 'EST-C1-01');
+INSERT INTO l3_productos VALUES (8, 'MER002', 'Mochila PUCP', 'Mochila con logo institucional', 4, 65.00, 80, 15, 30, 'ACTIVO', NULL, 'EST-C1-02');
+INSERT INTO l3_productos VALUES (9, 'LIB005', 'Marketing Digital', 'Estrategias modernas de marketing', 1, 140.00, 40, 8, 16, 'ACTIVO', 8, 'EST-A1-05');
+INSERT INTO l3_productos VALUES (10, 'LIB006', 'Arquitectura Moderna', 'Historia y conceptos de arquitectura', 1, 170.00, 30, 6, 12, 'ACTIVO', 1, 'EST-A1-06');
+INSERT INTO l3_productos VALUES (11, 'REV003', 'Humanidades Hoy', 'Revista de estudios human�sticos', 2, 40.00, 35, 7, 14, 'ACTIVO', 1, 'EST-B1-03');
+INSERT INTO l3_productos VALUES (12, 'UTI001', 'Set de Geometr�a', 'Kit completo de instrumentos geom�tricos', 3, 25.00, 150, 30, 50, 'ACTIVO', NULL, 'EST-D1-01');
+INSERT INTO l3_productos VALUES (13, 'LIB007', 'Gesti�n de Proyectos', 'Manual de gesti�n de proyectos', 1, 145.00, 40, 8, 16, 'ACTIVO', 3, 'EST-A1-07');
+INSERT INTO l3_productos VALUES (14, 'REV004', 'Arte Contempor�neo', 'Revista especializada en arte', 2, 50.00, 30, 6, 12, 'ACTIVO', 7, 'EST-B1-04');
+INSERT INTO l3_productos VALUES (15, 'MER003', 'Taza PUCP', 'Taza cer�mica con logo institucional', 4, 20.00, 0, 25, 45, 'DESCONTINUADO', NULL, 'EST-C1-03');
+
+-- Libros (para productos tipo libro)
+INSERT INTO l3_libros VALUES (1, 1, '9780123456789', 2024, 'Primera Edici�n', 'Espa�ol', 500, '21x27cm', 0.8, 'Tapa dura');
+INSERT INTO l3_libros VALUES (2, 2, '9780987654321', 2023, 'Segunda Edici�n', 'Espa�ol', 400, '17x24cm', 0.6, 'Tapa blanda');
+INSERT INTO l3_libros VALUES (3, 3, '9781234567890', 2024, 'Tercera Edici�n', 'Espa�ol', 350, '21x27cm', 0.7, 'Tapa dura');
+INSERT INTO l3_libros VALUES (4, 6, '9789876543210', 2023, 'Primera Edici�n', 'Espa�ol', 450, '21x27cm', 0.9, 'Tapa dura');
+INSERT INTO l3_libros VALUES (5, 9, '9782345678901', 2024, 'Segunda Edici�n', 'Espa�ol', 380, '17x24cm', 0.5, 'Tapa blanda');
+INSERT INTO l3_libros VALUES (6, 10, '9788765432109', 2023, 'Primera Edici�n', 'Espa�ol', 420, '21x27cm', 0.8, 'Tapa dura');
+INSERT INTO l3_libros VALUES (7, 13, '9783456789012', 2024, 'Primera Edici�n', 'Espa�ol', 300, '17x24cm', 0.4, 'Tapa blanda');
+
+-- Editoriales
+INSERT INTO l3_editoriales VALUES (1, 'Fondo Editorial PUCP', 'Per�', 'Multidisciplinario', 'Juan P�rez', 'jperez@pucp.edu.pe', '999888777');
+INSERT INTO l3_editoriales VALUES (2, 'McGraw-Hill', 'Estados Unidos', 'Ingenier�a y Ciencias', 'Mar�a Garc�a', 'mgarcia@mcgraw.com', '998877665');
+INSERT INTO l3_editoriales VALUES (3, 'Pearson', 'Reino Unido', 'Educaci�n Superior', 'Carlos L�pez', 'clopez@pearson.com', '997766554');
+INSERT INTO l3_editoriales VALUES (4, 'Oxford University Press', 'Reino Unido', 'Humanidades', 'Ana Smith', 'asmith@oxford.com', '996655443');
+INSERT INTO l3_editoriales VALUES (5, 'Cambridge University Press', 'Reino Unido', 'Acad�mico General', 'John Doe', 'jdoe@cambridge.com', '995544332');
+INSERT INTO l3_editoriales VALUES (6, 'Springer', 'Alemania', 'Ciencias e Ingenier�a', 'Hans Mueller', 'hmueller@springer.com', '994433221');
+INSERT INTO l3_editoriales VALUES (7, 'Planeta', 'Espa�a', 'Literatura General', 'Carmen Rivas', 'crivas@planeta.com', '993322110');
+INSERT INTO l3_editoriales VALUES (8, 'Cengage Learning', 'Estados Unidos', 'Educaci�n Superior', 'Peter Smith', 'psmith@cengage.com', '992211009');
+INSERT INTO l3_editoriales VALUES (9, 'Wiley', 'Estados Unidos', 'Ciencias y Tecnolog�a', 'Robert Johnson', 'rjohnson@wiley.com', '991100998');
+INSERT INTO l3_editoriales VALUES (10, 'Santillana', 'Espa�a', 'Educaci�n General', 'Miguel S�nchez', 'msanchez@santillana.com', '990099887');
+INSERT INTO l3_editoriales VALUES (11, 'Elsevier', 'Pa�ses Bajos', 'Ciencias y Medicina', 'Lisa Brown', 'lbrown@elsevier.com', '989988776');
+INSERT INTO l3_editoriales VALUES (12, 'Thomson Reuters', 'Canad�', 'Derecho y Negocios', 'David Wilson', 'dwilson@thomson.com', '988877665');
+
+commit;
+
+
 SELECT 
     l3_productos.CODIGO_PRODUCTO,
     l3_productos.NOMBRE AS "NOMBRE_LIBRO",
@@ -82,33 +192,56 @@ SELECT
 FROM 
     L3_PRODUCTOS
 JOIN 
-    L3_LIBROS l ON L3_PRODUCTOS.PRODUCTO_ID = L3_LIBROS.PRODUCTO_ID
+    L3_LIBROS  ON L3_PRODUCTOS.PRODUCTO_ID = L3_LIBROS.PRODUCTO_ID
 JOIN 
-    L3_EDITORIALES e ON L3_PRODUCTOS.EDITORIAL_ID = L3_EDITORIALES.EDITORIAL_ID
+    L3_EDITORIALES  ON L3_PRODUCTOS.EDITORIAL_ID = L3_EDITORIALES.EDITORIAL_ID
 WHERE 
     L3_PRODUCTOS.PRECIO_BASE > 100
     AND L3_PRODUCTOS.ESTADO = 'ACTIVO'
-    AND EXISTS (
-        SELECT 1 
+    AND L3_PRODUCTOS.PRODUCTO_ID IN (
+        SELECT PRODUCTO_ID 
         FROM L3_LIBROS 
-        WHERE PRODUCTO_ID = L3_PRODUCTOS.PRODUCTO_ID
     )
 ORDER BY 
     L3_PRODUCTOS.NOMBRE ASC;
     
+
+    
+-- Clientes
+INSERT INTO l3_clientes VALUES (1, 1, 'Ana', 'Torres', 'atorres@pucp.edu.pe', '999111222', '20240101');
+INSERT INTO l3_clientes VALUES (2, 2, 'Jorge', 'Ram�rez', 'jramirez@pucp.edu.pe', '999222333', 'D0012345');
+INSERT INTO l3_clientes VALUES (3, 3, 'Mar�a', 'L�pez', 'mlopez@pucp.edu.pe', '999333444', 'A0023456');
+INSERT INTO l3_clientes VALUES (4, 4, 'Carlos', 'Garc�a', 'cgarcia@gmail.com', '999444555', NULL);
+INSERT INTO l3_clientes VALUES (5, 1, 'Laura', 'Mendoza', 'lmendoza@pucp.edu.pe', '999555666', '20240102');
+INSERT INTO l3_clientes VALUES (6, 2, 'Pedro', 'D�az', 'pdiaz@pucp.edu.pe', '999666777', 'D0034567');
+INSERT INTO l3_clientes VALUES (7, 5, 'Rosa', 'Vargas', 'rvargas@gmail.com', '999777888', 'E0045678');
+INSERT INTO l3_clientes VALUES (8, 1, 'Juan', 'Castro', 'jcastro@pucp.edu.pe', '999888999', '20240103');
+INSERT INTO l3_clientes VALUES (9, 6, 'Luis', 'Flores', 'lflores@pucp.edu.pe', '999999000', 'I0056789');
+INSERT INTO l3_clientes VALUES (10, 7, 'Carmen', 'Ruiz', 'cruiz@pucp.edu.pe', '999000111', 'B0067890');
+
+-- Pedidos Especiales
+INSERT INTO l3_pedidos_especiales VALUES (1, 1, TO_DATE('2024-01-15', 'YYYY-MM-DD'), TO_DATE('2024-02-15', 'YYYY-MM-DD'), 'EN_PROCESO', 200.00, 'Libro importado no disponible en cat�logo');
+INSERT INTO l3_pedidos_especiales VALUES (2, 2, TO_DATE('2024-01-16', 'YYYY-MM-DD'), TO_DATE('2024-02-01', 'YYYY-MM-DD'), 'LISTO', 300.00, 'Pedido de libros para curso completo');
+INSERT INTO l3_pedidos_especiales VALUES (3, 3, TO_DATE('2024-01-17', 'YYYY-MM-DD'), TO_DATE('2024-03-01', 'YYYY-MM-DD'), 'SOLICITADO', 150.00, 'Edici�n especial de libro de derecho');
+INSERT INTO l3_pedidos_especiales VALUES (4, 4, TO_DATE('2024-01-18', 'YYYY-MM-DD'), TO_DATE('2024-02-20', 'YYYY-MM-DD'), 'EN_PROCESO', 250.00, 'Compra al por mayor para biblioteca personal');
+INSERT INTO l3_pedidos_especiales VALUES (5, 5, TO_DATE('2024-01-19', 'YYYY-MM-DD'), TO_DATE('2024-02-10', 'YYYY-MM-DD'), 'LISTO', 180.00, 'Libro especializado de arquitectura');
+INSERT INTO l3_pedidos_especiales VALUES (6, 6, TO_DATE('2024-01-20', 'YYYY-MM-DD'), TO_DATE('2024-03-15', 'YYYY-MM-DD'), 'SOLICITADO', 400.00, 'Colecci�n completa de revista cient�fica');
+INSERT INTO l3_pedidos_especiales VALUES (7, 7, TO_DATE('2025-01-21', 'YYYY-MM-DD'), TO_DATE('2025-02-28', 'YYYY-MM-DD'), 'EN_PROCESO', 220.00, 'Libros de edici�n limitada');
+INSERT INTO l3_pedidos_especiales VALUES (8, 8, TO_DATE('2025-01-22', 'YYYY-MM-DD'), TO_DATE('2025-02-25', 'YYYY-MM-DD'), 'LISTO', 280.00, 'Material complementario de curso');
+    
 SELECT 
-    L3_PEDIDO_ESPECIALES.PEDIDO_ESPECIAL_ID ,
-    L3_PEDIDO_ESPECIALES.FECHA_SOLICITUD,
-    L3_PEDIDO_ESPECIALES.ESTADO,
+    L3_PEDIDOS_ESPECIALES.PEDIDO_ESPECIAL_ID ,
+    L3_PEDIDOS_ESPECIALES.FECHA_SOLICITUD,
+    L3_PEDIDOS_ESPECIALES.ESTADO,
     L3_CLIENTES.NOMBRE || ' ' || L3_CLIENTES.APELLIDO AS "NOMBRE_COMPLETO",
     L3_CLIENTES.EMAIL,
     L3_CLIENTES.TELEFONO
 FROM 
     L3_PEDIDOS_ESPECIALES
 JOIN 
-    L3_CLIENTES c ON L3_PEDIDO_ESPECIALES.CLIENTE_ID = L3_CLIENTES.CLIENTE_ID
+    L3_CLIENTES  ON L3_PEDIDOS_ESPECIALES.CLIENTE_ID = L3_CLIENTES.CLIENTE_ID
 WHERE 
-    TO_CHAR(L3_PEDIDO_ESPECIALES.FECHA_SOLICITUD, 'YYYY') = '2024'
-    AND L3_PEDIDO_ESPECIALES.MONTO_ADELANTO > 200
+    TO_CHAR(L3_PEDIDOS_ESPECIALES.FECHA_SOLICITUD, 'YYYY') = '2024'
+    AND L3_PEDIDOS_ESPECIALES.MONTO_ADELANTO > 200
 ORDER BY 
-    L3_PEDIDO_ESPECIALES.FECHA_SOLICITUD ASC;
+    L3_PEDIDOS_ESPECIALES.FECHA_SOLICITUD ASC;
