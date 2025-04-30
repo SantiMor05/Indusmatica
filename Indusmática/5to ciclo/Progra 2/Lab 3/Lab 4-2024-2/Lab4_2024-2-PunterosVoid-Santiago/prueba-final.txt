@@ -1,0 +1,21 @@
+CODIGO    NOMBRE                                            CANT. D     CANT. R     U. MEDIDA 
+I001      Café Arábica                                           50.00       10.60        kg
+I002      Café Robusta                                            30.00        7.76        kg
+I003      Leche Entera                                             20.00       60.60        kg
+I004      Leche Descremada                                         15.00       17.25        kg
+I005      Leche de Almendra                                        10.00       13.50        kg
+I006      Chocolate en Polvo                                       25.00       10.30        kg
+I007      Canela Molida                                             5.00        0.08        kg
+I008      Vainilla Líquida                                         3.00        0.26        kg
+I009      Azúcar Morena                                           40.00        0.00        kg
+I010      Azúcar Blanca                                           45.00        0.00        kg
+I011      Miel de Abeja                                             8.00        1.25        kg
+I012      Té Verde                                                12.00        0.75        kg
+I013      Té Negro                                                10.00        0.80        kg
+I014      Té Rooibos                                               8.00        0.28        kg
+I015      Té de Manzanilla                                         6.00        0.18        kg
+I016      Jengibre Fresco                                           4.00        0.90        kg
+I017      Cardamomo                                                 2.00        0.00        kg
+I018      Nuez Moscada                                              1.00        0.06        kg
+I019      Clavo de Olor                                             1.00        0.00        kg
+I020      Lavanda Seca                                              1.00        0.10        kg

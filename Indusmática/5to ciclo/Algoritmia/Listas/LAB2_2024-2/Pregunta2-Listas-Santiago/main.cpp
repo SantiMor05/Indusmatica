@@ -58,26 +58,45 @@ void pasarAListas(Lista &lista, Lista *listas, int opcion){
     
     Pedido pedido;
     int tiempo, pos;
+    struct Nodo *aux, *ini;
     while(!esListaVacia(lista)){
-        pedido = retornaCabeza(lista);
-        eliminaCabeza(lista);
-        tiempo = pedido.tiempoEstimadoViaje + pedido.tiempoPreparacion;
+        //pedido = retornaCabeza(lista);
+        tiempo = lista.cabeza->pedido.tiempoEstimadoViaje + 
+                lista.cabeza->pedido.tiempoPreparacion;
         if(opcion == 1)
             pos = tiempo % 10;
         else
             pos = tiempo / 10;
-        insertarAlFinal(listas[pos], pedido);
+        
+        aux = obtenerUltimoNodo(listas[pos]);
+        if(aux == nullptr){
+            listas[pos].cabeza = lista.cabeza;
+            lista.cabeza = lista.cabeza->siguiente;
+            listas[pos].cabeza->siguiente = nullptr;
+        }
+            
+        else{
+            aux->siguiente = lista.cabeza;
+            lista.cabeza = lista.cabeza->siguiente;
+            aux->siguiente->siguiente = nullptr;
+        }
     }
-    
+    aux = nullptr;
     for(int i = 0; i < 10; i++){
-        while(!esListaVacia(listas[i])){
-            pedido = retornaCabeza(listas[i]);
-            eliminaCabeza(listas[i]);
-            insertarAlFinal(lista, pedido);
+        if(!esListaVacia(listas[i])){
+            if(aux == nullptr){
+                ini = listas[i].cabeza;
+                aux = listas[i].cabeza;
+            }
+                
+            else
+                aux->siguiente = listas[i].cabeza;
+            aux = obtenerUltimoNodo(listas[i]);
+            listas[i].cabeza = nullptr;
         }
     }
      
-    
+    lista.cabeza = ini;
 }
 void ordenarLista(Lista &lista){
     
