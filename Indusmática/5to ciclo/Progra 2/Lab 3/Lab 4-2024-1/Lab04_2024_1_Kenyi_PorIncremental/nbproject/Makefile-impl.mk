@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Lab04_2024_1_Kenyi
+PROJECTNAME=Lab04_2024_1_Kenyi_PorIncremental
 
 # Active Configuration
 DEFAULTCONF=Debug

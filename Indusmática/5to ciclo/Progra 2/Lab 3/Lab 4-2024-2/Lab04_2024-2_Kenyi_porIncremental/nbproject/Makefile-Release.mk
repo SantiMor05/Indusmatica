@@ -57,11 +57,11 @@ LDLIBSOPTIONS=
 
 # Build Targets
 .build-conf: ${BUILD_SUBPROJECTS}
-	"${MAKE}"  -f nbproject/Makefile-${CND_CONF}.mk ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/lab04_2024-2_kenyi.exe
+	"${MAKE}"  -f nbproject/Makefile-${CND_CONF}.mk ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/lab04_2024-2_kenyi_porincremental.exe
 
-${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/lab04_2024-2_kenyi.exe: ${OBJECTFILES}
+${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/lab04_2024-2_kenyi_porincremental.exe: ${OBJECTFILES}
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
-	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/lab04_2024-2_kenyi ${OBJECTFILES} ${LDLIBSOPTIONS}
+	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/lab04_2024-2_kenyi_porincremental ${OBJECTFILES} ${LDLIBSOPTIONS}
 
 ${OBJECTDIR}/FuncionesAux.o: FuncionesAux.cpp
 	${MKDIR} -p ${OBJECTDIR}

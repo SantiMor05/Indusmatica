@@ -141,6 +141,7 @@ void cargareservar(void *clientes, void *&reserva) {
         cod = leerExato(archPed, 8, '\n');
         posC = buscarClientes(dni, regCli);
         posR = buscarReserva(cod, regRes);
+        delete cod;
         if(posC!=NO_ENCONTRADO,posR!=NO_ENCONTRADO){
             colocarCliente(regRes[posR],regCli[posC],cantCliEnRes[posR]);
         }

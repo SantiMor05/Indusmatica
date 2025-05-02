@@ -206,6 +206,8 @@ void actualizarMenu(const char*nombArch, void *inventario, void *&menu) {
             verificarDisponible(regInv[posI], regMen[posM],
                     cantidad, uni, ndIns[posM], cpIns[posM]);
         }
+        delete codInv;
+        delete codBeb;
     }
 }
 
