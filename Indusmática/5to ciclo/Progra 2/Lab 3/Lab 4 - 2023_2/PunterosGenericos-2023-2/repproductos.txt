@@ -1,0 +1,167 @@
+760498498           Campana Extractora modelo Glass                                                 375.09    S         
+759518035           Refrigeradora  CoolStyle 311N Steel                                             3243.58   S         
+760630606           Lavadora Automatica                                                             3272.48   S         
+759516237           Cocina a gas Ingenious                                                          2779.41   S         
+759912793           Refrigeradora Door in Door                                                      4079.44   S         
+759846481           Horno Microondas 0.7 p3                                                         1352.76   S         
+760633942           Refrigeradora Top Mount                                                         1784.27   S         
+759383624           Televisor Serie LED R555A                                                       3736.75   S         
+760043073           Cocina a gas Toscana                                                            2831.23   S         
+760304985           Refrigeradora  CoolStyle 395N Steel                                             1979.07   S         
+759843910           Parlantes portatiles SOUNDSHOOTER                                               3703.37   S         
+760894789           Impresora Mutifuncional Led Color                                               3623.88   N         
+760369235           Dispensador de Agua                                                             404.35    S         
+759974999           Cocina Electronica Convencion                                                   1525.04   S         
+759256917           Autoradio MEX BT3150U                                                           1191.39   S         
+760500057           Deshumedecedor DM-190H                                                          941.73    S         
+760369998           Cocina a gas Blogna                                                             2591.44   S         
+759450195           Refrigeradora  CoolStyle 281A Steel                                             3387.75   S         
+759907138           Tablets 10.1                                                                    1872.53   N         
+759578970           Tablet Cardle                                                                   816.43    N         
+759775823           Terma Milenium                                                                  2960.56   S         
+760827475           Cocina a gas Praga Quarzo                                                       3297.09   S         
+760894275           Video Filmadora                                                                 1713.57   S         
+759844180           Lavadora EcoBubble                                                              2400.79   S         
+759583821           Impresora Monocromatica WorkForce M205                                          971.59    S         
+759844162           Refrigeradora Side by Side                                                      936.32    S         
+759388493           Cocina a gas Leganza INOX                                                       1506.80   S         
+760103750           Televisor Plasma 60                                                             4121.05   S         
+759320143           Reproductor BLU-RAY 3D                                                          653.67    S         
+760436822           Mouse Blue Tooth                                                                60.11     N         
+759385159           Video Proyector Power Lite 95                                                   552.24    S         
+760500303           Mini componente GPX88                                                           1367.48   S         
+759449168           Refrigeradora cap. 415 litros                                                   2776.02   S         
+760824395           Home Theater E4100                                                              1101.08   S         
+760303947           Impresora Laser EPSON                                                           1139.56   N         
+760042318           Cocina a gas FFG3053SL                                                          936.81    S         
+760759113           Cocina a gas Roma                                                               1221.02   S         
+760366156           Mini componente ESX9                                                            2701.87   S         
+759646800           Impresora Mutifuncional Inalambricar                                            1067.80   N         
+759321417           Camara fotografica 16MP                                                         2976.43   S         
+760366165           Refrigeradora ECOTT 423 IXL                                                     861.70    S         
+759710034           Cocina a gas Pro 6550 INOX                                                      157.01    S         
+760300618           Lavadora Modelo Aquamatic                                                       1572.31   S         
+760762448           Aire acondicionado tipo split                                                   2873.42   S         
+759650904           Secadora Electrica FAQE7001LW                                                   704.27    S         
+759777878           Horno Empotrable Electrico                                                      1102.67   S         
+760693578           Conservadora Exibidora CMVE-250                                                 2064.97   S         
+760435791           Galaxy Note 8.0                                                                 2653.10   N         
+760108117           Autoradio XAV-601 BT                                                            562.51    S         
+760830548           Terma a gas                                                                     2341.01   S         
+760043604           Televisor LED FULL HD 3D                                                        1092.95   S         
+760759361           Refrigeradora cap. 220 litros                                                   1239.38   S         
+759386705           Camara de video EOS                                                             1806.66   S         
+759450201           Cocina a gas Florencia                                                          1028.43   S         
+759318593           Reproductor DVD Portatil TV 7                                                   685.50    S         
+759254349           Congeladora Horizontal 252 Lts.                                                 1780.30   S         
+759972694           Cocina a gas Rubi 2                                                             699.07    S         
+759383114           Puntero Laser                                                                   30.48     N         
+759453770           Terma Evolucion Soltu                                                           586.02    S         
+759255371           Cocina Empotrable Glassy Plus                                                   2907.92   S         
+759452504           Refrigeradora No frost                                                          2259.93   S         
+760568153           Reproductor DVD Portatil                                                        767.82    S         
+760108613           Cocina a gas FFG3011LB                                                          2672.30   S         
+759913036           Cocina a gas Kristel                                                            2850.91   S         
+760435009           Teclado Inalambrico USB                                                         233.05    N         
+760502081           Galaxy Gear                                                                     3409.22   N         
+759515715           Mini componente GPX33                                                           3643.39   S         
+760239947           Televisor UHD TV                                                                1625.30   S         
+760631108           Impresora Laser Mutifuncion Monocromatica                                       1203.14   N         
+759513682           Televisor SMART TV                                                              3303.07   S         
+760169291           Ventilador de pared                                                             679.60    S         
+760173387           Secadora Modelo Italica                                                         914.17    S         
+760040276           Cocina a gas Marsella                                                           402.24    S         
+760567121           Lavavajilla Blue Touch                                                          2545.54   S         
+760369750           Rack Giratorio 32/60                                                            241.71    S         
+760037715           Cocina a gas FFG3047SL                                                          2275.18   S         
+760565081           Cocina a gas Plermo Quarzo                                                      3232.10   S         
+759452499           Refrigeradora Linea Gallery                                                     567.71    S         
+759842372           Cocina a gas Prestige 60 INOX                                                   3342.77   S         
+760437314           Cocina a gas Trento                                                             3087.87   S         
+760435265           Audifonos Stereos                                                               327.62    N         
+760302163           Reproductor Multimedia Touch Screen                                             1719.56   N         
+760629845           Cocina a gas Fassina Plus                                                       2423.26   S         
+759911505           Congeladora Conservador Vertical 476 Lts.                                       2682.73   S         
+760828229           Radio AM/FM stereo RMU-51C                                                      301.73    S         
+759779663           Cocina Empotrable Premio Plus                                                   906.16    S         
+759714895           Lavadora Semi-Automatica                                                        531.04    S         
+759518296           Rack Fijo 32/60                                                                 261.01    S         
+759256666           Refrigeradora 322 litros                                                        2903.13   S         
+760103746           Cocina a gas Bahia Can                                                          4015.92   S         
+759714128           Rack Giratorio 26/32                                                            94.45     S         
+760895820           Impresore Mutifuncional Expression XP-211                                       3510.84   N         
+759585094           Proyector a color                                                               1160.46   N         
+759844943           Secadora de Ropa                                                                2765.64   S         
+760106563           Congeladora Side by Side                                                        2296.29   S         
+760760907           Ventilador de techo                                                             613.19    S         
+759383626           DVD DVM-L79                                                                     307.67    S         
+760695365           Campana Extractora                                                              359.70    S         
+759775813           Cocina a gas Fridare                                                            2287.57   S         
+759645510           Sillon masajeador                                                               1695.70   S         
+760890713           Lavadora WA                                                                     1320.03   S         
+759650389           Terma de acumulacion                                                            934.91    S         
+759322182           Cocina a gas Essenza BL                                                         2953.07   S         
+760497234           Horno Microondas con dorador                                                    904.95    S         
+759453506           Cocina Empotrable Klimatica                                                     1086.34   S         
+760106324           Secadora de mano                                                                310.65    S         
+759912538           Cocina Empotrable Electrica                                                     3679.43   S         
+760301892           Horno Microondas de Conveccion Cello                                            390.80    S         
+760173634           Friobar                                                                         863.19    S         
+759580228           Grabadora de voz digital portátil con USB integrado                             259.25    S         
+760432207           Parlantes Bluetooth                                                             805.22    S         
+759454297           Mini componente ESX8                                                            1582.29   S         
+760697935           Cava de Vinos GE cap. 34 botellas                                               1119.18   S         
+759451477           Mini componente ESX6                                                            828.94    S         
+760169545           Laptop GamerVictus de 15.6                                                      3935.17   N         
+759448662           Deshumedecedor  FAD30D7TSSW 3.4L 25-30m2                                        1095.67   S         
+760632406           Extractor de aire                                                               854.48    S         
+760371800           Lavadora-Secadora FWD                                                           2390.58   S         
+760106820           Secadora de Cabello SG-3035                                                     360.69    S         
+760829000           Refrigeradora GM-S604ULV                                                        1173.33   S         
+759650124           Cocina a gas Murano                                                             1101.47   S         
+760305994           Horno Microondas 1.2 p3                                                         267.15    S         
+759322433           Deshumedecedor DM-189H                                                          800.37    S         
+760629081           Impresora Led Color                                                             2517.66   N         
+760368200           Parlantes inalambricos                                                          439.47    S         
+760369485           Reloj Digital RMM-29                                                            271.66    S         
+759448135           Refrigeradora Puertas Mágicas                                                   2700.95   S         
+760628548           Parlantes portatiles SHOQBOX                                                    2698.74   S         
+760240207           Televisor OLED 4K UHD Google TV Smart 77 XR-77A80L LA8                          16504.47  S         
+760305222           Cocina a gas Pro 6300 INOX                                                      1060.68   S         
+760104260           Rack Fijo 26/32                                                                 562.46    S         
+760566339           Lavavajilla                                                                     2655.78   S         
+759518034           Radio CD/DVD - TV                                                               4037.51   S         
+759452226           Centro de Lavado Electrico                                                      2579.72   S         
+760039747           Cocina Empotrable Petra                                                         2544.64   S         
+760303171           Congeladora Horizontal 364 Lts.                                                 3689.62   S         
+760366673           Cocina a gas Bavaro                                                             1607.46   S         
+759585108           Videojuego TW 4                                                                 794.14    N         
+760436310           Tablets MW 0731                                                                 2599.72   N         
+760830018           Cocina Empotrable Klimatica                                                     2716.11   S         
+759647047           Horno Microondas MS2042D                                                        1674.24   S         
+760759125           Galaxy Tab 3                                                                    3290.93   N         
+759454295           Refrigeradora ECOTT 465 IX                                                      1213.79   S         
+759973441           Vinera                                                                          1664.97   S         
+760105546           Lavadora Tecnologia Wobbie                                                      1979.92   S         
+759252043           Cocina a gas Ijasmin                                                            1424.46   S         
+760895056           Ventilador circular                                                             309.77    S         
+760566601           Audifonos                                                                       619.89    N         
+760108879           Olla arrocera                                                                   220.82    S         
+760038984           Horno Electrico                                                                 726.91    S         
+759841351           Radio CD                                                                        314.20    S         
+759648582           Rapiducha Premiun                                                               2784.31   S         
+759448152           Cocina a gas Fassina                                                            1444.90   S         
+759974225           Mini componente Shake-5                                                         2990.55   S         
+759584602           Impresora Led                                                                   2731.61   S         
+759384145           Terma Solucion                                                                  1907.23   S         
+759581784           Centro de Lavado a Gas                                                          2371.95   S         
+759254872           Congeladora Vertical 392 Lts.                                                   2708.07   S         
+760695878           Radio Reloj Despertador                                                         819.04    S         
+760759642           Tablet Xperia Z                                                                 3843.75   N         
+760171089           Televisor LED FULL HD                                                           2704.14   S         
+759584839           Televisor Ultra HDTV                                                            1110.16   S         
+760235601           Calentador electrico instantaneo                                                180.65    S         
+759649604           Cocina a gas FFG3047SL                                                          1597.96   S         
+759777609           Campana Extractora Venus Plus                                                   1077.65   S         
+759646281           Parlant Y pedestal PAM-83                                                       317.70    S         
+759320913           Refrigeradora 484 litros                                                        1452.92   S         
