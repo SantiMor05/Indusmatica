@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 //    muestralista(lista, imprimenumeros, "repnum.txt");
     
     crealista(lista, leeregistros, "Repartidores.csv");
-    cargalista(lista, compruebaregistros, leeregistros, "Ordenes.csv");
+    cargalista(lista, compruebaregistros, leeOrdenes, "Ordenes.csv");
     muestralista(lista, imprimeRegistro, "repregistros.txt");
     
     return 0;
