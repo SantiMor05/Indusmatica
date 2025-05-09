@@ -46,7 +46,6 @@ void *quitaPrimerNodo(void *lst){ //No se usa xd
 }
 
 void *obtenerCola(void *lst){
-    //11:27 pm
     void **lista = (void **)lst;
     void **rec = (void **)lista[CAB];
     void **ant = nullptr;
