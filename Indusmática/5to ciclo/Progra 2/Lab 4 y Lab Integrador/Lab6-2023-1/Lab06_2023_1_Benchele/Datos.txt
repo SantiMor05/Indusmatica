@@ -1,0 +1,20 @@
+467, Lucía Hernández, profesor, B, 1300.25
+358, Alberto Ruiz, profesor, A, 1450.50
+102, Beatriz González, profesor, C, 1125.75
+239, Sergio Martín, profesor, B, 1220.80
+561, Marta López, profesor, A, 1550.00
+438, Roberto Díaz, profesor, C, 1050.65
+923, Elena Sánchez, profesor, A, 1600.10
+304, Juan Carlos Pérez, profesor, B, 1180.30
+812, Pilar Fernández, profesor, A, 1485.00
+721, Óscar García, profesor, C, 1020.55
+906, Ana María López, profesor, B, 1265.90
+540, Julio Ruiz, profesor, A, 1530.70
+612, Clara Martínez, profesor, C, 1105.45
+834, David Sánchez, profesor, A, 1400.25
+485, Rosa Pérez, profesor, B, 1210.60
+726, Pablo Gómez, profesor, A, 1505.80
+153, Iván Torres, profesor, C, 1090.35
+408, Carmen Ramírez, profesor, B, 1285.10
+673, Laura Vázquez, profesor, A, 1455.00
+957, Francisco García, profesor, C, 1155.40
