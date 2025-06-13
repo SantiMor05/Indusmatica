@@ -1,0 +1,543 @@
+                               REPORTE DE COMANDAS
+================================================================================
+ID: 738 Hora de atencion: 11:40 Hora de servicio: 12:43
+================================================================================
+Bebidas: 
+      Agua Mineral                                    2.50  mediano             
+      Jugo de Naranja                                 4.00  grande              
+Platos: 
+      Pollo a la Brasa                               15.00 Pollo, Pescado, 
+      Hamburguesa                                     8.50 
+      Strogonoff                                     25.75 Pollo, Carne, Lácteos. 
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+================================================================================
+ID: 936 Hora de atencion: 08:32 Hora de servicio: 09:13
+================================================================================
+Bebidas: 
+      Coca-Cola                                       3.50  pequeno             
+Platos: 
+      Lomo Saltado                                   12.00 Carne, Pescado, Lácteos. 
+      Pollo a la Brasa                               15.00 Lácteos. 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 972 Hora de atencion: 23:34 Hora de servicio: 00:32
+================================================================================
+Bebidas: 
+      Cafe                                            2.00  mediano             
+      Coca-Cola                                       3.50  mediano             
+      Agua Mineral                                    2.50  pequeno             
+      Jugo de Naranja                                 4.00  mediano             
+Platos: 
+      Pollo a la Brasa                               15.00 Carne, 
+      Pasta Alfredo                                  10.00 Carne, Pescado, Lácteos. 
+Entradas: 
+      Bruschetta                                      4.00  Picante
+      Guacamole                                       4.50  No es picante
+================================================================================
+ID: 648 Hora de atencion: 18:12 Hora de servicio: 19:32
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Strogonoff                                     25.75 Lácteos. 
+      Ceviche                                         9.00 Pollo, Pescado, Lácteos. 
+Entradas: 
+      Ensalada Cesar                                  6.00  Picante
+================================================================================
+ID: 554 Hora de atencion: 05:08 Hora de servicio: 05:25
+================================================================================
+Bebidas: 
+      Cafe                                            2.00  pequeno             
+      Cafe                                            2.00  pequeno             
+Platos: 
+      Filete de Pescado                              11.00 Carne, Lácteos. 
+      Ceviche                                         9.00 Pollo, Lácteos. 
+      Pasta Alfredo                                  10.00 Carne, Pescado, 
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+      Quesadillas                                     5.50  Picante
+================================================================================
+ID: 556 Hora de atencion: 19:43 Hora de servicio: 20:20
+================================================================================
+Bebidas: 
+      Coca-Cola                                       3.50  grande              
+Platos: 
+      Pollo a la Brasa                               15.00 Pollo, Pescado, 
+Entradas: 
+      Bruschetta                                      4.00  No es picante
+      Ensalada Cesar                                  6.00  No es picante
+      Nachos                                          5.00  No es picante
+      Bruschetta                                      4.00  No es picante
+================================================================================
+ID: 180 Hora de atencion: 11:32 Hora de servicio: 12:54
+================================================================================
+Bebidas: 
+      Jugo de Naranja                                 4.00  pequeno             
+      Jugo de Naranja                                 4.00  mediano             
+      Cafe                                            2.00  mediano             
+Platos: 
+      Ceviche                                         9.00 Carne, Lácteos. 
+Entradas: 
+      Nachos                                          5.00  No es picante
+================================================================================
+ID: 705 Hora de atencion: 23:02 Hora de servicio: 23:36
+================================================================================
+Bebidas: 
+      Cafe                                            2.00  mediano             
+      Sprite                                          3.00  grande              
+Platos: 
+      NO HAY
+Entradas: 
+      NO HAY
+================================================================================
+ID: 767 Hora de atencion: 20:49 Hora de servicio: 21:27
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Hamburguesa                                     8.50 Pescado, 
+Entradas: 
+      Bruschetta                                      4.00  Picante
+================================================================================
+ID: 947 Hora de atencion: 13:03 Hora de servicio: 14:26
+================================================================================
+Bebidas: 
+      Cafe                                            2.00  pequeno             
+      Jugo de Naranja                                 4.00  grande              
+Platos: 
+      NO HAY
+Entradas: 
+      Nachos                                          5.00  Picante
+================================================================================
+ID: 200 Hora de atencion: 06:21 Hora de servicio: 06:56
+================================================================================
+Bebidas: 
+      Sprite                                          3.00  mediano             
+      Cafe                                            2.00  mediano             
+      Coca-Cola                                       3.50  mediano             
+Platos: 
+      NO HAY
+Entradas: 
+      NO HAY
+================================================================================
+ID: 994 Hora de atencion: 11:59 Hora de servicio: 12:24
+================================================================================
+Bebidas: 
+      Agua Mineral                                    2.50  mediano             
+      Jugo de Naranja                                 4.00  mediano             
+      Cafe                                            2.00  pequeno             
+Platos: 
+      NO HAY
+Entradas: 
+      NO HAY
+================================================================================
+ID: 654 Hora de atencion: 23:28 Hora de servicio: 23:48
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Lomo Saltado                                   12.00 Pollo, Carne, Pescado, 
+Entradas: 
+      Guacamole                                       4.50  Picante
+================================================================================
+ID: 328 Hora de atencion: 21:07 Hora de servicio: 21:24
+================================================================================
+Bebidas: 
+      Coca-Cola                                       3.50  grande              
+Platos: 
+      Ceviche                                         9.00 Pescado, 
+      Pasta Alfredo                                  10.00 Carne, Pescado, Lácteos. 
+      Hamburguesa                                     8.50 Carne, Pescado, 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 841 Hora de atencion: 13:54 Hora de servicio: 14:46
+================================================================================
+Bebidas: 
+      Jugo de Naranja                                 4.00  pequeno             
+Platos: 
+      Pollo a la Brasa                               15.00 
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+      Ensalada Cesar                                  6.00  No es picante
+      Ensalada Cesar                                  6.00  No es picante
+      Nachos                                          5.00  No es picante
+================================================================================
+ID: 734 Hora de atencion: 12:58 Hora de servicio: 13:38
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Pasta Alfredo                                  10.00 Pollo, Pescado, 
+      Filete de Pescado                              11.00 Pollo, Carne, Pescado, Lácteos. 
+      Strogonoff                                     25.75 Carne, Lácteos. 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 815 Hora de atencion: 07:19 Hora de servicio: 08:42
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Strogonoff                                     25.75 Pollo, Carne, Pescado, Lácteos. 
+      Ceviche                                         9.00 Carne, Pescado, Lácteos. 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 364 Hora de atencion: 04:16 Hora de servicio: 04:35
+================================================================================
+Bebidas: 
+      Cafe                                            2.00  grande              
+      Coca-Cola                                       3.50  pequeno             
+      Jugo de Naranja                                 4.00  mediano             
+Platos: 
+      Ceviche                                         9.00 Lácteos. 
+      Pollo a la Brasa                               15.00 Carne, Pescado, Lácteos. 
+Entradas: 
+      Ensalada Cesar                                  6.00  Picante
+================================================================================
+ID: 526 Hora de atencion: 04:12 Hora de servicio: 04:38
+================================================================================
+Bebidas: 
+      Coca-Cola                                       3.50  grande              
+      Jugo de Naranja                                 4.00  grande              
+      Jugo de Naranja                                 4.00  mediano             
+Platos: 
+      Strogonoff                                     25.75 Pescado, Lácteos. 
+      Hamburguesa                                     8.50 Pollo, Pescado, 
+Entradas: 
+      Bruschetta                                      4.00  No es picante
+      Ensalada Cesar                                  6.00  No es picante
+      Bruschetta                                      4.00  Picante
+================================================================================
+ID: 837 Hora de atencion: 14:19 Hora de servicio: 15:22
+================================================================================
+Bebidas: 
+      Coca-Cola                                       3.50  pequeno             
+      Coca-Cola                                       3.50  grande              
+Platos: 
+      Ceviche                                         9.00 Pollo, Carne, Pescado, Lácteos. 
+      Hamburguesa                                     8.50 Pollo, Carne, Lácteos. 
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+================================================================================
+ID: 660 Hora de atencion: 01:46 Hora de servicio: 02:54
+================================================================================
+Bebidas: 
+      Agua Mineral                                    2.50  mediano             
+Platos: 
+      Hamburguesa                                     8.50 Pollo, Lácteos. 
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+      Nachos                                          5.00  No es picante
+================================================================================
+ID: 214 Hora de atencion: 22:11 Hora de servicio: 23:01
+================================================================================
+Bebidas: 
+      Sprite                                          3.00  pequeno             
+Platos: 
+      NO HAY
+Entradas: 
+      NO HAY
+================================================================================
+ID: 879 Hora de atencion: 00:21 Hora de servicio: 01:46
+================================================================================
+Bebidas: 
+      Jugo de Naranja                                 4.00  grande              
+Platos: 
+      Pollo a la Brasa                               15.00 Pollo, Carne, 
+      Hamburguesa                                     8.50 Carne, Pescado, Lácteos. 
+Entradas: 
+      Quesadillas                                     5.50  No es picante
+================================================================================
+ID: 299 Hora de atencion: 12:17 Hora de servicio: 13:02
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Hamburguesa                                     8.50 Pollo, 
+Entradas: 
+      Guacamole                                       4.50  No es picante
+      Nachos                                          5.00  Picante
+================================================================================
+ID: 596 Hora de atencion: 19:53 Hora de servicio: 20:16
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Pasta Alfredo                                  10.00 Pollo, 
+      Ceviche                                         9.00 Pollo, 
+Entradas: 
+      Nachos                                          5.00  Picante
+      Guacamole                                       4.50  No es picante
+================================================================================
+ID: 438 Hora de atencion: 22:48 Hora de servicio: 23:32
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Strogonoff                                     25.75 Carne, Pescado, Lácteos. 
+      Pollo a la Brasa                               15.00 Carne, Pescado, 
+      Pollo a la Brasa                               15.00 Pescado, Lácteos. 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 812 Hora de atencion: 14:42 Hora de servicio: 15:51
+================================================================================
+Bebidas: 
+      Sprite                                          3.00  grande              
+      Jugo de Naranja                                 4.00  grande              
+      Jugo de Naranja                                 4.00  mediano             
+Platos: 
+      Strogonoff                                     25.75 Pollo, 
+      Ceviche                                         9.00 Pollo, Carne, Pescado, Lácteos. 
+      Pasta Alfredo                                  10.00 Pescado, 
+      Hamburguesa                                     8.50 Pollo, Lácteos. 
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+================================================================================
+ID: 692 Hora de atencion: 07:53 Hora de servicio: 08:31
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Pollo a la Brasa                               15.00 Pollo, Pescado, Lácteos. 
+Entradas: 
+      Nachos                                          5.00  Picante
+      Ensalada Cesar                                  6.00  Picante
+================================================================================
+ID: 169 Hora de atencion: 12:12 Hora de servicio: 12:49
+================================================================================
+Bebidas: 
+      Jugo de Naranja                                 4.00  mediano             
+Platos: 
+      Pasta Alfredo                                  10.00 Lácteos. 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 684 Hora de atencion: 18:23 Hora de servicio: 19:05
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Pasta Alfredo                                  10.00 Pollo, Pescado, Lácteos. 
+      Pollo a la Brasa                               15.00 Pescado, Lácteos. 
+      Strogonoff                                     25.75 Pollo, 
+      Strogonoff                                     25.75 Pescado, 
+      Pollo a la Brasa                               15.00 Pollo, Pescado, Lácteos. 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 876 Hora de atencion: 00:37 Hora de servicio: 01:19
+================================================================================
+Bebidas: 
+      Agua Mineral                                    2.50  mediano             
+Platos: 
+      Lomo Saltado                                   12.00 Carne, 
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+      Bruschetta                                      4.00  No es picante
+      Quesadillas                                     5.50  No es picante
+================================================================================
+ID: 820 Hora de atencion: 06:30 Hora de servicio: 07:20
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Ceviche                                         9.00 Pollo, Carne, Pescado, Lácteos. 
+Entradas: 
+      Nachos                                          5.00  No es picante
+      Bruschetta                                      4.00  No es picante
+================================================================================
+ID: 418 Hora de atencion: 09:51 Hora de servicio: 10:12
+================================================================================
+Bebidas: 
+      Coca-Cola                                       3.50  grande              
+      Jugo de Naranja                                 4.00  pequeno             
+Platos: 
+      NO HAY
+Entradas: 
+      Nachos                                          5.00  Picante
+      Ensalada Cesar                                  6.00  No es picante
+================================================================================
+ID: 844 Hora de atencion: 09:52 Hora de servicio: 11:01
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Pollo a la Brasa                               15.00 Pollo, Carne, Pescado, Lácteos. 
+      Ceviche                                         9.00 Carne, Lácteos. 
+      Strogonoff                                     25.75 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 191 Hora de atencion: 02:09 Hora de servicio: 02:31
+================================================================================
+Bebidas: 
+      Cafe                                            2.00  pequeno             
+      Cafe                                            2.00  mediano             
+Platos: 
+      Strogonoff                                     25.75 Pollo, Pescado, 
+Entradas: 
+      Bruschetta                                      4.00  No es picante
+================================================================================
+ID: 161 Hora de atencion: 04:26 Hora de servicio: 05:08
+================================================================================
+Bebidas: 
+      Agua Mineral                                    2.50  mediano             
+      Coca-Cola                                       3.50  grande              
+Platos: 
+      NO HAY
+Entradas: 
+      Quesadillas                                     5.50  No es picante
+      Ensalada Cesar                                  6.00  Picante
+      Nachos                                          5.00  Picante
+      Ensalada Cesar                                  6.00  No es picante
+================================================================================
+ID: 194 Hora de atencion: 01:12 Hora de servicio: 02:10
+================================================================================
+Bebidas: 
+      Cafe                                            2.00  mediano             
+Platos: 
+      NO HAY
+Entradas: 
+      Ensalada Cesar                                  6.00  Picante
+================================================================================
+ID: 727 Hora de atencion: 00:50 Hora de servicio: 01:29
+================================================================================
+Bebidas: 
+      Sprite                                          3.00  mediano             
+Platos: 
+      Filete de Pescado                              11.00 Pollo, Pescado, Lácteos. 
+      Pasta Alfredo                                  10.00 Pescado, Lácteos. 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 787 Hora de atencion: 13:27 Hora de servicio: 14:30
+================================================================================
+Bebidas: 
+      Coca-Cola                                       3.50  mediano             
+Platos: 
+      Filete de Pescado                              11.00 Pescado, 
+Entradas: 
+      Quesadillas                                     5.50  No es picante
+      Bruschetta                                      4.00  Picante
+      Ensalada Cesar                                  6.00  No es picante
+================================================================================
+ID: 858 Hora de atencion: 08:48 Hora de servicio: 10:15
+================================================================================
+Bebidas: 
+      Sprite                                          3.00  pequeno             
+      Jugo de Naranja                                 4.00  pequeno             
+Platos: 
+      Strogonoff                                     25.75 Pescado, Lácteos. 
+      Ceviche                                         9.00 Pescado, Lácteos. 
+      Ceviche                                         9.00 Pescado, Lácteos. 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 836 Hora de atencion: 14:38 Hora de servicio: 15:08
+================================================================================
+Bebidas: 
+      Cafe                                            2.00  mediano             
+      Sprite                                          3.00  mediano             
+Platos: 
+      Pasta Alfredo                                  10.00 Carne, Pescado, 
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+================================================================================
+ID: 400 Hora de atencion: 10:12 Hora de servicio: 10:34
+================================================================================
+Bebidas: 
+      Sprite                                          3.00  mediano             
+Platos: 
+      NO HAY
+Entradas: 
+      Guacamole                                       4.50  Picante
+      Guacamole                                       4.50  No es picante
+================================================================================
+ID: 372 Hora de atencion: 20:24 Hora de servicio: 21:05
+================================================================================
+Bebidas: 
+      Coca-Cola                                       3.50  pequeno             
+Platos: 
+      NO HAY
+Entradas: 
+      Guacamole                                       4.50  No es picante
+================================================================================
+ID: 981 Hora de atencion: 07:40 Hora de servicio: 07:56
+================================================================================
+Bebidas: 
+      Sprite                                          3.00  pequeno             
+      Sprite                                          3.00  grande              
+Platos: 
+      Strogonoff                                     25.75 Carne, 
+      Ceviche                                         9.00 Carne, 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 327 Hora de atencion: 15:47 Hora de servicio: 17:15
+================================================================================
+Bebidas: 
+      Cafe                                            2.00  mediano             
+      Jugo de Naranja                                 4.00  grande              
+      Agua Mineral                                    2.50  grande              
+Platos: 
+      Hamburguesa                                     8.50 Pescado, 
+Entradas: 
+      Bruschetta                                      4.00  No es picante
+================================================================================
+ID: 358 Hora de atencion: 12:20 Hora de servicio: 13:21
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      NO HAY
+Entradas: 
+      Nachos                                          5.00  Picante
+      Guacamole                                       4.50  Picante
+      Quesadillas                                     5.50  Picante
+================================================================================
+ID: 142 Hora de atencion: 22:21 Hora de servicio: 22:38
+================================================================================
+Bebidas: 
+      Cafe                                            2.00  grande              
+      Agua Mineral                                    2.50  pequeno             
+Platos: 
+      Pasta Alfredo                                  10.00 Carne, Lácteos. 
+      Pollo a la Brasa                               15.00 Pollo, Carne, Pescado, Lácteos. 
+Entradas: 
+      Quesadillas                                     5.50  No es picante
+      Bruschetta                                      4.00  Picante
+================================================================================
+ID: 465 Hora de atencion: 12:56 Hora de servicio: 13:26
+================================================================================
+Bebidas: 
+      Sprite                                          3.00  mediano             
+Platos: 
+      Lomo Saltado                                   12.00 Carne, Pescado, Lácteos. 
+      Pollo a la Brasa                               15.00 Carne, 
+Entradas: 
+      Nachos                                          5.00  Picante
+      Ensalada Cesar                                  6.00  No es picante
+      Quesadillas                                     5.50  No es picante
+================================================================================
+ID: 706 Hora de atencion: 12:59 Hora de servicio: 13:59
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Pollo a la Brasa                               15.00 Carne, Pescado, Lácteos. 
+Entradas: 
+      NO HAY
+================================================================================
+ID: 228 Hora de atencion: 15:43 Hora de servicio: 16:40
+================================================================================
+Bebidas: 
+      NO HAY
+Platos: 
+      Filete de Pescado                              11.00 Carne, Pescado, 
+Entradas: 
+      Quesadillas                                     5.50  Picante

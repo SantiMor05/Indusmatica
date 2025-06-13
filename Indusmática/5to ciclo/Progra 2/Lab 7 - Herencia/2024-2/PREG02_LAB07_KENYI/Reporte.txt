@@ -1,0 +1,743 @@
+                               REPORTE DE COMANDAS
+================================================================================
+ID: 738 Hora de atencion: 11:40 Hora de servicio: 12:43
+================================================================================
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+Platos: 
+      Pollo a la Brasa                               15.00 Pollo, Pescado, 
+      Hamburguesa                                     8.50 
+      Strogonoff                                     25.75 Pollo, Carne, Lácteos. 
+Bebidas: 
+      Agua Mineral                                    2.50  mediano             
+      Jugo de Naranja                                 4.00  grande              
+--------------------------------------------------------------------------------
+Total:                 61.75
+Tiempo de Preparacion: 95 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 936 Hora de atencion: 08:32 Hora de servicio: 09:13
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Lomo Saltado                                   12.00 Carne, Pescado, Lácteos. 
+      Pollo a la Brasa                               15.00 Lácteos. 
+Bebidas: 
+      Coca-Cola                                       3.50  pequeno             
+--------------------------------------------------------------------------------
+Total:                 30.50
+Tiempo de Preparacion: 50 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 972 Hora de atencion: 23:34 Hora de servicio: 00:32
+================================================================================
+Entradas: 
+      Bruschetta                                      4.00  Picante
+      Guacamole                                       4.50  No es picante
+Platos: 
+      Pollo a la Brasa                               15.00 Carne, 
+      Pasta Alfredo                                  10.00 Carne, Pescado, Lácteos. 
+Bebidas: 
+      Cafe                                            2.00  mediano             
+      Coca-Cola                                       3.50  mediano             
+      Agua Mineral                                    2.50  pequeno             
+      Jugo de Naranja                                 4.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 45.50
+Tiempo de Preparacion: 110 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 648 Hora de atencion: 18:12 Hora de servicio: 19:32
+================================================================================
+Entradas: 
+      Ensalada Cesar                                  6.00  Picante
+Platos: 
+      Strogonoff                                     25.75 Lácteos. 
+      Ceviche                                         9.00 Pollo, Pescado, Lácteos. 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 40.75
+Tiempo de Preparacion: 55 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 554 Hora de atencion: 05:08 Hora de servicio: 05:25
+================================================================================
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+      Quesadillas                                     5.50  Picante
+Platos: 
+      Filete de Pescado                              11.00 Carne, Lácteos. 
+      Ceviche                                         9.00 Pollo, Lácteos. 
+      Pasta Alfredo                                  10.00 Carne, Pescado, 
+Bebidas: 
+      Cafe                                            2.00  pequeno             
+      Cafe                                            2.00  pequeno             
+--------------------------------------------------------------------------------
+Total:                 45.50
+Tiempo de Preparacion: 110 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 556 Hora de atencion: 19:43 Hora de servicio: 20:20
+================================================================================
+Entradas: 
+      Bruschetta                                      4.00  No es picante
+      Ensalada Cesar                                  6.00  No es picante
+      Nachos                                          5.00  No es picante
+      Bruschetta                                      4.00  No es picante
+Platos: 
+      Pollo a la Brasa                               15.00 Pollo, Pescado, 
+Bebidas: 
+      Coca-Cola                                       3.50  grande              
+--------------------------------------------------------------------------------
+Total:                 37.50
+Tiempo de Preparacion: 90 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 180 Hora de atencion: 11:32 Hora de servicio: 12:54
+================================================================================
+Entradas: 
+      Nachos                                          5.00  No es picante
+Platos: 
+      Ceviche                                         9.00 Carne, Lácteos. 
+Bebidas: 
+      Jugo de Naranja                                 4.00  pequeno             
+      Jugo de Naranja                                 4.00  mediano             
+      Cafe                                            2.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 24.00
+Tiempo de Preparacion: 65 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 705 Hora de atencion: 23:02 Hora de servicio: 23:36
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      NO HAY
+Bebidas: 
+      Cafe                                            2.00  mediano             
+      Sprite                                          3.00  grande              
+--------------------------------------------------------------------------------
+Total:                 5.00
+Tiempo de Preparacion: 20 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 767 Hora de atencion: 20:49 Hora de servicio: 21:27
+================================================================================
+Entradas: 
+      Bruschetta                                      4.00  Picante
+Platos: 
+      Hamburguesa                                     8.50 Pescado, 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 12.50
+Tiempo de Preparacion: 35 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 947 Hora de atencion: 13:03 Hora de servicio: 14:26
+================================================================================
+Entradas: 
+      Nachos                                          5.00  Picante
+Platos: 
+      NO HAY
+Bebidas: 
+      Cafe                                            2.00  pequeno             
+      Jugo de Naranja                                 4.00  grande              
+--------------------------------------------------------------------------------
+Total:                 11.00
+Tiempo de Preparacion: 35 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 200 Hora de atencion: 06:21 Hora de servicio: 06:56
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      NO HAY
+Bebidas: 
+      Sprite                                          3.00  mediano             
+      Cafe                                            2.00  mediano             
+      Coca-Cola                                       3.50  mediano             
+--------------------------------------------------------------------------------
+Total:                 8.50
+Tiempo de Preparacion: 30 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 994 Hora de atencion: 11:59 Hora de servicio: 12:24
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      NO HAY
+Bebidas: 
+      Agua Mineral                                    2.50  mediano             
+      Jugo de Naranja                                 4.00  mediano             
+      Cafe                                            2.00  pequeno             
+--------------------------------------------------------------------------------
+Total:                 8.50
+Tiempo de Preparacion: 30 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 654 Hora de atencion: 23:28 Hora de servicio: 23:48
+================================================================================
+Entradas: 
+      Guacamole                                       4.50  Picante
+Platos: 
+      Lomo Saltado                                   12.00 Pollo, Carne, Pescado, 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 16.50
+Tiempo de Preparacion: 35 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 328 Hora de atencion: 21:07 Hora de servicio: 21:24
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Ceviche                                         9.00 Pescado, 
+      Pasta Alfredo                                  10.00 Carne, Pescado, Lácteos. 
+      Hamburguesa                                     8.50 Carne, Pescado, 
+Bebidas: 
+      Coca-Cola                                       3.50  grande              
+--------------------------------------------------------------------------------
+Total:                 31.00
+Tiempo de Preparacion: 70 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 841 Hora de atencion: 13:54 Hora de servicio: 14:46
+================================================================================
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+      Ensalada Cesar                                  6.00  No es picante
+      Ensalada Cesar                                  6.00  No es picante
+      Nachos                                          5.00  No es picante
+Platos: 
+      Pollo a la Brasa                               15.00 
+Bebidas: 
+      Jugo de Naranja                                 4.00  pequeno             
+--------------------------------------------------------------------------------
+Total:                 42.00
+Tiempo de Preparacion: 90 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 734 Hora de atencion: 12:58 Hora de servicio: 13:38
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Pasta Alfredo                                  10.00 Pollo, Pescado, 
+      Filete de Pescado                              11.00 Pollo, Carne, Pescado, Lácteos. 
+      Strogonoff                                     25.75 Carne, Lácteos. 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 46.75
+Tiempo de Preparacion: 60 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 815 Hora de atencion: 07:19 Hora de servicio: 08:42
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Strogonoff                                     25.75 Pollo, Carne, Pescado, Lácteos. 
+      Ceviche                                         9.00 Carne, Pescado, Lácteos. 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 34.75
+Tiempo de Preparacion: 40 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 364 Hora de atencion: 04:16 Hora de servicio: 04:35
+================================================================================
+Entradas: 
+      Ensalada Cesar                                  6.00  Picante
+Platos: 
+      Ceviche                                         9.00 Lácteos. 
+      Pollo a la Brasa                               15.00 Carne, Pescado, Lácteos. 
+Bebidas: 
+      Cafe                                            2.00  grande              
+      Coca-Cola                                       3.50  pequeno             
+      Jugo de Naranja                                 4.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 39.50
+Tiempo de Preparacion: 85 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 526 Hora de atencion: 04:12 Hora de servicio: 04:38
+================================================================================
+Entradas: 
+      Bruschetta                                      4.00  No es picante
+      Ensalada Cesar                                  6.00  No es picante
+      Bruschetta                                      4.00  Picante
+Platos: 
+      Strogonoff                                     25.75 Pescado, Lácteos. 
+      Hamburguesa                                     8.50 Pollo, Pescado, 
+Bebidas: 
+      Coca-Cola                                       3.50  grande              
+      Jugo de Naranja                                 4.00  grande              
+      Jugo de Naranja                                 4.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 59.75
+Tiempo de Preparacion: 115 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 837 Hora de atencion: 14:19 Hora de servicio: 15:22
+================================================================================
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+Platos: 
+      Ceviche                                         9.00 Pollo, Carne, Pescado, Lácteos. 
+      Hamburguesa                                     8.50 Pollo, Carne, Lácteos. 
+Bebidas: 
+      Coca-Cola                                       3.50  pequeno             
+      Coca-Cola                                       3.50  grande              
+--------------------------------------------------------------------------------
+Total:                 30.50
+Tiempo de Preparacion: 75 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 660 Hora de atencion: 01:46 Hora de servicio: 02:54
+================================================================================
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+      Nachos                                          5.00  No es picante
+Platos: 
+      Hamburguesa                                     8.50 Pollo, Lácteos. 
+Bebidas: 
+      Agua Mineral                                    2.50  mediano             
+--------------------------------------------------------------------------------
+Total:                 22.00
+Tiempo de Preparacion: 60 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 214 Hora de atencion: 22:11 Hora de servicio: 23:01
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      NO HAY
+Bebidas: 
+      Sprite                                          3.00  pequeno             
+--------------------------------------------------------------------------------
+Total:                 3.00
+Tiempo de Preparacion: 10 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 879 Hora de atencion: 00:21 Hora de servicio: 01:46
+================================================================================
+Entradas: 
+      Quesadillas                                     5.50  No es picante
+Platos: 
+      Pollo a la Brasa                               15.00 Pollo, Carne, 
+      Hamburguesa                                     8.50 Carne, Pescado, Lácteos. 
+Bebidas: 
+      Jugo de Naranja                                 4.00  grande              
+--------------------------------------------------------------------------------
+Total:                 33.00
+Tiempo de Preparacion: 65 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 299 Hora de atencion: 12:17 Hora de servicio: 13:02
+================================================================================
+Entradas: 
+      Guacamole                                       4.50  No es picante
+      Nachos                                          5.00  Picante
+Platos: 
+      Hamburguesa                                     8.50 Pollo, 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 18.00
+Tiempo de Preparacion: 50 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 596 Hora de atencion: 19:53 Hora de servicio: 20:16
+================================================================================
+Entradas: 
+      Nachos                                          5.00  Picante
+      Guacamole                                       4.50  No es picante
+Platos: 
+      Pasta Alfredo                                  10.00 Pollo, 
+      Ceviche                                         9.00 Pollo, 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 28.50
+Tiempo de Preparacion: 70 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 438 Hora de atencion: 22:48 Hora de servicio: 23:32
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Strogonoff                                     25.75 Carne, Pescado, Lácteos. 
+      Pollo a la Brasa                               15.00 Carne, Pescado, 
+      Pollo a la Brasa                               15.00 Pescado, Lácteos. 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 55.75
+Tiempo de Preparacion: 60 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 812 Hora de atencion: 14:42 Hora de servicio: 15:51
+================================================================================
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+Platos: 
+      Strogonoff                                     25.75 Pollo, 
+      Ceviche                                         9.00 Pollo, Carne, Pescado, Lácteos. 
+      Pasta Alfredo                                  10.00 Pescado, 
+      Hamburguesa                                     8.50 Pollo, Lácteos. 
+Bebidas: 
+      Sprite                                          3.00  grande              
+      Jugo de Naranja                                 4.00  grande              
+      Jugo de Naranja                                 4.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 70.25
+Tiempo de Preparacion: 125 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 692 Hora de atencion: 07:53 Hora de servicio: 08:31
+================================================================================
+Entradas: 
+      Nachos                                          5.00  Picante
+      Ensalada Cesar                                  6.00  Picante
+Platos: 
+      Pollo a la Brasa                               15.00 Pollo, Pescado, Lácteos. 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 26.00
+Tiempo de Preparacion: 50 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 169 Hora de atencion: 12:12 Hora de servicio: 12:49
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Pasta Alfredo                                  10.00 Lácteos. 
+Bebidas: 
+      Jugo de Naranja                                 4.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 14.00
+Tiempo de Preparacion: 30 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 684 Hora de atencion: 18:23 Hora de servicio: 19:05
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Pasta Alfredo                                  10.00 Pollo, Pescado, Lácteos. 
+      Pollo a la Brasa                               15.00 Pescado, Lácteos. 
+      Strogonoff                                     25.75 Pollo, 
+      Strogonoff                                     25.75 Pescado, 
+      Pollo a la Brasa                               15.00 Pollo, Pescado, Lácteos. 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 91.50
+Tiempo de Preparacion: 100 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 876 Hora de atencion: 00:37 Hora de servicio: 01:19
+================================================================================
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+      Bruschetta                                      4.00  No es picante
+      Quesadillas                                     5.50  No es picante
+Platos: 
+      Lomo Saltado                                   12.00 Carne, 
+Bebidas: 
+      Agua Mineral                                    2.50  mediano             
+--------------------------------------------------------------------------------
+Total:                 30.00
+Tiempo de Preparacion: 75 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 820 Hora de atencion: 06:30 Hora de servicio: 07:20
+================================================================================
+Entradas: 
+      Nachos                                          5.00  No es picante
+      Bruschetta                                      4.00  No es picante
+Platos: 
+      Ceviche                                         9.00 Pollo, Carne, Pescado, Lácteos. 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 18.00
+Tiempo de Preparacion: 50 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 418 Hora de atencion: 09:51 Hora de servicio: 10:12
+================================================================================
+Entradas: 
+      Nachos                                          5.00  Picante
+      Ensalada Cesar                                  6.00  No es picante
+Platos: 
+      NO HAY
+Bebidas: 
+      Coca-Cola                                       3.50  grande              
+      Jugo de Naranja                                 4.00  pequeno             
+--------------------------------------------------------------------------------
+Total:                 18.50
+Tiempo de Preparacion: 50 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 844 Hora de atencion: 09:52 Hora de servicio: 11:01
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Pollo a la Brasa                               15.00 Pollo, Carne, Pescado, Lácteos. 
+      Ceviche                                         9.00 Carne, Lácteos. 
+      Strogonoff                                     25.75 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 49.75
+Tiempo de Preparacion: 60 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 191 Hora de atencion: 02:09 Hora de servicio: 02:31
+================================================================================
+Entradas: 
+      Bruschetta                                      4.00  No es picante
+Platos: 
+      Strogonoff                                     25.75 Pollo, Pescado, 
+Bebidas: 
+      Cafe                                            2.00  pequeno             
+      Cafe                                            2.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 33.75
+Tiempo de Preparacion: 55 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 161 Hora de atencion: 04:26 Hora de servicio: 05:08
+================================================================================
+Entradas: 
+      Quesadillas                                     5.50  No es picante
+      Ensalada Cesar                                  6.00  Picante
+      Nachos                                          5.00  Picante
+      Ensalada Cesar                                  6.00  No es picante
+Platos: 
+      NO HAY
+Bebidas: 
+      Agua Mineral                                    2.50  mediano             
+      Coca-Cola                                       3.50  grande              
+--------------------------------------------------------------------------------
+Total:                 28.50
+Tiempo de Preparacion: 80 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 194 Hora de atencion: 01:12 Hora de servicio: 02:10
+================================================================================
+Entradas: 
+      Ensalada Cesar                                  6.00  Picante
+Platos: 
+      NO HAY
+Bebidas: 
+      Cafe                                            2.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 8.00
+Tiempo de Preparacion: 25 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 727 Hora de atencion: 00:50 Hora de servicio: 01:29
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Filete de Pescado                              11.00 Pollo, Pescado, Lácteos. 
+      Pasta Alfredo                                  10.00 Pescado, Lácteos. 
+Bebidas: 
+      Sprite                                          3.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 24.00
+Tiempo de Preparacion: 50 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 787 Hora de atencion: 13:27 Hora de servicio: 14:30
+================================================================================
+Entradas: 
+      Quesadillas                                     5.50  No es picante
+      Bruschetta                                      4.00  Picante
+      Ensalada Cesar                                  6.00  No es picante
+Platos: 
+      Filete de Pescado                              11.00 Pescado, 
+Bebidas: 
+      Coca-Cola                                       3.50  mediano             
+--------------------------------------------------------------------------------
+Total:                 30.00
+Tiempo de Preparacion: 75 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 858 Hora de atencion: 08:48 Hora de servicio: 10:15
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Strogonoff                                     25.75 Pescado, Lácteos. 
+      Ceviche                                         9.00 Pescado, Lácteos. 
+      Ceviche                                         9.00 Pescado, Lácteos. 
+Bebidas: 
+      Sprite                                          3.00  pequeno             
+      Jugo de Naranja                                 4.00  pequeno             
+--------------------------------------------------------------------------------
+Total:                 50.75
+Tiempo de Preparacion: 80 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 836 Hora de atencion: 14:38 Hora de servicio: 15:08
+================================================================================
+Entradas: 
+      Ensalada Cesar                                  6.00  No es picante
+Platos: 
+      Pasta Alfredo                                  10.00 Carne, Pescado, 
+Bebidas: 
+      Cafe                                            2.00  mediano             
+      Sprite                                          3.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 21.00
+Tiempo de Preparacion: 55 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 400 Hora de atencion: 10:12 Hora de servicio: 10:34
+================================================================================
+Entradas: 
+      Guacamole                                       4.50  Picante
+      Guacamole                                       4.50  No es picante
+Platos: 
+      NO HAY
+Bebidas: 
+      Sprite                                          3.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 12.00
+Tiempo de Preparacion: 40 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 372 Hora de atencion: 20:24 Hora de servicio: 21:05
+================================================================================
+Entradas: 
+      Guacamole                                       4.50  No es picante
+Platos: 
+      NO HAY
+Bebidas: 
+      Coca-Cola                                       3.50  pequeno             
+--------------------------------------------------------------------------------
+Total:                 8.00
+Tiempo de Preparacion: 25 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 981 Hora de atencion: 07:40 Hora de servicio: 07:56
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Strogonoff                                     25.75 Carne, 
+      Ceviche                                         9.00 Carne, 
+Bebidas: 
+      Sprite                                          3.00  pequeno             
+      Sprite                                          3.00  grande              
+--------------------------------------------------------------------------------
+Total:                 40.75
+Tiempo de Preparacion: 60 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 327 Hora de atencion: 15:47 Hora de servicio: 17:15
+================================================================================
+Entradas: 
+      Bruschetta                                      4.00  No es picante
+Platos: 
+      Hamburguesa                                     8.50 Pescado, 
+Bebidas: 
+      Cafe                                            2.00  mediano             
+      Jugo de Naranja                                 4.00  grande              
+      Agua Mineral                                    2.50  grande              
+--------------------------------------------------------------------------------
+Total:                 21.00
+Tiempo de Preparacion: 65 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 358 Hora de atencion: 12:20 Hora de servicio: 13:21
+================================================================================
+Entradas: 
+      Nachos                                          5.00  Picante
+      Guacamole                                       4.50  Picante
+      Quesadillas                                     5.50  Picante
+Platos: 
+      NO HAY
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 15.00
+Tiempo de Preparacion: 45 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 142 Hora de atencion: 22:21 Hora de servicio: 22:38
+================================================================================
+Entradas: 
+      Quesadillas                                     5.50  No es picante
+      Bruschetta                                      4.00  Picante
+Platos: 
+      Pasta Alfredo                                  10.00 Carne, Lácteos. 
+      Pollo a la Brasa                               15.00 Pollo, Carne, Pescado, Lácteos. 
+Bebidas: 
+      Cafe                                            2.00  grande              
+      Agua Mineral                                    2.50  pequeno             
+--------------------------------------------------------------------------------
+Total:                 39.00
+Tiempo de Preparacion: 90 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 465 Hora de atencion: 12:56 Hora de servicio: 13:26
+================================================================================
+Entradas: 
+      Nachos                                          5.00  Picante
+      Ensalada Cesar                                  6.00  No es picante
+      Quesadillas                                     5.50  No es picante
+Platos: 
+      Lomo Saltado                                   12.00 Carne, Pescado, Lácteos. 
+      Pollo a la Brasa                               15.00 Carne, 
+Bebidas: 
+      Sprite                                          3.00  mediano             
+--------------------------------------------------------------------------------
+Total:                 46.50
+Tiempo de Preparacion: 95 minutos
+Atencion:              ATENDIDO CON RETRASO
+================================================================================
+ID: 706 Hora de atencion: 12:59 Hora de servicio: 13:59
+================================================================================
+Entradas: 
+      NO HAY
+Platos: 
+      Pollo a la Brasa                               15.00 Carne, Pescado, Lácteos. 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 15.00
+Tiempo de Preparacion: 20 minutos
+Atencion:              ATENDIDO
+================================================================================
+ID: 228 Hora de atencion: 15:43 Hora de servicio: 16:40
+================================================================================
+Entradas: 
+      Quesadillas                                     5.50  Picante
+Platos: 
+      Filete de Pescado                              11.00 Carne, Pescado, 
+Bebidas: 
+      NO HAY
+--------------------------------------------------------------------------------
+Total:                 16.50
+Tiempo de Preparacion: 35 minutos
+Atencion:              ATENDIDO
