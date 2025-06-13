@@ -1,0 +1,844 @@
+                                                REPORTE DEL RESTAURANTE
+========================================================================================================================
+========================================================================================================================
+ID: 738    Hora de atencion: 11:40    Hora de servicio: 12:43
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Agua Mineral                                                        2.50    TAMAÑO: mediano             
+      Jugo de Naranja                                                     4.00    TAMAÑO: grande              
+Entradas:
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+Platos: 
+      Pollo a la Brasa                                                   15.00    PROTEINAS: Pollo  |  | Pescado 
+      Hamburguesa                                                         8.50    PROTEINAS: 
+      Strogonoff                                                         25.75    PROTEINAS: Pollo  | Carne  |  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.61.75
+TIEMPO DE PREPARACION:              95 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 936    Hora de atencion: 08:32    Hora de servicio: 09:13
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Coca-Cola                                                           3.50    TAMAÑO: pequeno             
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Lomo Saltado                                                       12.00    PROTEINAS:  | Carne  | Pescado  | Lácteos 
+      Pollo a la Brasa                                                   15.00    PROTEINAS:  |  |  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.30.50
+TIEMPO DE PREPARACION:              50 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 972    Hora de atencion: 23:34    Hora de servicio: 00:32
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Cafe                                                                2.00    TAMAÑO: mediano             
+      Coca-Cola                                                           3.50    TAMAÑO: mediano             
+      Agua Mineral                                                        2.50    TAMAÑO: pequeno             
+      Jugo de Naranja                                                     4.00    TAMAÑO: mediano             
+Entradas:
+      Bruschetta                                                          4.00    PICANTE:      SI
+      Guacamole                                                           4.50    PICANTE:      NO
+Platos: 
+      Pollo a la Brasa                                                   15.00    PROTEINAS:  | Carne 
+      Pasta Alfredo                                                      10.00    PROTEINAS:  | Carne  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.45.50
+TIEMPO DE PREPARACION:              110 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 648    Hora de atencion: 18:12    Hora de servicio: 19:32
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+      Ensalada Cesar                                                      6.00    PICANTE:      SI
+Platos: 
+      Strogonoff                                                         25.75    PROTEINAS:  |  |  | Lácteos 
+      Ceviche                                                             9.00    PROTEINAS: Pollo  |  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.40.75
+TIEMPO DE PREPARACION:              55 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 554    Hora de atencion: 05:08    Hora de servicio: 05:25
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Cafe                                                                2.00    TAMAÑO: pequeno             
+      Cafe                                                                2.00    TAMAÑO: pequeno             
+Entradas:
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+      Quesadillas                                                         5.50    PICANTE:      SI
+Platos: 
+      Filete de Pescado                                                  11.00    PROTEINAS:  | Carne  |  | Lácteos 
+      Ceviche                                                             9.00    PROTEINAS: Pollo  |  |  | Lácteos 
+      Pasta Alfredo                                                      10.00    PROTEINAS:  | Carne  | Pescado 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.45.50
+TIEMPO DE PREPARACION:              110 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 556    Hora de atencion: 19:43    Hora de servicio: 20:20
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Coca-Cola                                                           3.50    TAMAÑO: grande              
+Entradas:
+      Bruschetta                                                          4.00    PICANTE:      NO
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+      Nachos                                                              5.00    PICANTE:      NO
+      Bruschetta                                                          4.00    PICANTE:      NO
+Platos: 
+      Pollo a la Brasa                                                   15.00    PROTEINAS: Pollo  |  | Pescado 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.37.50
+TIEMPO DE PREPARACION:              90 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 180    Hora de atencion: 11:32    Hora de servicio: 12:54
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Jugo de Naranja                                                     4.00    TAMAÑO: pequeno             
+      Jugo de Naranja                                                     4.00    TAMAÑO: mediano             
+      Cafe                                                                2.00    TAMAÑO: mediano             
+Entradas:
+      Nachos                                                              5.00    PICANTE:      NO
+Platos: 
+      Ceviche                                                             9.00    PROTEINAS:  | Carne  |  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.24.00
+TIEMPO DE PREPARACION:              65 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 705    Hora de atencion: 23:02    Hora de servicio: 23:36
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Cafe                                                                2.00    TAMAÑO: mediano             
+      Sprite                                                              3.00    TAMAÑO: grande              
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+            NO HAY PLATOS DE FONO ATENDIDAS
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.5.00
+TIEMPO DE PREPARACION:              20 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 767    Hora de atencion: 20:49    Hora de servicio: 21:27
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+      Bruschetta                                                          4.00    PICANTE:      SI
+Platos: 
+      Hamburguesa                                                         8.50    PROTEINAS:  |  | Pescado 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.12.50
+TIEMPO DE PREPARACION:              35 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 947    Hora de atencion: 13:03    Hora de servicio: 14:26
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Cafe                                                                2.00    TAMAÑO: pequeno             
+      Jugo de Naranja                                                     4.00    TAMAÑO: grande              
+Entradas:
+      Nachos                                                              5.00    PICANTE:      SI
+Platos: 
+            NO HAY PLATOS DE FONO ATENDIDAS
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.11.00
+TIEMPO DE PREPARACION:              35 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 200    Hora de atencion: 06:21    Hora de servicio: 06:56
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Sprite                                                              3.00    TAMAÑO: mediano             
+      Cafe                                                                2.00    TAMAÑO: mediano             
+      Coca-Cola                                                           3.50    TAMAÑO: mediano             
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+            NO HAY PLATOS DE FONO ATENDIDAS
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.8.50
+TIEMPO DE PREPARACION:              30 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 994    Hora de atencion: 11:59    Hora de servicio: 12:24
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Agua Mineral                                                        2.50    TAMAÑO: mediano             
+      Jugo de Naranja                                                     4.00    TAMAÑO: mediano             
+      Cafe                                                                2.00    TAMAÑO: pequeno             
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+            NO HAY PLATOS DE FONO ATENDIDAS
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.8.50
+TIEMPO DE PREPARACION:              30 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 654    Hora de atencion: 23:28    Hora de servicio: 23:48
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+      Guacamole                                                           4.50    PICANTE:      SI
+Platos: 
+      Lomo Saltado                                                       12.00    PROTEINAS: Pollo  | Carne  | Pescado 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.16.50
+TIEMPO DE PREPARACION:              35 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 328    Hora de atencion: 21:07    Hora de servicio: 21:24
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Coca-Cola                                                           3.50    TAMAÑO: grande              
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Ceviche                                                             9.00    PROTEINAS:  |  | Pescado 
+      Pasta Alfredo                                                      10.00    PROTEINAS:  | Carne  | Pescado  | Lácteos 
+      Hamburguesa                                                         8.50    PROTEINAS:  | Carne  | Pescado 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.31.00
+TIEMPO DE PREPARACION:              70 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 841    Hora de atencion: 13:54    Hora de servicio: 14:46
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Jugo de Naranja                                                     4.00    TAMAÑO: pequeno             
+Entradas:
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+      Nachos                                                              5.00    PICANTE:      NO
+Platos: 
+      Pollo a la Brasa                                                   15.00    PROTEINAS: 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.42.00
+TIEMPO DE PREPARACION:              90 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 734    Hora de atencion: 12:58    Hora de servicio: 13:38
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Pasta Alfredo                                                      10.00    PROTEINAS: Pollo  |  | Pescado 
+      Filete de Pescado                                                  11.00    PROTEINAS: Pollo  | Carne  | Pescado  | Lácteos 
+      Strogonoff                                                         25.75    PROTEINAS:  | Carne  |  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.46.75
+TIEMPO DE PREPARACION:              60 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 815    Hora de atencion: 07:19    Hora de servicio: 08:42
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Strogonoff                                                         25.75    PROTEINAS: Pollo  | Carne  | Pescado  | Lácteos 
+      Ceviche                                                             9.00    PROTEINAS:  | Carne  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.34.75
+TIEMPO DE PREPARACION:              40 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 364    Hora de atencion: 04:16    Hora de servicio: 04:35
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Cafe                                                                2.00    TAMAÑO: grande              
+      Coca-Cola                                                           3.50    TAMAÑO: pequeno             
+      Jugo de Naranja                                                     4.00    TAMAÑO: mediano             
+Entradas:
+      Ensalada Cesar                                                      6.00    PICANTE:      SI
+Platos: 
+      Ceviche                                                             9.00    PROTEINAS:  |  |  | Lácteos 
+      Pollo a la Brasa                                                   15.00    PROTEINAS:  | Carne  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.39.50
+TIEMPO DE PREPARACION:              85 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 526    Hora de atencion: 04:12    Hora de servicio: 04:38
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Coca-Cola                                                           3.50    TAMAÑO: grande              
+      Jugo de Naranja                                                     4.00    TAMAÑO: grande              
+      Jugo de Naranja                                                     4.00    TAMAÑO: mediano             
+Entradas:
+      Bruschetta                                                          4.00    PICANTE:      NO
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+      Bruschetta                                                          4.00    PICANTE:      SI
+Platos: 
+      Strogonoff                                                         25.75    PROTEINAS:  |  | Pescado  | Lácteos 
+      Hamburguesa                                                         8.50    PROTEINAS: Pollo  |  | Pescado 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.59.75
+TIEMPO DE PREPARACION:              115 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 837    Hora de atencion: 14:19    Hora de servicio: 15:22
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Coca-Cola                                                           3.50    TAMAÑO: pequeno             
+      Coca-Cola                                                           3.50    TAMAÑO: grande              
+Entradas:
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+Platos: 
+      Ceviche                                                             9.00    PROTEINAS: Pollo  | Carne  | Pescado  | Lácteos 
+      Hamburguesa                                                         8.50    PROTEINAS: Pollo  | Carne  |  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.30.50
+TIEMPO DE PREPARACION:              75 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 660    Hora de atencion: 01:46    Hora de servicio: 02:54
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Agua Mineral                                                        2.50    TAMAÑO: mediano             
+Entradas:
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+      Nachos                                                              5.00    PICANTE:      NO
+Platos: 
+      Hamburguesa                                                         8.50    PROTEINAS: Pollo  |  |  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.22.00
+TIEMPO DE PREPARACION:              60 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 214    Hora de atencion: 22:11    Hora de servicio: 23:01
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Sprite                                                              3.00    TAMAÑO: pequeno             
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+            NO HAY PLATOS DE FONO ATENDIDAS
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.3.00
+TIEMPO DE PREPARACION:              10 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 879    Hora de atencion: 00:21    Hora de servicio: 01:46
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Jugo de Naranja                                                     4.00    TAMAÑO: grande              
+Entradas:
+      Quesadillas                                                         5.50    PICANTE:      NO
+Platos: 
+      Pollo a la Brasa                                                   15.00    PROTEINAS: Pollo  | Carne 
+      Hamburguesa                                                         8.50    PROTEINAS:  | Carne  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.33.00
+TIEMPO DE PREPARACION:              65 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 299    Hora de atencion: 12:17    Hora de servicio: 13:02
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+      Guacamole                                                           4.50    PICANTE:      NO
+      Nachos                                                              5.00    PICANTE:      SI
+Platos: 
+      Hamburguesa                                                         8.50    PROTEINAS: Pollo 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.18.00
+TIEMPO DE PREPARACION:              50 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 596    Hora de atencion: 19:53    Hora de servicio: 20:16
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+      Nachos                                                              5.00    PICANTE:      SI
+      Guacamole                                                           4.50    PICANTE:      NO
+Platos: 
+      Pasta Alfredo                                                      10.00    PROTEINAS: Pollo 
+      Ceviche                                                             9.00    PROTEINAS: Pollo 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.28.50
+TIEMPO DE PREPARACION:              70 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 438    Hora de atencion: 22:48    Hora de servicio: 23:32
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Strogonoff                                                         25.75    PROTEINAS:  | Carne  | Pescado  | Lácteos 
+      Pollo a la Brasa                                                   15.00    PROTEINAS:  | Carne  | Pescado 
+      Pollo a la Brasa                                                   15.00    PROTEINAS:  |  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.55.75
+TIEMPO DE PREPARACION:              60 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 812    Hora de atencion: 14:42    Hora de servicio: 15:51
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Sprite                                                              3.00    TAMAÑO: grande              
+      Jugo de Naranja                                                     4.00    TAMAÑO: grande              
+      Jugo de Naranja                                                     4.00    TAMAÑO: mediano             
+Entradas:
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+Platos: 
+      Strogonoff                                                         25.75    PROTEINAS: Pollo 
+      Ceviche                                                             9.00    PROTEINAS: Pollo  | Carne  | Pescado  | Lácteos 
+      Pasta Alfredo                                                      10.00    PROTEINAS:  |  | Pescado 
+      Hamburguesa                                                         8.50    PROTEINAS: Pollo  |  |  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.70.25
+TIEMPO DE PREPARACION:              125 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 692    Hora de atencion: 07:53    Hora de servicio: 08:31
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+      Nachos                                                              5.00    PICANTE:      SI
+      Ensalada Cesar                                                      6.00    PICANTE:      SI
+Platos: 
+      Pollo a la Brasa                                                   15.00    PROTEINAS: Pollo  |  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.26.00
+TIEMPO DE PREPARACION:              50 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 169    Hora de atencion: 12:12    Hora de servicio: 12:49
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Jugo de Naranja                                                     4.00    TAMAÑO: mediano             
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Pasta Alfredo                                                      10.00    PROTEINAS:  |  |  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.14.00
+TIEMPO DE PREPARACION:              30 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 684    Hora de atencion: 18:23    Hora de servicio: 19:05
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Pasta Alfredo                                                      10.00    PROTEINAS: Pollo  |  | Pescado  | Lácteos 
+      Pollo a la Brasa                                                   15.00    PROTEINAS:  |  | Pescado  | Lácteos 
+      Strogonoff                                                         25.75    PROTEINAS: Pollo 
+      Strogonoff                                                         25.75    PROTEINAS:  |  | Pescado 
+      Pollo a la Brasa                                                   15.00    PROTEINAS: Pollo  |  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.91.50
+TIEMPO DE PREPARACION:              100 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 876    Hora de atencion: 00:37    Hora de servicio: 01:19
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Agua Mineral                                                        2.50    TAMAÑO: mediano             
+Entradas:
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+      Bruschetta                                                          4.00    PICANTE:      NO
+      Quesadillas                                                         5.50    PICANTE:      NO
+Platos: 
+      Lomo Saltado                                                       12.00    PROTEINAS:  | Carne 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.30.00
+TIEMPO DE PREPARACION:              75 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 820    Hora de atencion: 06:30    Hora de servicio: 07:20
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+      Nachos                                                              5.00    PICANTE:      NO
+      Bruschetta                                                          4.00    PICANTE:      NO
+Platos: 
+      Ceviche                                                             9.00    PROTEINAS: Pollo  | Carne  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.18.00
+TIEMPO DE PREPARACION:              50 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 418    Hora de atencion: 09:51    Hora de servicio: 10:12
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Coca-Cola                                                           3.50    TAMAÑO: grande              
+      Jugo de Naranja                                                     4.00    TAMAÑO: pequeno             
+Entradas:
+      Nachos                                                              5.00    PICANTE:      SI
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+Platos: 
+            NO HAY PLATOS DE FONO ATENDIDAS
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.18.50
+TIEMPO DE PREPARACION:              50 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 844    Hora de atencion: 09:52    Hora de servicio: 11:01
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Pollo a la Brasa                                                   15.00    PROTEINAS: Pollo  | Carne  | Pescado  | Lácteos 
+      Ceviche                                                             9.00    PROTEINAS:  | Carne  |  | Lácteos 
+      Strogonoff                                                         25.75    PROTEINAS: 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.49.75
+TIEMPO DE PREPARACION:              60 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 191    Hora de atencion: 02:09    Hora de servicio: 02:31
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Cafe                                                                2.00    TAMAÑO: pequeno             
+      Cafe                                                                2.00    TAMAÑO: mediano             
+Entradas:
+      Bruschetta                                                          4.00    PICANTE:      NO
+Platos: 
+      Strogonoff                                                         25.75    PROTEINAS: Pollo  |  | Pescado 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.33.75
+TIEMPO DE PREPARACION:              55 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 161    Hora de atencion: 04:26    Hora de servicio: 05:08
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Agua Mineral                                                        2.50    TAMAÑO: mediano             
+      Coca-Cola                                                           3.50    TAMAÑO: grande              
+Entradas:
+      Quesadillas                                                         5.50    PICANTE:      NO
+      Ensalada Cesar                                                      6.00    PICANTE:      SI
+      Nachos                                                              5.00    PICANTE:      SI
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+Platos: 
+            NO HAY PLATOS DE FONO ATENDIDAS
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.28.50
+TIEMPO DE PREPARACION:              80 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 194    Hora de atencion: 01:12    Hora de servicio: 02:10
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Cafe                                                                2.00    TAMAÑO: mediano             
+Entradas:
+      Ensalada Cesar                                                      6.00    PICANTE:      SI
+Platos: 
+            NO HAY PLATOS DE FONO ATENDIDAS
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.8.00
+TIEMPO DE PREPARACION:              25 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 727    Hora de atencion: 00:50    Hora de servicio: 01:29
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Sprite                                                              3.00    TAMAÑO: mediano             
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Filete de Pescado                                                  11.00    PROTEINAS: Pollo  |  | Pescado  | Lácteos 
+      Pasta Alfredo                                                      10.00    PROTEINAS:  |  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.24.00
+TIEMPO DE PREPARACION:              50 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 787    Hora de atencion: 13:27    Hora de servicio: 14:30
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Coca-Cola                                                           3.50    TAMAÑO: mediano             
+Entradas:
+      Quesadillas                                                         5.50    PICANTE:      NO
+      Bruschetta                                                          4.00    PICANTE:      SI
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+Platos: 
+      Filete de Pescado                                                  11.00    PROTEINAS:  |  | Pescado 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.30.00
+TIEMPO DE PREPARACION:              75 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 858    Hora de atencion: 08:48    Hora de servicio: 10:15
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Sprite                                                              3.00    TAMAÑO: pequeno             
+      Jugo de Naranja                                                     4.00    TAMAÑO: pequeno             
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Strogonoff                                                         25.75    PROTEINAS:  |  | Pescado  | Lácteos 
+      Ceviche                                                             9.00    PROTEINAS:  |  | Pescado  | Lácteos 
+      Ceviche                                                             9.00    PROTEINAS:  |  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.50.75
+TIEMPO DE PREPARACION:              80 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 836    Hora de atencion: 14:38    Hora de servicio: 15:08
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Cafe                                                                2.00    TAMAÑO: mediano             
+      Sprite                                                              3.00    TAMAÑO: mediano             
+Entradas:
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+Platos: 
+      Pasta Alfredo                                                      10.00    PROTEINAS:  | Carne  | Pescado 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.21.00
+TIEMPO DE PREPARACION:              55 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 400    Hora de atencion: 10:12    Hora de servicio: 10:34
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Sprite                                                              3.00    TAMAÑO: mediano             
+Entradas:
+      Guacamole                                                           4.50    PICANTE:      SI
+      Guacamole                                                           4.50    PICANTE:      NO
+Platos: 
+            NO HAY PLATOS DE FONO ATENDIDAS
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.12.00
+TIEMPO DE PREPARACION:              40 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 372    Hora de atencion: 20:24    Hora de servicio: 21:05
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Coca-Cola                                                           3.50    TAMAÑO: pequeno             
+Entradas:
+      Guacamole                                                           4.50    PICANTE:      NO
+Platos: 
+            NO HAY PLATOS DE FONO ATENDIDAS
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.8.00
+TIEMPO DE PREPARACION:              25 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 981    Hora de atencion: 07:40    Hora de servicio: 07:56
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Sprite                                                              3.00    TAMAÑO: pequeno             
+      Sprite                                                              3.00    TAMAÑO: grande              
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Strogonoff                                                         25.75    PROTEINAS:  | Carne 
+      Ceviche                                                             9.00    PROTEINAS:  | Carne 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.40.75
+TIEMPO DE PREPARACION:              60 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 327    Hora de atencion: 15:47    Hora de servicio: 17:15
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Cafe                                                                2.00    TAMAÑO: mediano             
+      Jugo de Naranja                                                     4.00    TAMAÑO: grande              
+      Agua Mineral                                                        2.50    TAMAÑO: grande              
+Entradas:
+      Bruschetta                                                          4.00    PICANTE:      NO
+Platos: 
+      Hamburguesa                                                         8.50    PROTEINAS:  |  | Pescado 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.21.00
+TIEMPO DE PREPARACION:              65 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 358    Hora de atencion: 12:20    Hora de servicio: 13:21
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+      Nachos                                                              5.00    PICANTE:      SI
+      Guacamole                                                           4.50    PICANTE:      SI
+      Quesadillas                                                         5.50    PICANTE:      SI
+Platos: 
+            NO HAY PLATOS DE FONO ATENDIDAS
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.15.00
+TIEMPO DE PREPARACION:              45 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 142    Hora de atencion: 22:21    Hora de servicio: 22:38
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Cafe                                                                2.00    TAMAÑO: grande              
+      Agua Mineral                                                        2.50    TAMAÑO: pequeno             
+Entradas:
+      Quesadillas                                                         5.50    PICANTE:      NO
+      Bruschetta                                                          4.00    PICANTE:      SI
+Platos: 
+      Pasta Alfredo                                                      10.00    PROTEINAS:  | Carne  |  | Lácteos 
+      Pollo a la Brasa                                                   15.00    PROTEINAS: Pollo  | Carne  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.39.00
+TIEMPO DE PREPARACION:              90 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 465    Hora de atencion: 12:56    Hora de servicio: 13:26
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+      Sprite                                                              3.00    TAMAÑO: mediano             
+Entradas:
+      Nachos                                                              5.00    PICANTE:      SI
+      Ensalada Cesar                                                      6.00    PICANTE:      NO
+      Quesadillas                                                         5.50    PICANTE:      NO
+Platos: 
+      Lomo Saltado                                                       12.00    PROTEINAS:  | Carne  | Pescado  | Lácteos 
+      Pollo a la Brasa                                                   15.00    PROTEINAS:  | Carne 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.46.50
+TIEMPO DE PREPARACION:              95 minutos
+ATENCION:                           ATENDIDO CON RETRASO
+========================================================================================================================
+ID: 706    Hora de atencion: 12:59    Hora de servicio: 13:59
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+            NO HAY ENTRADAS ATENDIDAS
+Platos: 
+      Pollo a la Brasa                                                   15.00    PROTEINAS:  | Carne  | Pescado  | Lácteos 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.15.00
+TIEMPO DE PREPARACION:              20 minutos
+ATENCION:                           ATENDIDO
+========================================================================================================================
+ID: 228    Hora de atencion: 15:43    Hora de servicio: 16:40
+========================================================================================================================
+Producto                                                                 Precio   Descripcion
+------------------------------------------------------------------------------------------------------------------------
+Bebidas: 
+            NO HAY BEBIDAS ATENDIDAS
+Entradas:
+      Quesadillas                                                         5.50    PICANTE:      SI
+Platos: 
+      Filete de Pescado                                                  11.00    PROTEINAS:  | Carne  | Pescado 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL COMANDA:                      S/.16.50
+TIEMPO DE PREPARACION:              35 minutos
+ATENCION:                           ATENDIDO
