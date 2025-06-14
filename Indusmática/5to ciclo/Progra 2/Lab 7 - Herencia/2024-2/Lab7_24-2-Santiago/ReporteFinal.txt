@@ -1,0 +1,481 @@
+1) ID: 738     Hora de atencion: 11:40    Hora de servicio: 12:43     Total: 61.75
+Bebidas: 
+     Agua Mineral                                2.50        mediano
+     Jugo de Naranja                             4.00         grande
+
+Entradas: 
+     Ensalada Cesar                              6.00     Sin picante
+
+Platos de Fondo: 
+     Pollo a la Brasa                           15.00     Incluye:      Pollo   Pescado
+     Hamburguesa                                 8.50     Incluye: 
+     Strogonoff                                 25.75     Incluye:      Pollo     Carne   Lacteos
+========================================================================================================================
+2) ID: 936     Hora de atencion: 08:32    Hora de servicio: 09:13     Total: 30.50
+Bebidas: 
+     Coca-Cola                                   3.50        pequeno
+
+Platos de Fondo: 
+     Lomo Saltado                               12.00     Incluye:      Carne   Pescado   Lacteos
+     Pollo a la Brasa                           15.00     Incluye:    Lacteos
+========================================================================================================================
+3) ID: 972     Hora de atencion: 23:34    Hora de servicio: 00:32     Total: 45.50
+Bebidas: 
+     Cafe                                        2.00        mediano
+     Coca-Cola                                   3.50        mediano
+     Agua Mineral                                2.50        pequeno
+     Jugo de Naranja                             4.00        mediano
+
+Entradas: 
+     Bruschetta                                  4.00     Picante
+     Guacamole                                   4.50     Sin picante
+
+Platos de Fondo: 
+     Pollo a la Brasa                           15.00     Incluye:      Carne
+     Pasta Alfredo                              10.00     Incluye:      Carne   Pescado   Lacteos
+========================================================================================================================
+4) ID: 648     Hora de atencion: 18:12    Hora de servicio: 19:32     Total: 40.75
+
+Entradas: 
+     Ensalada Cesar                              6.00     Picante
+
+Platos de Fondo: 
+     Strogonoff                                 25.75     Incluye:    Lacteos
+     Ceviche                                     9.00     Incluye:      Pollo   Pescado   Lacteos
+========================================================================================================================
+5) ID: 554     Hora de atencion: 05:08    Hora de servicio: 05:25     Total: 45.50
+Bebidas: 
+     Cafe                                        2.00        pequeno
+     Cafe                                        2.00        pequeno
+
+Entradas: 
+     Ensalada Cesar                              6.00     Sin picante
+     Quesadillas                                 5.50     Picante
+
+Platos de Fondo: 
+     Filete de Pescado                          11.00     Incluye:      Carne   Lacteos
+     Ceviche                                     9.00     Incluye:      Pollo   Lacteos
+     Pasta Alfredo                              10.00     Incluye:      Carne   Pescado
+========================================================================================================================
+6) ID: 556     Hora de atencion: 19:43    Hora de servicio: 20:20     Total: 37.50
+Bebidas: 
+     Coca-Cola                                   3.50         grande
+
+Entradas: 
+     Bruschetta                                  4.00     Sin picante
+     Ensalada Cesar                              6.00     Sin picante
+     Nachos                                      5.00     Sin picante
+     Bruschetta                                  4.00     Sin picante
+
+Platos de Fondo: 
+     Pollo a la Brasa                           15.00     Incluye:      Pollo   Pescado
+========================================================================================================================
+7) ID: 180     Hora de atencion: 11:32    Hora de servicio: 12:54     Total: 24.00
+Bebidas: 
+     Jugo de Naranja                             4.00        pequeno
+     Jugo de Naranja                             4.00        mediano
+     Cafe                                        2.00        mediano
+
+Entradas: 
+     Nachos                                      5.00     Sin picante
+
+Platos de Fondo: 
+     Ceviche                                     9.00     Incluye:      Carne   Lacteos
+========================================================================================================================
+8) ID: 705     Hora de atencion: 23:02    Hora de servicio: 23:36     Total: 5.00
+Bebidas: 
+     Cafe                                        2.00        mediano
+     Sprite                                      3.00         grande
+========================================================================================================================
+9) ID: 767     Hora de atencion: 20:49    Hora de servicio: 21:27     Total: 12.50
+
+Entradas: 
+     Bruschetta                                  4.00     Picante
+
+Platos de Fondo: 
+     Hamburguesa                                 8.50     Incluye:    Pescado
+========================================================================================================================
+10) ID: 947     Hora de atencion: 13:03    Hora de servicio: 14:26     Total: 11.00
+Bebidas: 
+     Cafe                                        2.00        pequeno
+     Jugo de Naranja                             4.00         grande
+
+Entradas: 
+     Nachos                                      5.00     Picante
+========================================================================================================================
+11) ID: 200     Hora de atencion: 06:21    Hora de servicio: 06:56     Total: 8.50
+Bebidas: 
+     Sprite                                      3.00        mediano
+     Cafe                                        2.00        mediano
+     Coca-Cola                                   3.50        mediano
+========================================================================================================================
+12) ID: 994     Hora de atencion: 11:59    Hora de servicio: 12:24     Total: 8.50
+Bebidas: 
+     Agua Mineral                                2.50        mediano
+     Jugo de Naranja                             4.00        mediano
+     Cafe                                        2.00        pequeno
+========================================================================================================================
+13) ID: 654     Hora de atencion: 23:28    Hora de servicio: 23:48     Total: 16.50
+
+Entradas: 
+     Guacamole                                   4.50     Picante
+
+Platos de Fondo: 
+     Lomo Saltado                               12.00     Incluye:      Pollo     Carne   Pescado
+========================================================================================================================
+14) ID: 328     Hora de atencion: 21:07    Hora de servicio: 21:24     Total: 31.00
+Bebidas: 
+     Coca-Cola                                   3.50         grande
+
+Platos de Fondo: 
+     Ceviche                                     9.00     Incluye:    Pescado
+     Pasta Alfredo                              10.00     Incluye:      Carne   Pescado   Lacteos
+     Hamburguesa                                 8.50     Incluye:      Carne   Pescado
+========================================================================================================================
+15) ID: 841     Hora de atencion: 13:54    Hora de servicio: 14:46     Total: 42.00
+Bebidas: 
+     Jugo de Naranja                             4.00        pequeno
+
+Entradas: 
+     Ensalada Cesar                              6.00     Sin picante
+     Ensalada Cesar                              6.00     Sin picante
+     Ensalada Cesar                              6.00     Sin picante
+     Nachos                                      5.00     Sin picante
+
+Platos de Fondo: 
+     Pollo a la Brasa                           15.00     Incluye: 
+========================================================================================================================
+16) ID: 734     Hora de atencion: 12:58    Hora de servicio: 13:38     Total: 46.75
+
+Platos de Fondo: 
+     Pasta Alfredo                              10.00     Incluye:      Pollo   Pescado
+     Filete de Pescado                          11.00     Incluye:      Pollo     Carne   Pescado   Lacteos
+     Strogonoff                                 25.75     Incluye:      Carne   Lacteos
+========================================================================================================================
+17) ID: 815     Hora de atencion: 07:19    Hora de servicio: 08:42     Total: 34.75
+
+Platos de Fondo: 
+     Strogonoff                                 25.75     Incluye:      Pollo     Carne   Pescado   Lacteos
+     Ceviche                                     9.00     Incluye:      Carne   Pescado   Lacteos
+========================================================================================================================
+18) ID: 364     Hora de atencion: 04:16    Hora de servicio: 04:35     Total: 39.50
+Bebidas: 
+     Cafe                                        2.00         grande
+     Coca-Cola                                   3.50        pequeno
+     Jugo de Naranja                             4.00        mediano
+
+Entradas: 
+     Ensalada Cesar                              6.00     Picante
+
+Platos de Fondo: 
+     Ceviche                                     9.00     Incluye:    Lacteos
+     Pollo a la Brasa                           15.00     Incluye:      Carne   Pescado   Lacteos
+========================================================================================================================
+19) ID: 526     Hora de atencion: 04:12    Hora de servicio: 04:38     Total: 59.75
+Bebidas: 
+     Coca-Cola                                   3.50         grande
+     Jugo de Naranja                             4.00         grande
+     Jugo de Naranja                             4.00        mediano
+
+Entradas: 
+     Bruschetta                                  4.00     Sin picante
+     Ensalada Cesar                              6.00     Sin picante
+     Bruschetta                                  4.00     Picante
+
+Platos de Fondo: 
+     Strogonoff                                 25.75     Incluye:    Pescado   Lacteos
+     Hamburguesa                                 8.50     Incluye:      Pollo   Pescado
+========================================================================================================================
+20) ID: 837     Hora de atencion: 14:19    Hora de servicio: 15:22     Total: 30.50
+Bebidas: 
+     Coca-Cola                                   3.50        pequeno
+     Coca-Cola                                   3.50         grande
+
+Entradas: 
+     Ensalada Cesar                              6.00     Sin picante
+
+Platos de Fondo: 
+     Ceviche                                     9.00     Incluye:      Pollo     Carne   Pescado   Lacteos
+     Hamburguesa                                 8.50     Incluye:      Pollo     Carne   Lacteos
+========================================================================================================================
+21) ID: 660     Hora de atencion: 01:46    Hora de servicio: 02:54     Total: 22.00
+Bebidas: 
+     Agua Mineral                                2.50        mediano
+
+Entradas: 
+     Ensalada Cesar                              6.00     Sin picante
+     Nachos                                      5.00     Sin picante
+
+Platos de Fondo: 
+     Hamburguesa                                 8.50     Incluye:      Pollo   Lacteos
+========================================================================================================================
+22) ID: 214     Hora de atencion: 22:11    Hora de servicio: 23:01     Total: 3.00
+Bebidas: 
+     Sprite                                      3.00        pequeno
+========================================================================================================================
+23) ID: 879     Hora de atencion: 00:21    Hora de servicio: 01:46     Total: 33.00
+Bebidas: 
+     Jugo de Naranja                             4.00         grande
+
+Entradas: 
+     Quesadillas                                 5.50     Sin picante
+
+Platos de Fondo: 
+     Pollo a la Brasa                           15.00     Incluye:      Pollo     Carne
+     Hamburguesa                                 8.50     Incluye:      Carne   Pescado   Lacteos
+========================================================================================================================
+24) ID: 299     Hora de atencion: 12:17    Hora de servicio: 13:02     Total: 18.00
+
+Entradas: 
+     Guacamole                                   4.50     Sin picante
+     Nachos                                      5.00     Picante
+
+Platos de Fondo: 
+     Hamburguesa                                 8.50     Incluye:      Pollo
+========================================================================================================================
+25) ID: 596     Hora de atencion: 19:53    Hora de servicio: 20:16     Total: 28.50
+
+Entradas: 
+     Nachos                                      5.00     Picante
+     Guacamole                                   4.50     Sin picante
+
+Platos de Fondo: 
+     Pasta Alfredo                              10.00     Incluye:      Pollo
+     Ceviche                                     9.00     Incluye:      Pollo
+========================================================================================================================
+26) ID: 438     Hora de atencion: 22:48    Hora de servicio: 23:32     Total: 55.75
+
+Platos de Fondo: 
+     Strogonoff                                 25.75     Incluye:      Carne   Pescado   Lacteos
+     Pollo a la Brasa                           15.00     Incluye:      Carne   Pescado
+     Pollo a la Brasa                           15.00     Incluye:    Pescado   Lacteos
+========================================================================================================================
+27) ID: 812     Hora de atencion: 14:42    Hora de servicio: 15:51     Total: 70.25
+Bebidas: 
+     Sprite                                      3.00         grande
+     Jugo de Naranja                             4.00         grande
+     Jugo de Naranja                             4.00        mediano
+
+Entradas: 
+     Ensalada Cesar                              6.00     Sin picante
+
+Platos de Fondo: 
+     Strogonoff                                 25.75     Incluye:      Pollo
+     Ceviche                                     9.00     Incluye:      Pollo     Carne   Pescado   Lacteos
+     Pasta Alfredo                              10.00     Incluye:    Pescado
+     Hamburguesa                                 8.50     Incluye:      Pollo   Lacteos
+========================================================================================================================
+28) ID: 692     Hora de atencion: 07:53    Hora de servicio: 08:31     Total: 26.00
+
+Entradas: 
+     Nachos                                      5.00     Picante
+     Ensalada Cesar                              6.00     Picante
+
+Platos de Fondo: 
+     Pollo a la Brasa                           15.00     Incluye:      Pollo   Pescado   Lacteos
+========================================================================================================================
+29) ID: 169     Hora de atencion: 12:12    Hora de servicio: 12:49     Total: 14.00
+Bebidas: 
+     Jugo de Naranja                             4.00        mediano
+
+Platos de Fondo: 
+     Pasta Alfredo                              10.00     Incluye:    Lacteos
+========================================================================================================================
+30) ID: 684     Hora de atencion: 18:23    Hora de servicio: 19:05     Total: 91.50
+
+Platos de Fondo: 
+     Pasta Alfredo                              10.00     Incluye:      Pollo   Pescado   Lacteos
+     Pollo a la Brasa                           15.00     Incluye:    Pescado   Lacteos
+     Strogonoff                                 25.75     Incluye:      Pollo
+     Strogonoff                                 25.75     Incluye:    Pescado
+     Pollo a la Brasa                           15.00     Incluye:      Pollo   Pescado   Lacteos
+========================================================================================================================
+31) ID: 876     Hora de atencion: 00:37    Hora de servicio: 01:19     Total: 30.00
+Bebidas: 
+     Agua Mineral                                2.50        mediano
+
+Entradas: 
+     Ensalada Cesar                              6.00     Sin picante
+     Bruschetta                                  4.00     Sin picante
+     Quesadillas                                 5.50     Sin picante
+
+Platos de Fondo: 
+     Lomo Saltado                               12.00     Incluye:      Carne
+========================================================================================================================
+32) ID: 820     Hora de atencion: 06:30    Hora de servicio: 07:20     Total: 18.00
+
+Entradas: 
+     Nachos                                      5.00     Sin picante
+     Bruschetta                                  4.00     Sin picante
+
+Platos de Fondo: 
+     Ceviche                                     9.00     Incluye:      Pollo     Carne   Pescado   Lacteos
+========================================================================================================================
+33) ID: 418     Hora de atencion: 09:51    Hora de servicio: 10:12     Total: 18.50
+Bebidas: 
+     Coca-Cola                                   3.50         grande
+     Jugo de Naranja                             4.00        pequeno
+
+Entradas: 
+     Nachos                                      5.00     Picante
+     Ensalada Cesar                              6.00     Sin picante
+========================================================================================================================
+34) ID: 844     Hora de atencion: 09:52    Hora de servicio: 11:01     Total: 49.75
+
+Platos de Fondo: 
+     Pollo a la Brasa                           15.00     Incluye:      Pollo     Carne   Pescado   Lacteos
+     Ceviche                                     9.00     Incluye:      Carne   Lacteos
+     Strogonoff                                 25.75     Incluye: 
+========================================================================================================================
+35) ID: 191     Hora de atencion: 02:09    Hora de servicio: 02:31     Total: 33.75
+Bebidas: 
+     Cafe                                        2.00        pequeno
+     Cafe                                        2.00        mediano
+
+Entradas: 
+     Bruschetta                                  4.00     Sin picante
+
+Platos de Fondo: 
+     Strogonoff                                 25.75     Incluye:      Pollo   Pescado
+========================================================================================================================
+36) ID: 161     Hora de atencion: 04:26    Hora de servicio: 05:08     Total: 28.50
+Bebidas: 
+     Agua Mineral                                2.50        mediano
+     Coca-Cola                                   3.50         grande
+
+Entradas: 
+     Quesadillas                                 5.50     Sin picante
+     Ensalada Cesar                              6.00     Picante
+     Nachos                                      5.00     Picante
+     Ensalada Cesar                              6.00     Sin picante
+========================================================================================================================
+37) ID: 194     Hora de atencion: 01:12    Hora de servicio: 02:10     Total: 8.00
+Bebidas: 
+     Cafe                                        2.00        mediano
+
+Entradas: 
+     Ensalada Cesar                              6.00     Picante
+========================================================================================================================
+38) ID: 727     Hora de atencion: 00:50    Hora de servicio: 01:29     Total: 24.00
+Bebidas: 
+     Sprite                                      3.00        mediano
+
+Platos de Fondo: 
+     Filete de Pescado                          11.00     Incluye:      Pollo   Pescado   Lacteos
+     Pasta Alfredo                              10.00     Incluye:    Pescado   Lacteos
+========================================================================================================================
+39) ID: 787     Hora de atencion: 13:27    Hora de servicio: 14:30     Total: 30.00
+Bebidas: 
+     Coca-Cola                                   3.50        mediano
+
+Entradas: 
+     Quesadillas                                 5.50     Sin picante
+     Bruschetta                                  4.00     Picante
+     Ensalada Cesar                              6.00     Sin picante
+
+Platos de Fondo: 
+     Filete de Pescado                          11.00     Incluye:    Pescado
+========================================================================================================================
+40) ID: 858     Hora de atencion: 08:48    Hora de servicio: 10:15     Total: 50.75
+Bebidas: 
+     Sprite                                      3.00        pequeno
+     Jugo de Naranja                             4.00        pequeno
+
+Platos de Fondo: 
+     Strogonoff                                 25.75     Incluye:    Pescado   Lacteos
+     Ceviche                                     9.00     Incluye:    Pescado   Lacteos
+     Ceviche                                     9.00     Incluye:    Pescado   Lacteos
+========================================================================================================================
+41) ID: 836     Hora de atencion: 14:38    Hora de servicio: 15:08     Total: 21.00
+Bebidas: 
+     Cafe                                        2.00        mediano
+     Sprite                                      3.00        mediano
+
+Entradas: 
+     Ensalada Cesar                              6.00     Sin picante
+
+Platos de Fondo: 
+     Pasta Alfredo                              10.00     Incluye:      Carne   Pescado
+========================================================================================================================
+42) ID: 400     Hora de atencion: 10:12    Hora de servicio: 10:34     Total: 12.00
+Bebidas: 
+     Sprite                                      3.00        mediano
+
+Entradas: 
+     Guacamole                                   4.50     Picante
+     Guacamole                                   4.50     Sin picante
+========================================================================================================================
+43) ID: 372     Hora de atencion: 20:24    Hora de servicio: 21:05     Total: 8.00
+Bebidas: 
+     Coca-Cola                                   3.50        pequeno
+
+Entradas: 
+     Guacamole                                   4.50     Sin picante
+========================================================================================================================
+44) ID: 981     Hora de atencion: 07:40    Hora de servicio: 07:56     Total: 40.75
+Bebidas: 
+     Sprite                                      3.00        pequeno
+     Sprite                                      3.00         grande
+
+Platos de Fondo: 
+     Strogonoff                                 25.75     Incluye:      Carne
+     Ceviche                                     9.00     Incluye:      Carne
+========================================================================================================================
+45) ID: 327     Hora de atencion: 15:47    Hora de servicio: 17:15     Total: 21.00
+Bebidas: 
+     Cafe                                        2.00        mediano
+     Jugo de Naranja                             4.00         grande
+     Agua Mineral                                2.50         grande
+
+Entradas: 
+     Bruschetta                                  4.00     Sin picante
+
+Platos de Fondo: 
+     Hamburguesa                                 8.50     Incluye:    Pescado
+========================================================================================================================
+46) ID: 358     Hora de atencion: 12:20    Hora de servicio: 13:21     Total: 15.00
+
+Entradas: 
+     Nachos                                      5.00     Picante
+     Guacamole                                   4.50     Picante
+     Quesadillas                                 5.50     Picante
+========================================================================================================================
+47) ID: 142     Hora de atencion: 22:21    Hora de servicio: 22:38     Total: 39.00
+Bebidas: 
+     Cafe                                        2.00         grande
+     Agua Mineral                                2.50        pequeno
+
+Entradas: 
+     Quesadillas                                 5.50     Sin picante
+     Bruschetta                                  4.00     Picante
+
+Platos de Fondo: 
+     Pasta Alfredo                              10.00     Incluye:      Carne   Lacteos
+     Pollo a la Brasa                           15.00     Incluye:      Pollo     Carne   Pescado   Lacteos
+========================================================================================================================
+48) ID: 465     Hora de atencion: 12:56    Hora de servicio: 13:26     Total: 46.50
+Bebidas: 
+     Sprite                                      3.00        mediano
+
+Entradas: 
+     Nachos                                      5.00     Picante
+     Ensalada Cesar                              6.00     Sin picante
+     Quesadillas                                 5.50     Sin picante
+
+Platos de Fondo: 
+     Lomo Saltado                               12.00     Incluye:      Carne   Pescado   Lacteos
+     Pollo a la Brasa                           15.00     Incluye:      Carne
+========================================================================================================================
+49) ID: 706     Hora de atencion: 12:59    Hora de servicio: 13:59     Total: 15.00
+
+Platos de Fondo: 
+     Pollo a la Brasa                           15.00     Incluye:      Carne   Pescado   Lacteos
+========================================================================================================================
+50) ID: 228     Hora de atencion: 15:43    Hora de servicio: 16:40     Total: 16.50
+
+Entradas: 
+     Quesadillas                                 5.50     Picante
+
+Platos de Fondo: 
+     Filete de Pescado                          11.00     Incluye:      Carne   Pescado
+========================================================================================================================
