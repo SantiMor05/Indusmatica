@@ -1,0 +1,1330 @@
+Codigo Cliente: 79464412
+Placa:              K0D-676
+Carga Maxima:    300
+Carga Actual: 6.74013e+160
+#Filas:          1
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 16552775
+Placa:              S7E-946
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 20864087
+Placa:              O5L-856
+Carga Maxima:   1000
+Carga Actual: 8.22168e-310
+#Ejes:            2
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 94326707
+Placa:              U3F-754
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 73786035
+Placa:              O4X-500
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 31193794
+Placa:              T3B-722
+Carga Maxima:   1200
+Carga Actual: 8.22232e-310
+#Ejes:            2
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 96659352
+Placa:              T1K-210
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 57690875
+Placa:              O7D-970
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 69975105
+Placa:              N5J-515
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 54761731
+Placa:              K6X-977
+Carga Maxima:   1200
+Carga Actual: 8.22168e-310
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 67418025
+Placa:              W9Y-717
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 77642521
+Placa:              W8F-397
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 35584593
+Placa:              I0K-077
+Carga Maxima:   1000
+Carga Actual: 8.22169e-310
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 43053402
+Placa:              L3N-150
+Carga Maxima:    400
+Carga Actual: 8.22168e-310
+#Filas:          1
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 84165595
+Placa:              J0Q-121
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 89298238
+Placa:              E6T-667
+Carga Maxima:   1500
+Carga Actual: 8.68007e-317
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 71984468
+Placa:              J7Y-327
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 29847168
+Placa:              H7P-047
+Carga Maxima:   1500
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 79475585
+Placa:              W6Z-142
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        1
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 91897732
+Placa:              C3A-423
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 33397650
+Placa:              H6H-085
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 83236386
+Placa:              O3T-110
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        1
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 32821689
+Placa:              I0E-459
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 45783712
+Placa:              H8M-598
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 48184351
+Placa:              W2L-827
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 33713901
+Placa:              L4B-291
+Carga Maxima:    400
+Carga Actual:      0
+#Filas:          2
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 76388967
+Placa:              J2F-853
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 81114108
+Placa:              W7R-114
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 57263719
+Placa:              J2K-636
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        1
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 79140840
+Placa:              T9L-709
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 71378466
+Placa:              J8D-125
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 17913944
+Placa:              F1H-328
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        1
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 62566305
+Placa:              C4O-436
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 46462527
+Placa:              R8O-904
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 79420973
+Placa:              L2H-207
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 22777006
+Placa:              M8Q-758
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 43877279
+Placa:              K5K-595
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 73535476
+Placa:              W3T-571
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 26976877
+Placa:              B7V-643
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 78078115
+Placa:              P7I-760
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 48467976
+Placa:              A6D-661
+Carga Maxima:    300
+Carga Actual: 8.21454e-310
+#Filas:          1
+#Puertas:        1
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 41036366
+Placa:              H1W-140
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 31611146
+Placa:              S1D-093
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        1
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 64394265
+Placa:              U5N-536
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        1
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 50365593
+Placa:              G6I-762
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 95751208
+Placa:              A8J-929
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 79372768
+Placa:              P2Q-870
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 27912250
+Placa:              M0X-657
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 60574154
+Placa:              J2M-606
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 35565959
+Placa:              L8A-167
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 80048864
+Placa:              H2K-127
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 96258632
+Placa:              Y9F-491
+Carga Maxima:   1200
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 94080926
+Placa:              D6W-048
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 42157219
+Placa:              T7F-869
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 86241107
+Placa:              L3W-411
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 26290971
+Placa:              V9J-051
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 22280452
+Placa:              U5L-205
+Carga Maxima:   1200
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 90365520
+Placa:              M4Z-108
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 40348917
+Placa:              M8W-853
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 95161027
+Placa:              B4R-105
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 77191257
+Placa:              I0Y-720
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 62324793
+Placa:              P5B-640
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 16151792
+Placa:              L6Z-161
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 66409237
+Placa:              Y4Y-028
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 63437380
+Placa:              K1F-766
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 95015539
+Placa:              F1F-571
+Carga Maxima:   1200
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 25171011
+Placa:              M7F-612
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 90237332
+Placa:              L6D-758
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 87800799
+Placa:              N4J-043
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 38637282
+Placa:              X8U-894
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 15561764
+Placa:              N9Q-814
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 45877001
+Placa:              A7Y-833
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 87813843
+Placa:              E1N-544
+Carga Maxima:   1500
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 78757121
+Placa:              T0V-569
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 53166028
+Placa:              P7T-999
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 15210391
+Placa:              I5K-310
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 89429489
+Placa:              S6Y-726
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 43488351
+Placa:              T5L-371
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 73185299
+Placa:              L4O-783
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 36380447
+Placa:              D2V-055
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 97403853
+Placa:              I0W-872
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 13245501
+Placa:              U6A-456
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 89148118
+Placa:              R8H-409
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 93845419
+Placa:              S4J-282
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 19829266
+Placa:              E1J-798
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 26233063
+Placa:              W1S-239
+Carga Maxima:   1000
+Carga Actual: 8.21454e-310
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 78922174
+Placa:              P6I-223
+Carga Maxima:   1200
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 42798099
+Placa:              N5Y-450
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 79901434
+Placa:              D6F-465
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 50375303
+Placa:              D5W-953
+Carga Maxima:   1200
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 55552996
+Placa:              G0F-080
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 45828535
+Placa:              C0G-556
+Carga Maxima:   1200
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 44229880
+Placa:              V4I-691
+Carga Maxima:   1200
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 59162728
+Placa:              C2S-070
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 88995291
+Placa:              V7P-711
+Carga Maxima:    400
+Carga Actual:      0
+#Filas:          2
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 73914283
+Placa:              F3E-797
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 44679500
+Placa:              R7U-941
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 59407188
+Placa:              D9A-711
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 27635082
+Placa:              O8J-848
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 54716824
+Placa:              V9F-655
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 40112594
+Placa:              T8Y-354
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 37110873
+Placa:              R0P-255
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 83505958
+Placa:              P7E-145
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 85871751
+Placa:              E3U-231
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 11602775
+Placa:              D8R-235
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 86402303
+Placa:              H6X-124
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 23928045
+Placa:              H8S-849
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 12663268
+Placa:              U0T-459
+Carga Maxima:   1500
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 42928709
+Placa:              R5C-239
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 85949265
+Placa:              N2C-590
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            3
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 17972674
+Placa:              B4I-014
+Carga Maxima:   1000
+Carga Actual: 8.21464e-310
+#Ejes:            3
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 38913831
+Placa:              C0S-417
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 36008913
+Placa:              T9A-930
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 49087435
+Placa:              I1D-713
+Carga Maxima:   1200
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 58187172
+Placa:              O4X-603
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 69324480
+Placa:              S9I-160
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 32565207
+Placa:              D7L-648
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 71463316
+Placa:              N1O-921
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 86828079
+Placa:              W1C-444
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        1
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 29337157
+Placa:              M1E-751
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        1
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 32904023
+Placa:              T6W-978
+Carga Maxima:    400
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 28390487
+Placa:              I3A-223
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 98589725
+Placa:              H3E-885
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 77484838
+Placa:              N0Z-560
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 88956889
+Placa:              B3U-845
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 89863424
+Placa:              Y9G-536
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 99842319
+Placa:              N6D-256
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 98140264
+Placa:              Z4L-514
+Carga Maxima:    400
+Carga Actual:      0
+#Filas:          1
+#Puertas:        2
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 69639726
+Placa:              Q5S-871
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 93160528
+Placa:              E0I-722
+Carga Maxima:    300
+Carga Actual:      0
+#Filas:          2
+#Puertas:        3
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 24995742
+Placa:              X9D-758
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 43043986
+Placa:              V7O-315
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente: 52097922
+Placa:              A1Q-612
+Carga Maxima:   1000
+Carga Actual:      0
+#Ejes:            2
+#Llantas:        6
+Pedidos: 
+    No hay pedido para el cliente
+
+

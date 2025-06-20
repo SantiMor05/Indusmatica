@@ -1,0 +1,1731 @@
+Codigo Cliente:    79464412
+Placa:              K0D-676
+Carga Maxima:        300.00
+Carga Actual:        225.00
+#Filas:                   1
+#Puertas:                 3
+Pedidos: 
+    MTF.868     6   30.00
+    JXD.139     4   80.00
+    NSM.283     2  100.00
+    CJE.310     5   15.00
+
+
+Codigo Cliente:    16552775
+Placa:              S7E-946
+Carga Maxima:        300.00
+Carga Actual:         18.00
+#Filas:                   2
+#Puertas:                 3
+Pedidos: 
+    AWB.345     6   18.00
+
+
+Codigo Cliente:    20864087
+Placa:              O5L-856
+Carga Maxima:       1000.00
+Carga Actual:        716.00
+#Ejes:                    2
+#Llantas:                 6
+Pedidos: 
+    SPR.580     1    1.00
+    YUQ.590     5  275.00
+    JDQ.505     6  240.00
+    JFC.432     1   20.00
+    BXY.119     4  180.00
+
+
+Codigo Cliente:    94326707
+Placa:              U3F-754
+Carga Maxima:       1000.00
+Carga Actual:          0.00
+#Ejes:                    2
+#Llantas:                 8
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente:    73786035
+Placa:              O4X-500
+Carga Maxima:        300.00
+Carga Actual:          4.50
+#Filas:                   2
+#Puertas:                 3
+Pedidos: 
+    DEN.125     4    4.00
+    AQS.362     1    0.50
+
+
+Codigo Cliente:    31193794
+Placa:              T3B-722
+Carga Maxima:       1200.00
+Carga Actual:        225.25
+#Ejes:                    2
+#Llantas:                 6
+Pedidos: 
+    BXY.119     5  225.00
+    JDC.028     1    0.25
+
+
+Codigo Cliente:    96659352
+Placa:              T1K-210
+Carga Maxima:       1000.00
+Carga Actual:        488.00
+#Ejes:                    2
+#Llantas:                 6
+Pedidos: 
+    KQQ.136     3   15.00
+    GBJ.693     3    3.00
+    KQA.580     6  270.00
+    ADX.669     4  200.00
+
+
+Codigo Cliente:    57690875
+Placa:              O7D-970
+Carga Maxima:       1000.00
+Carga Actual:        391.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    XTE.383     6    6.00
+    XLF.273     4  240.00
+    CIM.038     3  135.00
+    CSZ.863     5   10.00
+
+
+Codigo Cliente:    69975105
+Placa:              N5J-515
+Carga Maxima:        300.00
+Carga Actual:        275.00
+#Filas:                   1
+#Puertas:                 3
+Pedidos: 
+    TMJ.043     6  240.00
+    HFM.021     6   30.00
+    FQG.293     5    5.00
+
+
+Codigo Cliente:    54761731
+Placa:              K6X-977
+Carga Maxima:       1200.00
+Carga Actual:        528.50
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    OTS.581     5    2.50
+    VZV.827     1   50.00
+    FVB.607     5  250.00
+    ZVA.180     4  220.00
+    DEV.433     3    6.00
+
+
+Codigo Cliente:    67418025
+Placa:              W9Y-717
+Carga Maxima:       1000.00
+Carga Actual:        399.60
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    YYU.726     6    9.60
+    FEG.454     2  100.00
+    EVN.510     5  250.00
+    QUU.384     1   40.00
+
+
+Codigo Cliente:    77642521
+Placa:              W8F-397
+Carga Maxima:       1000.00
+Carga Actual:        453.20
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    YYU.726     2    3.20
+    DFJ.952     5  250.00
+    QUU.384     5  200.00
+
+
+Codigo Cliente:    35584593
+Placa:              I0K-077
+Carga Maxima:       1000.00
+Carga Actual:        425.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    KCO.488     1    5.00
+    AVM.258     4  200.00
+    SSD.176     4  220.00
+
+
+Codigo Cliente:    43053402
+Placa:              L3N-150
+Carga Maxima:        400.00
+Carga Actual:        370.00
+#Filas:                   1
+#Puertas:                 3
+Pedidos: 
+    VRR.793     2    2.00
+    MMA.577     6  360.00
+    YOT.530     2    8.00
+
+
+Codigo Cliente:    84165595
+Placa:              J0Q-121
+Carga Maxima:       1000.00
+Carga Actual:        250.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    QHC.492     4   80.00
+    JFC.432     3   60.00
+    HFM.021     6   30.00
+    RDT.761     6   30.00
+    DFJ.952     1   50.00
+
+
+Codigo Cliente:    89298238
+Placa:              E6T-667
+Carga Maxima:       1500.00
+Carga Actual:        723.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    ICX.503     3  150.00
+    JXD.139     3   60.00
+    YOT.530     1    4.00
+    YOT.530     4   16.00
+    UJV.290     4  200.00
+    QFP.254     2    3.00
+    QTK.083     3  180.00
+    PFD.286     2  110.00
+
+
+Codigo Cliente:    71984468
+Placa:              J7Y-327
+Carga Maxima:        300.00
+Carga Actual:        222.00
+#Filas:                   1
+#Puertas:                 3
+Pedidos: 
+    TZY.323     1   20.00
+    JJN.837     5  200.00
+    PQH.935     2    2.00
+
+
+Codigo Cliente:    29847168
+Placa:              H7P-047
+Carga Maxima:       1500.00
+Carga Actual:          0.60
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    BCK.361     1    0.60
+
+
+Codigo Cliente:    79475585
+Placa:              W6Z-142
+Carga Maxima:        300.00
+Carga Actual:        255.00
+#Filas:                   2
+#Puertas:                 1
+Pedidos: 
+    KQQ.136     6   30.00
+    BWD.036     5  225.00
+
+
+Codigo Cliente:    91897732
+Placa:              C3A-423
+Carga Maxima:       1000.00
+Carga Actual:        367.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    PFD.286     2  110.00
+    OXP.732     2   10.00
+    WLL.607     1   45.00
+    XZR.640     5  200.00
+    TMN.884     2    2.00
+
+
+Codigo Cliente:    33397650
+Placa:              H6H-085
+Carga Maxima:       1000.00
+Carga Actual:         34.80
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    VJI.529     6   30.00
+    IHG.413     3    4.80
+
+
+Codigo Cliente:    83236386
+Placa:              O3T-110
+Carga Maxima:        300.00
+Carga Actual:        267.70
+#Filas:                   2
+#Puertas:                 1
+Pedidos: 
+    OFS.384     1    1.70
+    OPT.996     2    6.00
+    MTF.868     2   10.00
+    UJV.290     5  250.00
+
+
+Codigo Cliente:    32821689
+Placa:              I0E-459
+Carga Maxima:        300.00
+Carga Actual:         30.00
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    ISU.815     1    0.50
+    MTF.868     5   25.00
+    ONB.903     3    4.50
+
+
+Codigo Cliente:    45783712
+Placa:              H8M-598
+Carga Maxima:        300.00
+Carga Actual:        260.00
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    QFR.958     3  150.00
+    YUQ.590     2  110.00
+
+
+Codigo Cliente:    48184351
+Placa:              W2L-827
+Carga Maxima:       1000.00
+Carga Actual:         95.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    TXM.139     1    5.00
+    KQA.580     2   90.00
+
+
+Codigo Cliente:    33713901
+Placa:              L4B-291
+Carga Maxima:        400.00
+Carga Actual:        332.20
+#Filas:                   2
+#Puertas:                 2
+Pedidos: 
+    VVS.017     1    0.80
+    UWA.476     2    1.40
+    ZVA.180     6  330.00
+
+
+Codigo Cliente:    76388967
+Placa:              J2F-853
+Carga Maxima:       1000.00
+Carga Actual:        965.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    DOV.560     2   10.00
+    PFD.286     6  330.00
+    CNQ.172     6  360.00
+    RSE.049     6    6.00
+    EBI.299     5  250.00
+    SJQ.827     5    9.00
+
+
+Codigo Cliente:    81114108
+Placa:              W7R-114
+Carga Maxima:       1000.00
+Carga Actual:        531.60
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    VCL.867     1   50.00
+    DUG.251     5  250.00
+    OFS.384     3    5.10
+    DFF.034     5    2.50
+    RBE.789     2   20.00
+    BCN.855     4  200.00
+    VRR.793     4    4.00
+
+
+Codigo Cliente:    57263719
+Placa:              J2K-636
+Carga Maxima:        300.00
+Carga Actual:        300.00
+#Filas:                   2
+#Puertas:                 1
+Pedidos: 
+    ZWF.661     5   25.00
+    YOT.530     5   20.00
+    BWD.036     3  135.00
+    TZY.323     6  120.00
+
+
+Codigo Cliente:    79140840
+Placa:              T9L-709
+Carga Maxima:       1000.00
+Carga Actual:        137.30
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    QRC.609     5    5.00
+    JXD.139     4   80.00
+    TMN.884     5    5.00
+    OTH.462     1   40.00
+    HLR.109     1    1.80
+    TYF.885     2    4.00
+    DFF.034     3    1.50
+
+
+Codigo Cliente:    71378466
+Placa:              J8D-125
+Carga Maxima:       1000.00
+Carga Actual:        353.60
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    XSD.310     3  165.00
+    OQI.373     1   45.00
+    ARS.231     6    3.60
+    FVQ.662     2  100.00
+    BIT.434     4   40.00
+
+
+Codigo Cliente:    17913944
+Placa:              F1H-328
+Carga Maxima:        300.00
+Carga Actual:        257.40
+#Filas:                   1
+#Puertas:                 1
+Pedidos: 
+    YJD.279     5  250.00
+    DEN.125     1    1.00
+    IHG.413     4    6.40
+
+
+Codigo Cliente:    62566305
+Placa:              C4O-436
+Carga Maxima:       1000.00
+Carga Actual:        308.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    CNQ.172     3  180.00
+    AVM.258     1   50.00
+    GXF.122     5   50.00
+    DIQ.718     4   20.00
+    TYF.885     4    8.00
+
+
+Codigo Cliente:    46462527
+Placa:              R8O-904
+Carga Maxima:       1000.00
+Carga Actual:        353.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    ISU.815     6    3.00
+    LWG.915     6  300.00
+    KWP.672     3   30.00
+    KCO.488     4   20.00
+
+
+Codigo Cliente:    79420973
+Placa:              L2H-207
+Carga Maxima:       1000.00
+Carga Actual:        305.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    GXF.122     3   30.00
+    SSE.115     5  275.00
+
+
+Codigo Cliente:    22777006
+Placa:              M8Q-758
+Carga Maxima:        300.00
+Carga Actual:        290.00
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    XLF.273     2  120.00
+    FCN.617     1    5.00
+    YYK.309     3  165.00
+
+
+Codigo Cliente:    43877279
+Placa:              K5K-595
+Carga Maxima:       1000.00
+Carga Actual:        630.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    QUU.384     5  200.00
+    SSD.176     4  220.00
+    TYF.885     5   10.00
+    SNY.500     4  200.00
+
+
+Codigo Cliente:    73535476
+Placa:              W3T-571
+Carga Maxima:        300.00
+Carga Actual:        168.50
+#Filas:                   1
+#Puertas:                 3
+Pedidos: 
+    KJX.387     4   20.00
+    LDR.510     2    6.00
+    CIM.038     3  135.00
+    UWA.476     5    3.50
+    FLJ.040     4    4.00
+
+
+Codigo Cliente:    26976877
+Placa:              B7V-643
+Carga Maxima:       1000.00
+Carga Actual:        629.50
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    XZG.521     3    4.50
+    YUQ.590     4  220.00
+    KQQ.136     3   15.00
+    SSE.115     4  220.00
+    JXD.139     2   40.00
+    AFL.718     5   50.00
+    VTV.269     4   80.00
+
+
+Codigo Cliente:    78078115
+Placa:              P7I-760
+Carga Maxima:       1000.00
+Carga Actual:        760.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    PJG.338     2   10.00
+    SSD.176     1   55.00
+    DFJ.952     5  250.00
+    TMJ.043     3  120.00
+    XOA.735     2  120.00
+    FQG.293     4    4.00
+    DFF.034     2    1.00
+    XZR.640     5  200.00
+
+
+Codigo Cliente:    48467976
+Placa:              A6D-661
+Carga Maxima:        300.00
+Carga Actual:        200.00
+#Filas:                   1
+#Puertas:                 1
+Pedidos: 
+    JDQ.505     5  200.00
+
+
+Codigo Cliente:    41036366
+Placa:              H1W-140
+Carga Maxima:       1000.00
+Carga Actual:        241.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    QVJ.982     4   20.00
+    AQS.362     2    1.00
+    SJD.818     4  220.00
+
+
+Codigo Cliente:    31611146
+Placa:              S1D-093
+Carga Maxima:        300.00
+Carga Actual:        271.00
+#Filas:                   1
+#Puertas:                 1
+Pedidos: 
+    XSD.310     1   55.00
+    FVQ.662     4  200.00
+    YOT.530     4   16.00
+
+
+Codigo Cliente:    64394265
+Placa:              U5N-536
+Carga Maxima:        300.00
+Carga Actual:        163.50
+#Filas:                   1
+#Puertas:                 1
+Pedidos: 
+    OTW.288     5  100.00
+    YUQ.590     1   55.00
+    OFS.384     5    8.50
+
+
+Codigo Cliente:    50365593
+Placa:              G6I-762
+Carga Maxima:       1000.00
+Carga Actual:        559.90
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    VVS.017     3    2.40
+    TZY.323     1   20.00
+    ZVA.180     6  330.00
+    TMN.884     6    6.00
+    LWG.915     3  150.00
+    JDC.028     6    1.50
+    AFL.718     5   50.00
+
+
+Codigo Cliente:    95751208
+Placa:              A8J-929
+Carga Maxima:        300.00
+Carga Actual:        147.00
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    BWD.036     3  135.00
+    UOD.420     4   12.00
+
+
+Codigo Cliente:    79372768
+Placa:              P2Q-870
+Carga Maxima:       1000.00
+Carga Actual:        113.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    EUZ.452     5   25.00
+    SAM.013     1   50.00
+    QVJ.982     6   30.00
+    GLC.370     4    8.00
+
+
+Codigo Cliente:    27912250
+Placa:              M0X-657
+Carga Maxima:       1000.00
+Carga Actual:        453.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    LWG.915     1   50.00
+    FLJ.040     3    3.00
+    QFR.958     3  150.00
+    LWG.915     4  200.00
+    ICX.503     1   50.00
+
+
+Codigo Cliente:    60574154
+Placa:              J2M-606
+Carga Maxima:       1000.00
+Carga Actual:        400.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    KDA.627     5  250.00
+    III.576     6   60.00
+    BWD.036     2   90.00
+
+
+Codigo Cliente:    35565959
+Placa:              L8A-167
+Carga Maxima:       1000.00
+Carga Actual:        460.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    JXD.139     5  100.00
+    VJI.529     5   25.00
+    BZS.261     1   50.00
+    DFJ.952     2  100.00
+    QRC.609     5    5.00
+    CIM.038     4  180.00
+
+
+Codigo Cliente:    80048864
+Placa:              H2K-127
+Carga Maxima:       1000.00
+Carga Actual:        166.80
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    BWD.036     3  135.00
+    PPX.620     1    5.00
+    RDT.761     5   25.00
+    BCK.361     3    1.80
+
+
+Codigo Cliente:    96258632
+Placa:              Y9F-491
+Carga Maxima:       1200.00
+Carga Actual:        370.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    EBI.299     5  250.00
+    QHC.492     2   40.00
+    CRU.009     2   80.00
+
+
+Codigo Cliente:    94080926
+Placa:              D6W-048
+Carga Maxima:       1000.00
+Carga Actual:        420.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    SPR.580     5    5.00
+    OTW.288     5  100.00
+    CIM.038     2   90.00
+    TXM.139     5   25.00
+    NMV.644     5  200.00
+
+
+Codigo Cliente:    42157219
+Placa:              T7F-869
+Carga Maxima:       1000.00
+Carga Actual:        132.50
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    KWP.672     6   60.00
+    KCO.488     2   10.00
+    III.576     6   60.00
+    OTS.581     5    2.50
+
+
+Codigo Cliente:    86241107
+Placa:              L3W-411
+Carga Maxima:       1000.00
+Carga Actual:        245.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    FEG.454     2  100.00
+    UXG.019     2   40.00
+    HFC.845     3   15.00
+    CIM.038     2   90.00
+
+
+Codigo Cliente:    26290971
+Placa:              V9J-051
+Carga Maxima:        300.00
+Carga Actual:        136.00
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    TZY.323     5  100.00
+    GKG.558     3   15.00
+    TYF.885     3    6.00
+    PVZ.181     3   15.00
+
+
+Codigo Cliente:    22280452
+Placa:              U5L-205
+Carga Maxima:       1200.00
+Carga Actual:        116.50
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    UCX.285     3    1.50
+    VRR.793     5    5.00
+    XSD.310     2  110.00
+
+
+Codigo Cliente:    90365520
+Placa:              M4Z-108
+Carga Maxima:       1000.00
+Carga Actual:        157.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    VDD.853     5   10.00
+    EUZ.452     6   30.00
+    OPJ.039     1   45.00
+    KBY.991     6   12.00
+    KWP.672     6   60.00
+
+
+Codigo Cliente:    40348917
+Placa:              M8W-853
+Carga Maxima:       1000.00
+Carga Actual:        525.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    VRR.793     3    3.00
+    DFJ.952     2  100.00
+    BMJ.772     1   55.00
+    FLJ.040     2    2.00
+    SNY.500     4  200.00
+    WZD.331     3  165.00
+
+
+Codigo Cliente:    95161027
+Placa:              B4R-105
+Carga Maxima:       1000.00
+Carga Actual:        213.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    TZY.323     5  100.00
+    OQI.373     1   45.00
+    FQG.293     4    4.00
+    VVS.017     5    4.00
+    III.576     5   50.00
+    VJI.529     2   10.00
+
+
+Codigo Cliente:    77191257
+Placa:              I0Y-720
+Carga Maxima:       1000.00
+Carga Actual:        659.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    BWD.036     5  225.00
+    AVM.258     6  300.00
+    ZEX.027     6    9.00
+    TZY.323     3   60.00
+    KWP.672     2   20.00
+    ZWF.661     4   20.00
+    QVJ.982     5   25.00
+
+
+Codigo Cliente:    62324793
+Placa:              P5B-640
+Carga Maxima:       1000.00
+Carga Actual:        594.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    OPJ.039     2   90.00
+    XBD.314     5  250.00
+    FQG.293     1    1.00
+    YJD.279     5  250.00
+    LDR.510     1    3.00
+
+
+Codigo Cliente:    16151792
+Placa:              L6Z-161
+Carga Maxima:        300.00
+Carga Actual:        286.00
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    AQS.362     1    0.50
+    TZY.323     3   60.00
+    AQS.362     1    0.50
+    CNQ.172     1   60.00
+    WZD.331     3  165.00
+
+
+Codigo Cliente:    66409237
+Placa:              Y4Y-028
+Carga Maxima:        300.00
+Carga Actual:        268.00
+#Filas:                   2
+#Puertas:                 2
+Pedidos: 
+    UXG.019     4   80.00
+    BRD.969     3  180.00
+    AWT.354     6    6.00
+    DFF.034     4    2.00
+
+
+Codigo Cliente:    63437380
+Placa:              K1F-766
+Carga Maxima:       1000.00
+Carga Actual:        362.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    YEZ.591     5  200.00
+    KQA.580     2   90.00
+    AWB.345     4   12.00
+    III.576     5   50.00
+    PJG.338     2   10.00
+
+
+Codigo Cliente:    95015539
+Placa:              F1F-571
+Carga Maxima:       1200.00
+Carga Actual:          4.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    CSZ.863     2    4.00
+
+
+Codigo Cliente:    25171011
+Placa:              M7F-612
+Carga Maxima:       1000.00
+Carga Actual:        484.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    DFJ.952     4  200.00
+    VCL.867     1   50.00
+    QRC.609     3    3.00
+    CIM.038     1   45.00
+    AWB.345     6   18.00
+    OPT.996     6   18.00
+    VCL.867     3  150.00
+
+
+Codigo Cliente:    90237332
+Placa:              L6D-758
+Carga Maxima:       1000.00
+Carga Actual:        444.50
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    TKM.141     3  150.00
+    OQI.373     1   45.00
+    PVZ.181     5   25.00
+    QFP.254     3    4.50
+    PFD.286     4  220.00
+
+
+Codigo Cliente:    87800799
+Placa:              N4J-043
+Carga Maxima:       1000.00
+Carga Actual:        634.25
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    JDC.028     5    1.25
+    QRC.609     1    1.00
+    EUZ.452     2   10.00
+    BTO.226     3   60.00
+    ICX.503     2  100.00
+    GBD.525     6  330.00
+    WZD.331     2  110.00
+    VRR.793     2    2.00
+    KWP.672     2   20.00
+
+
+Codigo Cliente:    38637282
+Placa:              X8U-894
+Carga Maxima:       1000.00
+Carga Actual:          7.70
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    OFS.384     1    1.70
+    FLJ.040     6    6.00
+
+
+Codigo Cliente:    15561764
+Placa:              N9Q-814
+Carga Maxima:        300.00
+Carga Actual:        236.00
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    RAH.420     4  200.00
+    FYF.898     2    4.00
+    JYQ.045     6   30.00
+    GBJ.693     2    2.00
+
+
+Codigo Cliente:    45877001
+Placa:              A7Y-833
+Carga Maxima:       1000.00
+Carga Actual:         55.20
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    KBY.991     6   12.00
+    RDT.761     5   25.00
+    GBJ.693     5    5.00
+    PJG.338     2   10.00
+    VVS.017     4    3.20
+
+
+Codigo Cliente:    87813843
+Placa:              E1N-544
+Carga Maxima:       1500.00
+Carga Actual:        428.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    OQI.373     1   45.00
+    LDR.510     6   18.00
+    XSD.310     3  165.00
+    MLE.193     4  200.00
+
+
+Codigo Cliente:    78757121
+Placa:              T0V-569
+Carga Maxima:       1000.00
+Carga Actual:        347.40
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    KJX.387     4   20.00
+    ARS.231     4    2.40
+    GXF.122     1   10.00
+    ZXK.295     4  180.00
+    OQI.373     3  135.00
+
+
+Codigo Cliente:    53166028
+Placa:              P7T-999
+Carga Maxima:       1000.00
+Carga Actual:         39.50
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    TXM.139     3   15.00
+    ONB.903     3    4.50
+    QHC.492     1   20.00
+
+
+Codigo Cliente:    15210391
+Placa:              I5K-310
+Carga Maxima:       1000.00
+Carga Actual:        134.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    AQS.362     2    1.00
+    DON.719     2    2.00
+    HFM.021     1    5.00
+    VXS.438     4    1.00
+    OTW.288     3   60.00
+    TZY.323     3   60.00
+    RSE.049     5    5.00
+
+
+Codigo Cliente:    89429489
+Placa:              S6Y-726
+Carga Maxima:       1000.00
+Carga Actual:        495.25
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    BXY.119     3  135.00
+    VCL.867     6  300.00
+    UXG.019     1   20.00
+    QUU.384     1   40.00
+    VXS.438     1    0.25
+
+
+Codigo Cliente:    43488351
+Placa:              T5L-371
+Carga Maxima:       1000.00
+Carga Actual:        690.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    QTK.083     6  360.00
+    DIQ.718     6   30.00
+    XLF.273     5  300.00
+
+
+Codigo Cliente:    73185299
+Placa:              L4O-783
+Carga Maxima:       1000.00
+Carga Actual:        457.50
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    AVM.258     3  150.00
+    QFP.254     5    7.50
+    QUU.384     3  120.00
+    QHC.492     3   60.00
+    OTH.462     3  120.00
+
+
+Codigo Cliente:    36380447
+Placa:              D2V-055
+Carga Maxima:       1000.00
+Carga Actual:         11.10
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    HLR.109     2    3.60
+    OWN.701     5    7.50
+
+
+Codigo Cliente:    97403853
+Placa:              I0W-872
+Carga Maxima:       1000.00
+Carga Actual:        187.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    GBJ.693     4    4.00
+    YJD.279     3  150.00
+    BCK.361     5    3.00
+    KQQ.136     6   30.00
+
+
+Codigo Cliente:    13245501
+Placa:              U6A-456
+Carga Maxima:        300.00
+Carga Actual:        294.75
+#Filas:                   2
+#Puertas:                 2
+Pedidos: 
+    KJX.387     5   25.00
+    QIL.029     2    6.00
+    BXY.119     5  225.00
+    ZWF.661     1    5.00
+    HFC.845     6   30.00
+    VXS.438     3    0.75
+    AWB.345     1    3.00
+
+
+Codigo Cliente:    89148118
+Placa:              R8H-409
+Carga Maxima:       1000.00
+Carga Actual:        710.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    JFC.432     5  100.00
+    AFL.718     1   10.00
+    XLF.273     5  300.00
+    TKM.141     6  300.00
+
+
+Codigo Cliente:    93845419
+Placa:              S4J-282
+Carga Maxima:       1000.00
+Carga Actual:        358.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    NSR.955     2  100.00
+    QIL.029     6   18.00
+    AWB.345     5   15.00
+    CIM.038     5  225.00
+
+
+Codigo Cliente:    19829266
+Placa:              E1J-798
+Carga Maxima:       1000.00
+Carga Actual:         70.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    UXG.019     2   40.00
+    RDT.761     3   15.00
+    TXM.139     3   15.00
+
+
+Codigo Cliente:    26233063
+Placa:              W1S-239
+Carga Maxima:       1000.00
+Carga Actual:        217.70
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    JFC.432     4   80.00
+    KSO.608     3  135.00
+    UWA.476     1    0.70
+    ZAF.449     2    2.00
+
+
+Codigo Cliente:    78922174
+Placa:              P6I-223
+Carga Maxima:       1200.00
+Carga Actual:        745.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    OQI.373     3  135.00
+    XBD.314     2  100.00
+    XBD.314     3  150.00
+    EJW.346     6   60.00
+    AFL.718     5   50.00
+    TKM.141     5  250.00
+
+
+Codigo Cliente:    42798099
+Placa:              N5Y-450
+Carga Maxima:       1000.00
+Carga Actual:        485.50
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    RDT.761     6   30.00
+    CNN.411     6  360.00
+    OQI.373     2   90.00
+    TMN.884     5    5.00
+    AQS.362     1    0.50
+
+
+Codigo Cliente:    79901434
+Placa:              D6F-465
+Carga Maxima:       1000.00
+Carga Actual:        158.10
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    TXM.139     2   10.00
+    CSZ.863     5   10.00
+    OXP.732     2   10.00
+    AHB.459     3    5.10
+    ZEX.027     2    3.00
+    OBI.353     6  120.00
+
+
+Codigo Cliente:    50375303
+Placa:              D5W-953
+Carga Maxima:       1200.00
+Carga Actual:        809.60
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    VXS.438     4    1.00
+    SJQ.827     2    3.60
+    YJD.279     5  250.00
+    AFL.718     1   10.00
+    KQA.580     5  225.00
+    CRU.009     5  200.00
+    JXD.139     6  120.00
+
+
+Codigo Cliente:    55552996
+Placa:              G0F-080
+Carga Maxima:       1000.00
+Carga Actual:        566.50
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    SSD.176     6  330.00
+    QTK.083     1   60.00
+    FQG.293     1    1.00
+    SJD.818     1   55.00
+    UXG.019     6  120.00
+    AQS.362     1    0.50
+
+
+Codigo Cliente:    45828535
+Placa:              C0G-556
+Carga Maxima:       1200.00
+Carga Actual:        720.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    YMU.875     5  250.00
+    TZY.323     6  120.00
+    AVM.258     2  100.00
+    XSD.310     4  220.00
+    QJO.060     6   30.00
+
+
+Codigo Cliente:    44229880
+Placa:              V4I-691
+Carga Maxima:       1200.00
+Carga Actual:        239.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    HLR.109     5    9.00
+    SNY.500     3  150.00
+    JXD.139     4   80.00
+
+
+Codigo Cliente:    59162728
+Placa:              C2S-070
+Carga Maxima:       1000.00
+Carga Actual:        200.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    FEG.454     4  200.00
+
+
+Codigo Cliente:    88995291
+Placa:              V7P-711
+Carga Maxima:        400.00
+Carga Actual:         18.60
+#Filas:                   2
+#Puertas:                 2
+Pedidos: 
+    HLR.109     2    3.60
+    MTF.868     3   15.00
+
+
+Codigo Cliente:    73914283
+Placa:              F3E-797
+Carga Maxima:       1000.00
+Carga Actual:        280.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    OBI.353     4   80.00
+    BRD.969     3  180.00
+    OBI.353     1   20.00
+
+
+Codigo Cliente:    44679500
+Placa:              R7U-941
+Carga Maxima:        300.00
+Carga Actual:          3.00
+#Filas:                   2
+#Puertas:                 2
+Pedidos: 
+    AWB.345     1    3.00
+
+
+Codigo Cliente:    59407188
+Placa:              D9A-711
+Carga Maxima:        300.00
+Carga Actual:        101.50
+#Filas:                   2
+#Puertas:                 3
+Pedidos: 
+    LYZ.614     3   15.00
+    RDT.761     5   25.00
+    OWN.701     1    1.50
+    BIT.434     6   60.00
+
+
+Codigo Cliente:    27635082
+Placa:              O8J-848
+Carga Maxima:       1000.00
+Carga Actual:          0.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    No hay pedido para el cliente
+
+
+Codigo Cliente:    54716824
+Placa:              V9F-655
+Carga Maxima:       1000.00
+Carga Actual:        302.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    CRU.009     6  240.00
+    ZEX.027     6    9.00
+    UDR.957     1   50.00
+    SPR.580     3    3.00
+
+
+Codigo Cliente:    40112594
+Placa:              T8Y-354
+Carga Maxima:        300.00
+Carga Actual:        271.20
+#Filas:                   2
+#Puertas:                 3
+Pedidos: 
+    BCK.361     2    1.20
+    KSO.608     6  270.00
+
+
+Codigo Cliente:    37110873
+Placa:              R0P-255
+Carga Maxima:       1000.00
+Carga Actual:        289.40
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    VDD.853     4    8.00
+    FCN.617     6   30.00
+    UWA.476     2    1.40
+    GXF.122     2   20.00
+    YZD.580     5   15.00
+    QUU.384     4  160.00
+    SSD.176     1   55.00
+
+
+Codigo Cliente:    83505958
+Placa:              P7E-145
+Carga Maxima:       1000.00
+Carga Actual:         41.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    MQR.442     1    1.00
+    EJW.346     3   30.00
+    TYF.885     5   10.00
+
+
+Codigo Cliente:    85871751
+Placa:              E3U-231
+Carga Maxima:       1000.00
+Carga Actual:        100.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    MYC.756     2  100.00
+
+
+Codigo Cliente:    11602775
+Placa:              D8R-235
+Carga Maxima:       1000.00
+Carga Actual:        945.00
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    TMJ.043     6  240.00
+    JJN.837     2   80.00
+    YYK.309     3  165.00
+    XLF.273     4  240.00
+    JJN.837     1   40.00
+    CIM.038     4  180.00
+
+
+Codigo Cliente:    86402303
+Placa:              H6X-124
+Carga Maxima:       1000.00
+Carga Actual:        360.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    HFM.021     6   30.00
+    RBE.789     6   60.00
+    OQI.373     3  135.00
+    OQI.373     3  135.00
+
+
+Codigo Cliente:    23928045
+Placa:              H8S-849
+Carga Maxima:        300.00
+Carga Actual:        267.00
+#Filas:                   2
+#Puertas:                 3
+Pedidos: 
+    TKM.141     5  250.00
+    OXP.732     3   15.00
+    TMN.884     2    2.00
+
+
+Codigo Cliente:    12663268
+Placa:              U0T-459
+Carga Maxima:       1500.00
+Carga Actual:        554.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    QFP.254     5    7.50
+    BMJ.772     1   55.00
+    RAH.420     3  150.00
+    XSD.310     6  330.00
+    YYU.726     4    6.40
+    AHB.459     3    5.10
+
+
+Codigo Cliente:    42928709
+Placa:              R5C-239
+Carga Maxima:       1000.00
+Carga Actual:        746.50
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    GLC.370     6   12.00
+    QIL.029     4   12.00
+    QFP.254     5    7.50
+    XLF.273     4  240.00
+    OQI.373     5  225.00
+    NSM.283     5  250.00
+
+
+Codigo Cliente:    85949265
+Placa:              N2C-590
+Carga Maxima:       1000.00
+Carga Actual:        453.00
+#Ejes:                    3
+#Llantas:                 8
+Pedidos: 
+    LDR.510     6   18.00
+    VRR.793     5    5.00
+    YUQ.590     2  110.00
+    TMJ.043     6  240.00
+    JFC.432     4   80.00
+
+
+Codigo Cliente:    17972674
+Placa:              B4I-014
+Carga Maxima:       1000.00
+Carga Actual:          8.60
+#Ejes:                    3
+#Llantas:                 6
+Pedidos: 
+    UTN.601     1    0.80
+    UWA.476     4    2.80
+    ZWF.661     1    5.00
+
+
+Codigo Cliente:    38913831
+Placa:              C0S-417
+Carga Maxima:        300.00
+Carga Actual:        216.00
+#Filas:                   1
+#Puertas:                 3
+Pedidos: 
+    FLW.631     3    3.00
+    JFC.432     3   60.00
+    YZD.580     1    3.00
+    BCN.855     3  150.00
+
+
+Codigo Cliente:    36008913
+Placa:              T9A-930
+Carga Maxima:       1000.00
+Carga Actual:         30.00
+#Ejes:                    2
+#Llantas:                 6
+Pedidos: 
+    HFC.845     6   30.00
+
+
+Codigo Cliente:    49087435
+Placa:              I1D-713
+Carga Maxima:       1200.00
+Carga Actual:        282.60
+#Ejes:                    2
+#Llantas:                 6
+Pedidos: 
+    III.576     2   20.00
+    AFL.718     1   10.00
+    XZR.640     6  240.00
+    PJG.338     1    5.00
+    SJQ.827     1    1.80
+    BCK.361     3    1.80
+    VDD.853     2    4.00
+
+
+Codigo Cliente:    58187172
+Placa:              O4X-603
+Carga Maxima:       1000.00
+Carga Actual:         12.50
+#Ejes:                    2
+#Llantas:                 6
+Pedidos: 
+    VXS.438     2    0.50
+    KBY.991     6   12.00
+
+
+Codigo Cliente:    69324480
+Placa:              S9I-160
+Carga Maxima:        300.00
+Carga Actual:        300.00
+#Filas:                   1
+#Puertas:                 3
+Pedidos: 
+    JCW.489     5  300.00
+
+
+Codigo Cliente:    32565207
+Placa:              D7L-648
+Carga Maxima:       1000.00
+Carga Actual:        575.00
+#Ejes:                    2
+#Llantas:                 8
+Pedidos: 
+    ZWF.661     6   30.00
+    TKM.141     4  200.00
+    FVQ.662     5  250.00
+    UXG.019     4   80.00
+    IDO.503     6   15.00
+
+
+Codigo Cliente:    71463316
+Placa:              N1O-921
+Carga Maxima:        300.00
+Carga Actual:        240.10
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    BCN.855     4  200.00
+    QFP.254     6    9.00
+    UWA.476     3    2.10
+    KCO.488     5   25.00
+    AWT.354     4    4.00
+
+
+Codigo Cliente:    86828079
+Placa:              W1C-444
+Carga Maxima:        300.00
+Carga Actual:         23.00
+#Filas:                   1
+#Puertas:                 1
+Pedidos: 
+    YGV.332     1    5.00
+    MQR.442     3    3.00
+    QIL.029     5   15.00
+
+
+Codigo Cliente:    29337157
+Placa:              M1E-751
+Carga Maxima:        300.00
+Carga Actual:        144.50
+#Filas:                   1
+#Puertas:                 1
+Pedidos: 
+    HFM.021     4   20.00
+    ZEX.027     3    4.50
+    QHC.492     6  120.00
+
+
+Codigo Cliente:    32904023
+Placa:              T6W-978
+Carga Maxima:        400.00
+Carga Actual:        286.00
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    KQQ.136     1    5.00
+    RBE.789     6   60.00
+    QFP.254     4    6.00
+    KJX.387     3   15.00
+    DUG.251     4  200.00
+
+
+Codigo Cliente:    28390487
+Placa:              I3A-223
+Carga Maxima:        300.00
+Carga Actual:          4.00
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    GLC.370     2    4.00
+
+
+Codigo Cliente:    98589725
+Placa:              H3E-885
+Carga Maxima:       1000.00
+Carga Actual:          1.00
+#Ejes:                    2
+#Llantas:                 8
+Pedidos: 
+    VRR.793     1    1.00
+
+
+Codigo Cliente:    77484838
+Placa:              N0Z-560
+Carga Maxima:       1000.00
+Carga Actual:        585.70
+#Ejes:                    2
+#Llantas:                 8
+Pedidos: 
+    YGV.332     3   15.00
+    YUQ.590     6  330.00
+    UDR.957     3  150.00
+    AFL.718     1   10.00
+    BTO.226     4   80.00
+    UWA.476     1    0.70
+
+
+Codigo Cliente:    88956889
+Placa:              B3U-845
+Carga Maxima:       1000.00
+Carga Actual:        347.30
+#Ejes:                    2
+#Llantas:                 8
+Pedidos: 
+    UWA.476     6    4.20
+    MYC.756     4  200.00
+    UWA.476     3    2.10
+    HFM.021     6   30.00
+    YUQ.590     2  110.00
+    TMN.884     1    1.00
+
+
+Codigo Cliente:    89863424
+Placa:              Y9G-536
+Carga Maxima:       1000.00
+Carga Actual:        513.00
+#Ejes:                    2
+#Llantas:                 6
+Pedidos: 
+    QRC.609     3    3.00
+    OTH.462     6  240.00
+    FVB.607     1   50.00
+    SSE.115     4  220.00
+
+
+Codigo Cliente:    99842319
+Placa:              N6D-256
+Carga Maxima:        300.00
+Carga Actual:        101.00
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    ZAF.449     1    1.00
+    DUG.251     2  100.00
+
+
+Codigo Cliente:    98140264
+Placa:              Z4L-514
+Carga Maxima:        400.00
+Carga Actual:        150.00
+#Filas:                   1
+#Puertas:                 2
+Pedidos: 
+    CJE.310     3    9.00
+    QHC.492     4   80.00
+    BRD.969     1   60.00
+    DFF.034     2    1.00
+
+
+Codigo Cliente:    69639726
+Placa:              Q5S-871
+Carga Maxima:        300.00
+Carga Actual:         10.00
+#Filas:                   2
+#Puertas:                 3
+Pedidos: 
+    DON.719     1    1.00
+    OPT.996     3    9.00
+
+
+Codigo Cliente:    93160528
+Placa:              E0I-722
+Carga Maxima:        300.00
+Carga Actual:        281.60
+#Filas:                   2
+#Puertas:                 3
+Pedidos: 
+    DUG.251     2  100.00
+    QTK.083     3  180.00
+    YYU.726     1    1.60
+
+
+Codigo Cliente:    24995742
+Placa:              X9D-758
+Carga Maxima:       1000.00
+Carga Actual:        218.00
+#Ejes:                    2
+#Llantas:                 6
+Pedidos: 
+    BWD.036     1   45.00
+    DON.719     3    3.00
+    YMU.875     3  150.00
+    KCO.488     4   20.00
+
+
+Codigo Cliente:    43043986
+Placa:              V7O-315
+Carga Maxima:       1000.00
+Carga Actual:        299.00
+#Ejes:                    2
+#Llantas:                 6
+Pedidos: 
+    TXM.139     3   15.00
+    SSD.176     5  275.00
+    QFP.254     5    7.50
+    ZEX.027     1    1.50
+
+
+Codigo Cliente:    52097922
+Placa:              A1Q-612
+Carga Maxima:       1000.00
+Carga Actual:        738.10
+#Ejes:                    2
+#Llantas:                 6
+Pedidos: 
+    XZG.521     4    6.00
+    MMA.577     2  120.00
+    XSD.310     6  330.00
+    UTN.601     2    1.60
+    GBD.525     5  275.00
+    OWN.701     2    3.00
+    ISU.815     5    2.50
+
+
