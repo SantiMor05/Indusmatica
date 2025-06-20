@@ -1,0 +1,78 @@
+202111260 GORDILLO/CASTRO/RONAL                                                      2   19.50  868.8020.00868.80
+202111397 ZEVALLOS/PRADO/RICARDO                                                     2   20.00  362.00 50.00362.00
+202111935 GUZMAN/BARROS/FELIPE                                                       3   22.0010092.40 1984F2-2 10092.40
+202112598 MORI/ZAVALETA/LUZ-LOURDES                                                  1   21.50  225.84 20.00225.84
+202112887 CABRERA/AGUERO/JESSICA                                                     2   21.00  362.00 50.00362.00
+202113179 PEREZ/PEREZ/BIANCA/PATRICIA                                                3   21.00 9638.20 6201G3-2 9638.20
+202113223 DIAZ/SEDANO/YVONNE                                                         4   19.50 1558.76 30.001558.76
+202113758 SOMA/INGA/DIALY                                                            1   21.00  310.5310.00310.53
+202114285 CHAVARRI/ALDAVE/FERNANDO-MARTIN                                            2   20.00  543.00 25.00543.00
+202114739 VELASQUEZ/CANO/FERNANDO                                                    4   22.00 1113.40 50.001113.40
+202115400 SANTISTEBAN/JUGO/NESTOR                                                    1   21.00  197.61 30.00197.61
+202115802 MINAYA/AMEZQUITA/RHONY-JAIME                                               5   18.50 4001.4020.004001.40
+202116038 SAONA/ARIAS/ALBERTO                                                        4   18.50 1670.10 25.001670.10
+202116963 CORTEZ/LEIVA/SURAMI-SILVIA                                                 4   20.00 1558.76 30.001558.76
+202119153 MENDOZA/ARIAS/HENRY                                                        4   19.50 2449.4810.002449.48
+202119707 MIRANDA/LARRIEGA/JUVENAL-NESTOR                                            2   18.00  506.80 30.00506.80
+202119958 QUISPE/BERROCAL/ANTONIO-ALVARO-DANIEL                                      3   22.00 1498.8610.001498.86
+202121791 GONZALES/VELASQUEZ/WALTER                                                  1   20.00  211.73 25.00211.73
+202122715 VARGAS/ZARATE/VALENTINA                                                    1   19.50 5604.85 2923-D-3 5604.85
+202122742 ZAVALETA/LOPEZ/KARIN-VIRGINIA                                              5   19.50 3667.9510.003667.95
+202123373 ESCALANTE/RARAZ/BLANCA                                                     3   18.00 1635.1220.001635.12
+202123402 VIZCARDO/MORI/LUCERO-ZKENIA                                                1   22.00  338.7620.00338.76
+202123703 GAMARRA/TABORI/PAUL-RONAL                                                  5   20.00 2334.15 30.002334.15
+202125607 POZO/JUGO/ISABEL                                                           2   20.00  796.4010.00796.40
+202125775 PRADO/PAREDES/JUAN                                                         3   21.50  681.30 50.00681.30
+202126490 TAVERA/CORREA/FERNANDO                                                     2   19.50  362.00 50.00362.00
+202127344 DEL_POZO/QUIO/CESAR                                                        3   18.50 8502.70 71293-E2 8502.70
+202127660 CHANG/ARGUEDAS/HENRY-ANTONIO                                               4   19.50 1670.10 25.001670.10
+202129611 MALDONADO/CORREA/LUCERO-CAROLA                                             2   19.50  796.4010.00796.40
+202129719 MAEIREIZO/VASQUEZ/LOURDES-SILVIA                                           2   22.00  796.4010.00796.40
+202129735 MENDOZA/CORREA/JESUS-CHRISTIAN                                             5   18.00 1667.25 50.001667.25
+202129785 FARFAN/RARAZ/WALDEMAR                                                      4   18.50 1113.40 50.001113.40
+202211325 MORI/ARROYO/SHIRLEY                                                        3   21.50 1635.1220.001635.12
+202213745 CARO/QUISPE/JORGE                                                          1   18.00 5181.40 8124K3-D 5181.40
+202214204 DIAZ/IBEROS/GLENDA-YESSICA                                                 4   21.00 1113.40 50.001113.40
+202214628 PALOMARES/GUEVARA/KARINA                                                   5   18.50 4001.4020.004001.40
+202214712 CASANOVA/CHUMPITAZ/ALONSO                                                  2   18.00 6616.00 7883G2-4 6616.00
+202215067 JAUREGUI/AGUERO/HECTOR-HENRY                                               4   19.50 1113.40 50.001113.40
+202215494 DE_LA_HAZA/CASTRO/EMIGDIO-JOHNNY                                           2   21.00  506.80 30.00506.80
+202216453 MINAYA/VIZCARRA/JUVENAL                                                    3   19.50 1021.95 25.001021.95
+202216995 LARRIEGA/ARCA/ISABEL-MADELEINE                                             5   20.00 3667.9510.003667.95
+202217030 LUNA/POLO/SONIA                                                            3   20.00 9184.00 82612-3R 9184.00
+202219437 ZIMIC/PAREDES/SHIRLEY                                                      4   18.50 1670.10 25.001670.10
+202219773 SANCHEZ/CUBA/NATALIA-ESTEFANIA                                             5   21.00 1667.25 50.001667.25
+202221155 CORRALES/ZIMIC/JAIME-DANIEL                                                5   18.00 4001.4020.004001.40
+202222447 VILCA/JUSTINO/MELVIN                                                       1   18.50 5322.55 852-63466 5322.55
+202223508 AURIS/JOLAY/HENRY-EDILBERTO                                                5   19.50 1667.25 50.001667.25
+202224569 RIVERA/PASQUEL/OFELIA-CINTHIA                                              5   22.00 3667.9510.003667.95
+202224918 PORTUGAL/GUEVARA/HELI-JOHANA                                               5   19.50 1667.25 50.001667.25
+202225778 MUNOZ/ZIMIC/ROCIO-DELICIA                                                  2   19.50  362.00 50.00362.00
+202226249 WONG/GALLO/JANET-MADELEINE                                                 1   19.50  197.61 30.00197.61
+202226929 BOLANOS/FUENTES/JORGE                                                      2   19.50  362.00 50.00362.00
+202227316 RIVERO/RETT/RONY-ANTONIO                                                   2   22.00  506.80 30.00506.80
+202311247 SERRANO/JOLAY/RHONY-ROLANDO                                                5   22.00 3667.9510.003667.95
+202311748 PATINO/FUENTES/MILAGROS-MARIELLA                                           4   18.0010120.60 2810-B29 10120.60
+202312000 LANDA/CUEVA/JOHAN                                                          4   18.5010398.95 212D3-4 10398.95
+202312050 LOYOLA/HIJAR/NICOLAS-OSCAR                                                 4   22.0012347.40 125K-955 12347.40
+202312360 VILCA/BARRERA/CESAR-EDGAR                                                  5   22.00 1667.25 50.001667.25
+202312501 CORTES/REYES/MARIBEL                                                       2   18.50 6797.00 9182-FR33 6797.00
+202313065 RETT/SERRANO/RAFAEL-RHONY                                                  2   22.00 8064.00 2193T9-2 8064.00
+202313122 CUBA/NARVAEZ/PAUL-JOHN                                                     2   20.00  868.8020.00868.80
+202313249 NORABUENA/PAIRAZAMAN/JULIAN                                                3   21.50 1498.8610.001498.86
+202313627 CHAVEZ/CARO/YVONNE                                                         1   21.50 6169.45 897H-533 6169.45
+202313754 MALCA/SAAVEDRA/DORIS-MILAGROS                                              3   18.50  953.82 30.00953.82
+202314919 CORTES/CALIXTO/ROSARIO                                                     5   19.50 1667.25 50.001667.25
+202315318 FLORENCIO/LAM/PAUL-RONALD                                                  3   21.00 1498.8610.001498.86
+202315527 JUSTINO/COLLADO/LUZ-DELICIA                                                3   21.00  953.82 30.00953.82
+202315643 IBEROS/ZAMBRANO/GONZALO                                                    2   22.00  796.4010.00796.40
+202315724 VEGA/SAENZ/ALEXANDER-RICHARD                                               4   19.50 1113.40 50.001113.40
+202315763 CORREA/AGUIRRE/MOISES                                                      2   22.00  506.80 30.00506.80
+202316015 ALFARO/FUENTES/MAGDA                                                       3   22.0010092.40 819212-T 10092.40
+202316517 ZEGARRA/CUBA/ANTONIO                                                       2   21.00  796.4010.00796.40
+202318072 RIVERA/MONTERO/GLORIA-OFELIA                                               3   20.00 9184.00 323R33-2 9184.00
+202318318 TOKESHI/GONZALES/MARTIN                                                    1   21.50  141.15 50.00141.15
+202318320 NORABUENA/RIVERA/GLORIA-YESSICA                                            5   20.0013438.00 7120L-23 13438.00
+202318383 GORDILLO/BOLANOS/ARTURO-GONZALO                                            3   22.00 1635.1220.001635.12
+202319103 LEE/VASQUEZ/JENNY                                                          4   21.5012069.05 144M2-56 12069.05
+202319927 PATINO/MEZA/MANUEL                                                         3   19.50 8956.90 872193-E 8956.90
