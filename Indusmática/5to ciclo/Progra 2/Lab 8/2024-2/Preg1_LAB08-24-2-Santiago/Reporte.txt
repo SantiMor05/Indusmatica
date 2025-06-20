@@ -1,0 +1,12 @@
+Detalle Comandas
+================================================
+Codigo de comanda: 142
+Nombre: Cafe
+Precio: 2.00
+Tamano: grande
+
+Codigo de comanda: 142
+Nombre: Agua Mineral
+Precio: 2.50
+Tamano: pequeno
+
