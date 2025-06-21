@@ -25,17 +25,16 @@ int max(int a, int b) {
 }
 
 int buscarNivel(int *arr, int ini, int fin) {
-    if (ini == fin)return arr[ini];
-
-    if (fin == ini + 1)
-        return max(arr[ini], arr[fin]);
+    if (ini == fin)
+        return arr[ini];
 
     int mid = (ini + fin) / 2;
 
     if (arr[mid] > arr[mid - 1] and arr[mid] > arr[mid + 1])
         return arr[mid];
 
-    if (arr[mid] < arr[mid + 1])
+    if (arr[mid] < arr[mid + 1] or (arr[mid] == 0 and arr[ini] == 0) or
+            (arr[mid] == arr[mid + 1] and arr[mid] < arr[fin]))
         return buscarNivel(arr, mid + 1, fin);
     else
         return buscarNivel(arr, ini, mid - 1);
@@ -65,13 +64,13 @@ void buscarCeroIzq(int *arr, int ini, int fin, int &cont) {
 
 int main(int argc, char** argv) {
     int arr[N][N] = {
-        {0, 0, 0, 3, 3, 7, 5, 5, 1, 1},
+        {0, 1, 1, 3, 3, 7, 5, 5, 1, 1},
         {8, 8, 10, 9, 9, 5, 4, 4, 2, 0},
         {3, 5, 8, 9, 7, 6, 4, 2, 0, 0},
         {9, 7, 7, 4, 4, 4, 2, 0, 0, 0},
         {0, 2, 2, 3, 3, 4, 4, 5, 3, 3},
         {0, 0, 0, 0, 0, 0, 2, 3, 4, 5},
-        {1, 2, 2, 3, 3, 4, 3, 2, 0, 0},
+        {1, 2, 2, 3, 3, 4, 3, 2, 1, 0},
         {0, 0, 0, 0, 0, 0, 3, 5, 5, 7},
         {6, 5, 5, 2, 2, 1, 0, 0, 0, 0},
         {3, 2, 2, 0, 0, 0, 0, 0, 0, 0}
