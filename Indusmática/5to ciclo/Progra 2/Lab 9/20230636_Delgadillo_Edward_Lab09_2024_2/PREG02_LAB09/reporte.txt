@@ -1,0 +1,898 @@
+Restaurante: Ancora Cap Cana - Marina Resort & Villas - All inclusive family concept
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    tranquilo de buena gracias por en en dios regalo esta 
+  Oracion con menor polaridad: 
+    al de por la excelente de alegre en la dedicado al alegria que de en de de la se que se de alegria de que se de una de alegria de 
+  Positivos: 736  Negativos: 303  Neutros: 2
+--------------------------------------------------
+Restaurante: Art Villa Dominicana
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    no lo mala mucho que no al mismo mucho lo bueno es la que 
+  Oracion con menor polaridad: 
+    que encantados encanto lo de que es de energia encantador de 
+  Positivos: 490  Negativos: 299  Neutros: 0
+--------------------------------------------------
+Restaurante: Bahia Principe Fantasia Punta Cana
+  Oraciones con polaridad 0: 
+    una en es amable en de que poco en la que es gusto esta bien si de tiempo que bien cuidados no no buena que no es amable que que cierto de la no 
+    que la no no ha de pagado por que de no que esta 
+  Oracion con mas polaridad: 
+    por desagradable que te de la molesto mal la falta de que no que lo 
+  Oracion con menor polaridad: 
+    excelente es la vez que de por lo que encantados es de la mejorar es de pesimo en la 
+  Positivos: 7602  Negativos: 4530  Neutros: 10
+--------------------------------------------------
+Restaurante: Bahia Principe Grand Bavaro
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    no al al pedir que te en te solo que no imponer que se que la dejar por al de hacer desastre de la al de la la que por la mala si una mejor de la en es no te que te 
+  Oracion con menor polaridad: 
+    en estupendo buen lo que no gusto es la compartido la de de la una por la en que se paga en de 
+  Positivos: 7593  Negativos: 4798  Neutros: 18
+--------------------------------------------------
+Restaurante: Bahia Principe Luxury Ambar
+  Oraciones con polaridad 0: 
+    es la vez que deseando la mucho que la en esta bien es pesimo en calor que estar que lo no lo 
+    lo genial la la es buena la que es que es una no lo la tranquilidad que no dudas no una hacer 
+  Oracion con mas polaridad: 
+    de llegar de increibles en la mucho por solo de al dificil no injusto si por al que la suerte honor de en profesional en la hacer 
+  Oracion con menor polaridad: 
+    la vez en vez en en la si pagado una la en de mismo si la que pesimo en de la no de la por lo mejor terrible cosas de una 
+  Positivos: 7792  Negativos: 4383  Neutros: 8
+--------------------------------------------------
+Restaurante: Bahia Principe Luxury Esmeralda
+  Oraciones con polaridad 0: 
+    en en por mal lo problemas cosas lo no es cosas solo 
+  Oracion con mas polaridad: 
+    de por de la hacer por que exponer de al llegar al en la de de de pesimo en la no disculpas de la la se de la de lo que que en se la que 
+  Oracion con menor polaridad: 
+    la problema en la es lo que es en la se no es caso una de gustos duda la pena la en mismo 
+  Positivos: 7393  Negativos: 4274  Neutros: 9
+--------------------------------------------------
+Restaurante: Barcelo Bavaro Palace
+  Oraciones con polaridad 0: 
+    por la que no al poco no la 
+  Oracion con mas polaridad: 
+    la de es es bueno algun ganado esta excelencia malos la es buena de 
+  Oracion con menor polaridad: 
+    increible una mucho mejor de lo que excelente paraiso dios 
+  Positivos: 6083  Negativos: 3525  Neutros: 9
+--------------------------------------------------
+Restaurante: Bavaro Green
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    buen buena tranquilo de carino puede pedir en en la 
+  Oracion con menor polaridad: 
+    por una buena en la cuidado bien la en de la de una por no problema en la fantastico seguro 
+  Positivos: 454  Negativos: 264  Neutros: 0
+--------------------------------------------------
+Restaurante: Bavaro Punta Cana Hotel Flamboyan
+  Oraciones con polaridad 0: 
+    en si es buen que no lo demasiado la que en mismo no buen caro no bien lo que 
+  Oracion con mas polaridad: 
+    que decir de maravilloso la de de de te una una encantador en la la en la te no querer de de 
+  Oracion con menor polaridad: 
+    de no por es mejor de la de la que que de no de de funciona solo una una de de la por es agradable servicial no de que escandalo de la gratis si de de la baja de lo 
+  Positivos: 397  Negativos: 242  Neutros: 0
+--------------------------------------------------
+Restaurante: Be Live Collection Punta Cana
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    excelente amable la bueno divertido encanto 
+  Oracion con menor polaridad: 
+    la es es de confianza la que de que se recomienda que gusto de lindo la excelente de es lo mejor 
+  Positivos: 6726  Negativos: 3686  Neutros: 5
+--------------------------------------------------
+Restaurante: Be Live Collection Punta Cana Adults Only
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    por de la mala en esta se lo bueno al llegar de no la de una vez la la bien poco cosas en bien te que en no la extras en pagado la de en la que excelente felicitaciones 
+  Oracion con menor polaridad: 
+    es que en de amable no es grande la que lo por en estado en que te que de la de estar esperando por buen al de de por simpatia buen al de en una duda que en 
+  Positivos: 2136  Negativos: 1005  Neutros: 4
+--------------------------------------------------
+Restaurante: Breathless Punta Cana Resort & Spa
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    de que que por que la genial genial no queja 
+  Oracion con menor polaridad: 
+    buen en en en la de la de gracias lo genial 
+  Positivos: 6766  Negativos: 3000  Neutros: 2
+--------------------------------------------------
+Restaurante: Caribe Deluxe Princess
+  Oraciones con polaridad 0: 
+    bien la de es lo peor la te es por que por estar 
+    al la que la desastre en no se no te se no porta minado de de en horrible 
+    estado una super divertido no te en ha placer ha encantador estar 
+  Oracion con mas polaridad: 
+    buena no excelente buena buen excelente de en en la en la que lo lleno en agradable bonito 
+  Oracion con menor polaridad: 
+    la te en se lo mucho no feo lo que te lo genial 
+  Positivos: 7248  Negativos: 3806  Neutros: 13
+--------------------------------------------------
+Restaurante: Catalonia Royal Bavaro
+  Oraciones con polaridad 0: 
+    mejor mejor gusta esta tiempo lo que no 
+    encanto agradable no es que es malo la es mejor que la de esta super que no problema en 
+    la sensacion no se se mal la es la al no la la es buena falta por lo es alto lo 
+    bien lo dificil de malos lo facil de de la de de no puede cometer errores no no mal 
+    excelente no igual la es te 
+  Oracion con mas polaridad: 
+    lo mejor duda que te falta de la correcta la de la no es la la gracias por simpatia algun 
+  Oracion con menor polaridad: 
+    una pena no buen una de acuerdo lo la en buena la de no problemas te la solucion de que no 
+  Positivos: 6312  Negativos: 3562  Neutros: 9
+--------------------------------------------------
+Restaurante: Club Med Punta Cana
+  Oraciones con polaridad 0: 
+    esta en que estar por baja descuido por importante esta descuidado 
+  Oracion con mas polaridad: 
+    increible super recomendable hermosas buena gustos no en super placer en no positivo es que en de la que que se increible por se de perfecto de que una buena de buena buen algun 
+  Oracion con menor polaridad: 
+    es enorme no en que demasiado calor hacer de de la divertido mucho calor en la no en la en que lo que lo que la horrible horrible horrible la no no de 
+  Positivos: 4389  Negativos: 2331  Neutros: 7
+--------------------------------------------------
+Restaurante: Coral Level at Iberostar Selection Bavaro
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    enorme la de la 
+  Oracion con menor polaridad: 
+    de que en esta no lo mismo de cosas lo simplificar que en la de es pesimo en de una no lo que bien es es que es lo que se lo peor que que mejor por 
+  Positivos: 1538  Negativos: 679  Neutros: 0
+--------------------------------------------------
+Restaurante: Del Mar by Joy Resorts
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    es maravilloso estar relajado la es linda la es la es super grande la es buena en es enorme deseo de gusta mucho 
+  Oracion con menor polaridad: 
+    excelente en por por inmejorable de de que de una agradable 
+  Positivos: 2523  Negativos: 1160  Neutros: 0
+--------------------------------------------------
+Restaurante: Dreams Macao Beach Punta Cana
+  Oraciones con polaridad 0: 
+    
+  Oracion con mas polaridad: 
+    al de pasado capacidad de la es excelente lo que en mejor de gracias por lo al buena la en en excelente 
+  Oracion con menor polaridad: 
+    la de ha una de que en ha estado al de la esta lleno de que no de 
+  Positivos: 5678  Negativos: 2333  Neutros: 3
+--------------------------------------------------
+Restaurante: Dreams Onyx Resort & Spa
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    una la que en una al que por cierto bien activo de la en de que la super bien la super hacer la es en algun hacer poco de al que en 
+  Oracion con menor polaridad: 
+    la poco la no bien la buena en recomendable tranquilidad te al 
+  Positivos: 6596  Negativos: 2988  Neutros: 7
+--------------------------------------------------
+Restaurante: Dreams Palm Beach Punta Cana
+  Oraciones con polaridad 0: 
+    mucho que la la lo bueno es que duda peor la peor mucho lo 
+  Oracion con mas polaridad: 
+    lo bien la buena una excelente en que en una amable 
+  Oracion con menor polaridad: 
+    encanto es es increible la la que parte de la en que esta en la de una exelente en si dios 
+  Positivos: 6667  Negativos: 3162  Neutros: 6
+--------------------------------------------------
+Restaurante: Dreams Punta Cana Resort & Spa
+  Oraciones con polaridad 0: 
+    en que no lo mejor de ha que ha estado amable de 
+    es super la es divertido la es hermosa grande la es excelente es fabuloso es super amable divertido 
+    bien bien felicidades mucho en compartir hacer que 
+    es bonito es sexy 
+  Oracion con mas polaridad: 
+    la bien en es la maravilla estado en encanto la en la la que se es de sorprendido en exclusivo de buena que que 
+  Oracion con menor polaridad: 
+    es que es de lo amable la en es no que de de se por hacer la en de se en la de por en 
+  Positivos: 6500  Negativos: 2890  Neutros: 4
+--------------------------------------------------
+Restaurante: Dreams Royal Beach Punta Cana
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    encantado por que mejor de de al mejor que lo que esta una la de igual de buena por no gracias de disfrutar de en se 
+  Oracion con menor polaridad: 
+    excelente no la que si en por que te de toma de de de no de de de 
+  Positivos: 2337  Negativos: 802  Neutros: 1
+--------------------------------------------------
+Restaurante: Ducassi Suites Rooftop Pool Beach Club & Spa
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    la en no la la no la retirada de la de lo que de es rudo te de valor alto por la perdida de la no te te la no derecho es la esta en la de la de la la esta la no es agradable la parte de de no es agradable de es compartido 
+  Oracion con menor polaridad: 
+    la oportunidad de excelente de parte que de buen la mejor de excelente oferta de se que se posibilidades 
+  Positivos: 760  Negativos: 327  Neutros: 1
+--------------------------------------------------
+Restaurante: Eden Roc Cap Cana
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    lo bien en una que de de vida dios la te que 
+  Oracion con menor polaridad: 
+    vez que una en la al la no que lo la de la que de comodo por la mucho la no solo por que es importante si no por la una enorme que una hermosa una que querer 
+  Positivos: 1519  Negativos: 686  Neutros: 1
+--------------------------------------------------
+Restaurante: Excellence El Carmen
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    en lo de es de de pasado en es super amable excelente que es malo de la que por una que al que de parte que es se feo que al que no es que si la no de gratis gracias de 
+  Oracion con menor polaridad: 
+    una la que que estupendo maravilloso no magnifico excelente 
+  Positivos: 4235  Negativos: 1868  Neutros: 2
+--------------------------------------------------
+Restaurante: Excellence Punta Cana
+  Oraciones con polaridad 0: 
+    bien bueno solo que de bien es excelente 
+    es bueno en sentido es mejorar cosas en caso mejorar ampliar no que no bueno que mucho mejor la no queja de 
+    encanto que que la es que es la en es 
+  Oracion con mas polaridad: 
+    honor en la demasiado buena la en en de buen animo una que es al que que 
+  Oracion con menor polaridad: 
+    esta en en la en de la de en en lo de en en demasiado bien servicial de que no la de de energia se dejar la de en una de la la se 
+  Positivos: 4722  Negativos: 2584  Neutros: 2
+--------------------------------------------------
+Restaurante: Family Club at Barcelo Bavaro Palace
+  Oraciones con polaridad 0: 
+    que en que mal de que al 
+    en una de no la no perder tiempo que propaganda 
+    al es costoso atracciones que solo super es lento de la de es bien una 
+  Oracion con mas polaridad: 
+    de lo la de la pena amable en de por parte la de de una buen felicitaciones 
+  Oracion con menor polaridad: 
+    que decir es en la amable de la mejor estar de bueno tranquilo una de 
+  Positivos: 1294  Negativos: 827  Neutros: 0
+--------------------------------------------------
+Restaurante: Finest Punta Cana By The Excellence Collection All Inclusive
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    en cosas la encanto que gracias por maravilloso gracias 
+  Oracion con menor polaridad: 
+    en la la excelente no de de de de la en punto de buena bien por igual buena de hacer de que en de lo mejor que que no lo de la oferta en 
+  Positivos: 385  Negativos: 167  Neutros: 0
+--------------------------------------------------
+Restaurante: Four Points by Sheraton Puntacana Village
+  Oraciones con polaridad 0: 
+    es excelente al lo mejor es que te la alegria que al 
+  Oracion con mas polaridad: 
+    en la la excelente falta la no es una paga por por la en la no mucho que en no de la que la que en 
+  Oracion con menor polaridad: 
+    excelente buen al de en la 
+  Positivos: 1831  Negativos: 962  Neutros: 2
+--------------------------------------------------
+Restaurante: Grand Bahia Principe Aquamarine
+  Oraciones con polaridad 0: 
+    lo que duras que en que queja de malos excelente 
+    la esta bien si no por la es no no que la de que la direccion no solo 
+  Oracion con mas polaridad: 
+    pasado de por error de la en en es desastre mala de dificil al la estar gracias que al se la no lo se que al de la la la la de la no es por no es 
+  Oracion con menor polaridad: 
+    lo que gusta de es lo malo es que al por de amable es buena lo al 
+  Positivos: 5550  Negativos: 3117  Neutros: 11
+--------------------------------------------------
+Restaurante: Grand Bavaro Princess
+  Oraciones con polaridad 0: 
+    gusto mucho la la que es que no de lo es en caso la en que es una que que no disfrutar que lo bien 
+  Oracion con mas polaridad: 
+    la en buena que la que mejor la excelente que de parte de la excelente buena en por que en mismo al por en la solucion de la par lo mejor la de buena de la mejor 
+  Oracion con menor polaridad: 
+    disfrutando de de en que la buena pasado en esta de de en solo en una en en mal estado ducha presion la de claramente lo mejor de amable servicial no lo que pagado 
+  Positivos: 5909  Negativos: 2556  Neutros: 3
+--------------------------------------------------
+Restaurante: Grand Palladium Bavaro Suites Resort & Spa
+  Oraciones con polaridad 0: 
+    es fantastico la te carino en esta duda si es al que 
+    es bueno que de mal que esperando por que no 
+    que de en al no es caso aislado que por que en que mucho en esta oportunidad en igual que es contagioso si no toma ojala de lo no que 
+  Oracion con mas polaridad: 
+    excelente la gusto la es excelente la 
+  Oracion con menor polaridad: 
+    la la es de la mejorar en que no la que no en la si no 
+  Positivos: 5438  Negativos: 2687  Neutros: 10
+--------------------------------------------------
+Restaurante: Grand Palladium Palace Resort Spa & Casino
+  Oraciones con polaridad 0: 
+    no no lo de hacer la te mayor que no dejar de valor de la fuerte te lo estar que te robar en no es agradable 
+    no al por la que no es no perder esta te de una de que no la de 
+  Oracion con mas polaridad: 
+    una de impresionante en que lo por que no de que en 
+  Oracion con menor polaridad: 
+    de la super bien excelente en de favoritos en bien en poco de es poco confuso gracias por buen 
+  Positivos: 5939  Negativos: 3094  Neutros: 4
+--------------------------------------------------
+Restaurante: Grand Palladium Punta Cana Resort & Spa
+  Oraciones con polaridad 0: 
+    es de la no demasiado ayuda de lleno no al mismo 
+  Oracion con mas polaridad: 
+    es la vez que duda es al la es bonita en la de la es de buena duda lo que te es maravilloso que que te en de la de que te la de en en la de por maravilloso 
+  Oracion con menor polaridad: 
+    la de en lo pasado genial la en de en la cosas la sentido en 
+  Positivos: 5701  Negativos: 2803  Neutros: 7
+--------------------------------------------------
+Restaurante: Grand Sirenis Punta Cana Resort
+  Oraciones con polaridad 0: 
+    lamentable de fraude lo mismo caso te esperar en la la de no es que por la que una te en la la suciedad es no caso es de la en que estado de es decepcionado no lo no 
+    duda lo que que al de super pena 
+    linda es amable es bueno la lo que que que es de es una servicial de que bien 
+    de recomendar que no no hacer la es recomendar que gracias 
+    ha estado genial no decir malo en lo genial 
+  Oracion con mas polaridad: 
+    excelente una en buena solo recomendable 
+  Oracion con menor polaridad: 
+    excelente excelente es bueno es excelente linda barra mucho excelente en excelente la la en la de la 
+  Positivos: 6503  Negativos: 3349  Neutros: 5
+--------------------------------------------------
+Restaurante: Hard Rock Hotel & Casino Punta Cana
+  Oraciones con polaridad 0: 
+    lo que se es la por mejorar que es lento solo la de por lo que se lo que no lo que la lo que mal falta en en la se por la no desagradable estar no gracias una vez lo peor que una pena 
+  Oracion con mas polaridad: 
+    la genial de es excelente de super la la es de en la de de 
+  Oracion con menor polaridad: 
+    en al encanto no gusto mucho que 
+  Positivos: 6021  Negativos: 2906  Neutros: 4
+--------------------------------------------------
+Restaurante: Hostel Punta Cana
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    es bonito que mejorar en cosas que mejor poco obsoleto no esta mal la es no es mala que mejorar gracias 
+  Oracion con menor polaridad: 
+    excelente que esta de por en esta que 
+  Positivos: 122  Negativos: 103  Neutros: 0
+--------------------------------------------------
+Restaurante: Hotel Cortecito Inn
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    una sucio la de mala que en no es malo lo por no en que de la que la es pedir que no te lo no que que una por de de no una en al enojado en una mala la 
+  Oracion con menor polaridad: 
+    de en en es bueno elegante de que se lo la paraiso hermosas la es mejor 
+  Positivos: 1262  Negativos: 945  Neutros: 0
+--------------------------------------------------
+Restaurante: Hotel Punta Cana
+  Oraciones con polaridad 0: 
+    super no inconveniente lo genial que esta de la no al 
+    no solo de que de de que si lo no te 
+  Oracion con mas polaridad: 
+    una en en excelente pena en en en 
+  Oracion con menor polaridad: 
+    lo al 
+  Positivos: 2008  Negativos: 1143  Neutros: 1
+--------------------------------------------------
+Restaurante: Hotel Punta Cana Princess All Suites Resort & Spa
+  Oraciones con polaridad 0: 
+    es excelente la lo bien 
+    es la es grande la es lo que gusto la no bien la de que bien 
+    buen la esta seguridad la te bien se mucho solo que pagado no que lo 
+  Oracion con mas polaridad: 
+    la es increible de esta recomendado solo en lo mejor es que es solo 
+  Oracion con menor polaridad: 
+    en no se al de excelente bien super disfrutar de en 
+  Positivos: 7057  Negativos: 3605  Neutros: 7
+--------------------------------------------------
+Restaurante: Hotel Riu Palace Macao
+  Oraciones con polaridad 0: 
+    alegre lo mejor es lo malo es que por la que paga por lo es que no en inaceptable en que en buen 
+    es de que no gusto la es lo es que que la mucho en 
+    es bien lo que la es te importante la es de buena 
+    es no falta de buena la poco bien que que pedir buen de si no poco que esta la 
+  Oracion con mas polaridad: 
+    felicidades por la buena que de solo 
+  Oracion con menor polaridad: 
+    que no la que se la en en en mismo en de al amable de buen una de que la es de por lo que no si hacer la que te al 
+  Positivos: 7975  Negativos: 4764  Neutros: 8
+--------------------------------------------------
+Restaurante: Hotel Riu Palace Punta Cana
+  Oraciones con polaridad 0: 
+    que en amable 
+    
+    ha en de buena no es bien 
+    excelente al esta buen super la es la no es mejor la critica es poco sucio problema de no 
+  Oracion con mas polaridad: 
+    bueno la es de buena al fabuloso genial lo es que falta la bueno es al 
+  Oracion con menor polaridad: 
+    en en la desgracia de mal mentiroso se que no lo la mal de 
+  Positivos: 5918  Negativos: 3115  Neutros: 7
+--------------------------------------------------
+Restaurante: Hotel Riu Republica
+  Oraciones con polaridad 0: 
+    estado pasado en que es alergico al solo al llegar una en de al hacer la de esta pedir de por que que que que no hacer desastres de si evitar la de no mal te que no en 
+  Oracion con mas polaridad: 
+    por mala en al llegar de de solo la en la que no funciona la no de que la esta que que al de que esperando en una mal de 
+  Oracion con menor polaridad: 
+    buena de de una al al al 
+  Positivos: 6281  Negativos: 3201  Neutros: 6
+--------------------------------------------------
+Restaurante: Hotel Tropicana Suites Deluxe Beach Club & Pool
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    al peor malisimo no la barrera esta no es que no enemigo una 
+  Oracion con menor polaridad: 
+    no bien en duda hacer lo de de de problemas en de en no la de una que en es una no en la en llegar que al por una en la no que disfrutar que fingir que en en la que no que hacer si 
+  Positivos: 654  Negativos: 281  Neutros: 1
+--------------------------------------------------
+Restaurante: Hyatt Zilara Cap Cana
+  Oraciones con polaridad 0: 
+    excelente no mejor servicial lo que es que la que no lo excelente 
+  Oracion con mas polaridad: 
+    es excelente hacer al en por excelente en de de 
+  Oracion con menor polaridad: 
+    buen la por mucho una en una recomendable 
+  Positivos: 6434  Negativos: 2639  Neutros: 6
+--------------------------------------------------
+Restaurante: Hyatt Ziva Cap Cana
+  Oraciones con polaridad 0: 
+    al por en al al no malo excelente 
+  Oracion con mas polaridad: 
+    super bien increible gracias al de en la la la de de esta una de de vida gracias 
+  Oracion con menor polaridad: 
+    la mejor en en vida excelente no de la que mejorar de de es de la de la 
+  Positivos: 6156  Negativos: 2496  Neutros: 2
+--------------------------------------------------
+Restaurante: Iberostar Dominicana
+  Oraciones con polaridad 0: 
+    la que de que por de de lo que por punto debil que no por hacer mismo que que al una que de que no que es no que estado lo es una se que 
+  Oracion con mas polaridad: 
+    excelente por la en perfectas la excelente por parte de en de preocupado de lo que que 
+  Oracion con menor polaridad: 
+    de de se si no de es de es pobre en la cierto de no es solo se bien la cerveza en no 
+  Positivos: 7148  Negativos: 3693  Neutros: 8
+--------------------------------------------------
+Restaurante: Iberostar Grand Bavaro
+  Oraciones con polaridad 0: 
+    es perfecto de la es excelente es es dulce si estar tranquilo disfrutar es perfecto es solo es punto que mejorar es en que no se se igual en una 
+  Oracion con mas polaridad: 
+    en es de que te una una que se de que al en una super agradable gracias por mejor gracias por hacer que una de de maravilloso gracias que decir de en jovial que no 
+  Oracion con menor polaridad: 
+    estado en maravilloso se la buen que de de en la bienvenida que no en que la en la la cortesia en barra la que se deleite en diversiones que de placer en la que se logra es gracias 
+  Positivos: 7022  Negativos: 3305  Neutros: 4
+--------------------------------------------------
+Restaurante: Iberostar Punta Cana
+  Oraciones con polaridad 0: 
+    no si no malos no estado en en que peor no lo que es la no cuidado que no que al de que lo que no por en que estar al de que te lo que por que te puede si esta en la igual que de de de la de 
+    en es amable cosas que no esta tiempo esperando en tipo 
+    amable grande lo malo la por que que en la que no la que no en la ducha que que la la que la que no solo que si no 
+    es bonito la la en solo que no lo mismo es la que que gusto que la buena al igual que lo malo que no es culpa es problema de en por lindo que es la que feo en 
+  Oracion con mas polaridad: 
+    buen en lo que es que de no en en la no no que 
+  Oracion con menor polaridad: 
+    por la buena por no gracias por 
+  Positivos: 7236  Negativos: 3937  Neutros: 13
+--------------------------------------------------
+Restaurante: Iberostar Selection Bavaro Suites
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    vez que por la buena simpatia de de 
+  Oracion con menor polaridad: 
+    que una excelente en super la la gusto por en de de 
+  Positivos: 6268  Negativos: 3020  Neutros: 10
+--------------------------------------------------
+Restaurante: Impressive Premium Punta Cana
+  Oraciones con polaridad 0: 
+    buena en lo malo es que no cerveza en 
+    excelente lo pasado bien de que es una bomba de no se que bien lo pasado gracias 
+  Oracion con mas polaridad: 
+    estafa de en la al la al si una una si es perfecto que te de te que te una de inferior que de de la ducha la negro lo bueno que es bueno de es que de la es de que agradable increible en que la de de no agradable que 
+  Oracion con menor polaridad: 
+    de una en de caos si bien por lo problemas que de la la de en la la una la que que en la caos que en por no decir bien de bien no 
+  Positivos: 4589  Negativos: 2135  Neutros: 3
+--------------------------------------------------
+Restaurante: Impressive Punta Cana
+  Oraciones con polaridad 0: 
+    que de es bueno lo que es lo mejor 
+    estado de gracias es es simpatico 
+  Oracion con mas polaridad: 
+    al llegar al la por de en la bien que la no se la no la solo lo no en la la la de la se al de la en de la por miedo que por parte 
+  Oracion con menor polaridad: 
+    una en lo de es bonito grande lleno de la es buena solo que cosas en ha asombrado lo poco en la de por de sonrisas en en la hacer se en en de de 
+  Positivos: 6041  Negativos: 2827  Neutros: 3
+--------------------------------------------------
+Restaurante: Karibo Punta Cana
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    al bien una buena por por esta una buena lo no gusto por lo bien 
+  Oracion con menor polaridad: 
+    en honor la no es encanto es de la comodidad de de se tranquilidad la de no no se puede pedir lindo buen gusto no por que lo en por parte de es jajaja 
+  Positivos: 2918  Negativos: 1583  Neutros: 0
+--------------------------------------------------
+Restaurante: Las Terrazas VIP Pool Beach Club & Spa
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    excelente la lo en que lo si no es no la no que se no en lo que error que no advertencia problema falta de frustrante en solo una en la una en desastre horrible no se no horrible 
+  Oracion con menor polaridad: 
+    una gusto mucho la esta de la esta una grande al la es linda seguro 
+  Positivos: 36  Negativos: 32  Neutros: 0
+--------------------------------------------------
+Restaurante: Le Sivory Punta Cana By PortBlue Boutique
+  Oraciones con polaridad 0: 
+    es en una de algun que solitario no de no puede bien que suficiente lo que por de es de 
+  Oracion con mas polaridad: 
+    es que de la en que es de la es malo en la desastre no de la no que de la que problema de la escasez al que ha al la de de que no no de llegar la que hacer 
+  Oracion con menor polaridad: 
+    si es de en fantastico simpatia la paraiso la en de la restauracion perfecto la es una la increible perfecto que profesional de la una que simpatia que en de claro en en 
+  Positivos: 907  Negativos: 439  Neutros: 2
+--------------------------------------------------
+Restaurante: Live Aqua Beach Resort Punta Cana
+  Oraciones con polaridad 0: 
+    excelente de punto mejorar que poco al la es buena es 
+    excelente buena bien de gusto si queja es la que no es bien 
+  Oracion con mas polaridad: 
+    es tranquilo de en en es de la es diversiones la la es en la la de de buena de de la en al de te 
+  Oracion con menor polaridad: 
+    en en es la en la al amable mucho carino que que de se en que excelente en que amor que esta de 
+  Positivos: 2591  Negativos: 1077  Neutros: 1
+--------------------------------------------------
+Restaurante: Lopesan Costa Bavaro Resort Spa & Casino
+  Oraciones con polaridad 0: 
+    es es lo mejor gracias por es la no lindo 
+  Oracion con mas polaridad: 
+    encanto super amable la buena de que se fuego la excelente en en en la bien 
+  Oracion con menor polaridad: 
+    de es esta es bonito de es que en que es 
+  Positivos: 6128  Negativos: 2771  Neutros: 4
+--------------------------------------------------
+Restaurante: Los Corales Beach Village
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    recomendable de cobrar cosas que no no se mal no no recomendable por favor poco de 
+  Oracion con menor polaridad: 
+    hermosa fuerte en de 
+  Positivos: 443  Negativos: 285  Neutros: 1
+--------------------------------------------------
+Restaurante: Los Corales Villas Ocean Front
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    es hermosa grande gusto la es grande buena no la es super saludable punto es maravilloso 
+  Oracion con menor polaridad: 
+    de hacer una una en la en es grande en la de de es la de la una de esta la es la de estar en la disfrutar de la vez que una en 
+  Positivos: 152  Negativos: 59  Neutros: 0
+--------------------------------------------------
+Restaurante: Majestic Elegance Punta Cana
+  Oraciones con polaridad 0: 
+    es mejor 
+    gusto al lo 
+  Oracion con mas polaridad: 
+    bueno en que al es al te la que que en listo de la al la bien facil de de de que que bien la que de 
+  Oracion con menor polaridad: 
+    buen buena la al mismo la super buena buen de lo de 
+  Positivos: 6980  Negativos: 2960  Neutros: 9
+--------------------------------------------------
+Restaurante: Majestic Mirage Punta Cana
+  Oraciones con polaridad 0: 
+    celebrando de que es que amable 
+    
+  Oracion con mas polaridad: 
+    de vida ha en gracias por la de de ha una buena esperanza en la de de 
+  Oracion con menor polaridad: 
+    es increible la de es que te en paraiso no en una increible la la linda de la de que de de la que en de la de de la que te bien una mejor de que 
+  Positivos: 6578  Negativos: 2776  Neutros: 7
+--------------------------------------------------
+Restaurante: Margaritaville Island Reserve Cap Cana
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    la por en de en de excelencia de magnifico dudas lo lo por la por que una de alto de una de alto de 
+  Oracion con menor polaridad: 
+    excelente la mejor en una oferta de diversion una de la oferta de 
+  Positivos: 641  Negativos: 225  Neutros: 0
+--------------------------------------------------
+Restaurante: Melia Caribe Beach Resort
+  Oraciones con polaridad 0: 
+    si amable lo si dios 
+    de no en de mentirosos lo perder tiempo 
+    lo de lo que es que mejorar que de si no tiempo por la 
+    la en que decir la mucho que que peor que malo se no estar disgusto la 
+    es maravilloso que no de bien la bien 
+  Oracion con mas polaridad: 
+    excelente disfrutar en se por de duda disfrutar en 
+  Oracion con menor polaridad: 
+    encanto que al llegar la de al en en en de lo que de en la de la que en la de una que en de no de excelente al 
+  Positivos: 5676  Negativos: 2791  Neutros: 4
+--------------------------------------------------
+Restaurante: Melia Punta Cana Beach Resort
+  Oraciones con polaridad 0: 
+    es malo se mal de la de solo mal que una por que en solo horrible 
+  Oracion con mas polaridad: 
+    excelente es lo la es agradable esta buena la de excelente mejorar de de en la la cosas falta de la 
+  Oracion con menor polaridad: 
+    la excelente excepcional que ha resolver hacer la en que de 
+  Positivos: 5174  Negativos: 2427  Neutros: 4
+--------------------------------------------------
+Restaurante: Nickelodeon Hotels & Resorts Punta Cana
+  Oraciones con polaridad 0: 
+    si te en que que contratar claro 
+    que excelente la es amable tiempo que la excelente fresco favorito falta la una es bien divertido seguro super simpatico en lo si no no lo ha que no peligro 
+    si te en que que contratar claro 
+    si te en que que contratar claro 
+  Oracion con mas polaridad: 
+    en que de la la es de se 
+  Oracion con menor polaridad: 
+    lindo es no es grande lo que en que esperar no que de que no demasiado de de la es buena la de es pobre es dificil que en la ridiculo en que lo que por de de es en que de la 
+  Positivos: 19574  Negativos: 8875  Neutros: 12
+--------------------------------------------------
+Restaurante: Occidental Caribe
+  Oraciones con polaridad 0: 
+    al es pesimo de la decepcionado de no 
+    mejor de en no estar lo lo esta no se 
+    sorprendido que es de de que no gratis gratis 
+  Oracion con mas polaridad: 
+    la excelente de mucho tiempo que ha la en la en la es te lo mismo en la en es lamentable la se que 
+  Oracion con menor polaridad: 
+    excelente que se paga excelente de atracciones mejorar no poco 
+  Positivos: 6011  Negativos: 2787  Neutros: 1
+--------------------------------------------------
+Restaurante: Occidental Punta Cana
+  Oraciones con polaridad 0: 
+    encanto la de lo que no gusto es que que bien 
+  Oracion con mas polaridad: 
+    hermosas la que la en se al estado en la en en es amable que no no mucho de de que no al respeto estar tranquilo que de la disfruta mucho por lo que en buena 
+  Oracion con menor polaridad: 
+    en es que no es igual de de la que en bueno es en es no es de buena 
+  Positivos: 6112  Negativos: 2921  Neutros: 5
+--------------------------------------------------
+Restaurante: Ocean Blue & Sand
+  Oraciones con polaridad 0: 
+    peor en que estado en agradable poco la no se lo que lo que te la 
+  Oracion con mas polaridad: 
+    bueno buen la de la bueno excelente 
+  Oracion con menor polaridad: 
+    excelente la de felicitaciones la es energetico alegria buena felicitaciones al 
+  Positivos: 6425  Negativos: 3015  Neutros: 3
+--------------------------------------------------
+Restaurante: Ocean El Faro
+  Oraciones con polaridad 0: 
+    es agradable esta cuidado al la esta 
+    mucho en lo pasado es secundario 
+    excelente poco que esta te olvidar lo malo de que es mucho mejor lo mejor de lo que se puede recomendado 
+    la es excelente que criticar 
+  Oracion con mas polaridad: 
+    buen al la mejor de exelente gracias por que la bien en en la no se en en en es la vez que que no es la gracias 
+  Oracion con menor polaridad: 
+    perfecto increible de la no te aburrir solo en de la no malo decir 
+  Positivos: 5721  Negativos: 2550  Neutros: 4
+--------------------------------------------------
+Restaurante: Paradisus Grand Cana (formerly The Grand Reserve)
+  Oraciones con polaridad 0: 
+    encanto lo malo es que no en la excelente duda 
+  Oracion con mas polaridad: 
+    excelente amable al de lo que al por que en 
+  Oracion con menor polaridad: 
+    es que una por en la bien de la en de la en se de una 
+  Positivos: 6361  Negativos: 2610  Neutros: 3
+--------------------------------------------------
+Restaurante: Paradisus Palma Real Golf & Spa Resort
+  Oraciones con polaridad 0: 
+    no en que se en puede una no 
+    ha buena por que agradable que lo malo que no super 
+    falta amable de no en 
+    no en que se en puede una no 
+    ha buena por que agradable que lo malo que no super 
+  Oracion con mas polaridad: 
+    en una en la inmejorables la en en sentido que que ha en en lo una inmejorable 
+  Oracion con menor polaridad: 
+    de mejorar de acuerdo la de de excelente en en buena en 
+  Positivos: 11566  Negativos: 5442  Neutros: 10
+--------------------------------------------------
+Restaurante: Paradisus Punta Cana Resort
+  Oraciones con polaridad 0: 
+    la amable no al excelente 
+    buen de malo si no no te lo mala bien si 
+    excelente es la vez que al la al gracias no mal es poco abrazo 
+    no que en por que estancado en tiempo en mal estado de que mal malo que vez que se fuerte al lleno colapsado por en no que una de dificil 
+  Oracion con mas polaridad: 
+    se que una tipo de la no no solo no que estar al de no de la de una que no es de si en una es incomodo en una que que caro no es inaceptable que que lo mal la de una que de la 
+  Oracion con menor polaridad: 
+    paraiso lo mejor mejor amable una 
+  Positivos: 6617  Negativos: 3158  Neutros: 4
+--------------------------------------------------
+Restaurante: Premium Level at Barcelo Bavaro Palace
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    que exelente por al que la en en mucho en que esta al lindo que en la de buena gracias en gracias 
+  Oracion con menor polaridad: 
+    excelente hacer agradable en en sentido estar es fabuloso de 
+  Positivos: 2182  Negativos: 1216  Neutros: 3
+--------------------------------------------------
+Restaurante: Presidential Suites Punta Cana
+  Oraciones con polaridad 0: 
+    lindo la lo que se es la de de por que mucho malo es que al no que es 
+  Oracion con mas polaridad: 
+    en por una no mismo que en tipo no esta sucio asqueroso 
+  Oracion con menor polaridad: 
+    es bueno de tipo solo una de es impresionante que 
+  Positivos: 3081  Negativos: 1654  Neutros: 1
+--------------------------------------------------
+Restaurante: Princess Family Club Bavaro
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    de excepcional de en de la al de la excelente lo que no mal que igual por la que de que es desagradable que 
+  Oracion con menor polaridad: 
+    lo excelente te que excelente de excelente increibles bien cuidados por encanto 
+  Positivos: 54  Negativos: 32  Neutros: 0
+--------------------------------------------------
+Restaurante: Radisson Blu Resort & Residence Punta Cana
+  Oraciones con polaridad 0: 
+    la es super bueno es es la es 
+    recomendable la mucho que de la no puesto la verde no se puede asco la de no la lo no no de no no la es en que en fraude deseando que que no la 
+  Oracion con mas polaridad: 
+    excelente de gracias por hacer de de es buena excelente 
+  Oracion con menor polaridad: 
+    encanto la es hermosa la es agradable te en llegar es facil 
+  Positivos: 4031  Negativos: 1641  Neutros: 0
+--------------------------------------------------
+Restaurante: Royalton Bavaro An Autograph Collection All-Inclusive Resort & Casino
+  Oraciones con polaridad 0: 
+    es bueno mucho en lo que mejorar no la tiempo de espera demasiado que es mucho en de de la suficiente solo falta que no 
+    es mucho en que que estar pedir en de que se en solo en cierto solo una en no funciona lastimosamente no 
+    
+    de la sentido es amable 
+  Oracion con mas polaridad: 
+    gracias la de super amable servicial en en no es si que de mejor en que si es no en 
+  Oracion con menor polaridad: 
+    en de excelencia de que se por de de que inmejorables al de de que de en una vez de la pena 
+  Positivos: 6285  Negativos: 2797  Neutros: 7
+--------------------------------------------------
+Restaurante: Royalton CHIC Punta Cana An Autograph Collection All-Inclusive Resort & Casino - Adults Only
+  Oraciones con polaridad 0: 
+    la es grandioso es no excelente 
+    es es excelente te la la excelente lo es que la pena 
+  Oracion con mas polaridad: 
+    excelente gusto mucho la que esta al la buena encanto una de la de 
+  Oracion con menor polaridad: 
+    si disfrutar de solo que de bienvenida rapido en de la la la de lo mejor la la excelente felicidades al por servicial profesional bien si disfrutar te lo que 
+  Positivos: 6588  Negativos: 2984  Neutros: 3
+--------------------------------------------------
+Restaurante: Royalton Punta Cana An Autograph Collection All-Inclusive Resort & Casino
+  Oraciones con polaridad 0: 
+    grandioso es 
+  Oracion con mas polaridad: 
+    en que problemas la mala cancelar una que por problemas de la una multa enorme no cancelar que la malos de la que problema te la al que se duda no lo 
+  Oracion con menor polaridad: 
+    excelente en no la una de que te entretenido la encanto amable de animo la la que mejor es llegar 
+  Positivos: 5552  Negativos: 2131  Neutros: 3
+--------------------------------------------------
+Restaurante: Royalton Splash Punta Cana
+  Oraciones con polaridad 0: 
+    es divertido en que ha increible gracias 
+  Oracion con mas polaridad: 
+    excelente duda en de en la en gracias mejor sexy si duda 
+  Oracion con menor polaridad: 
+    la de maravilla encanto super la la de estupendo no de la es bueno en la bueno duda bien en 
+  Positivos: 5593  Negativos: 2508  Neutros: 5
+--------------------------------------------------
+Restaurante: Sanctuary Cap Cana
+  Oraciones con polaridad 0: 
+    excelente paraiso que es una que que es la es 
+    es paraiso lo es en de divertido 
+    
+  Oracion con mas polaridad: 
+    de lo que tranquilidad la en buen estado la buena sexy 
+  Oracion con menor polaridad: 
+    la de es inmejorables una solo hermosa de 
+  Positivos: 7055  Negativos: 3393  Neutros: 7
+--------------------------------------------------
+Restaurante: Secrets Cap Cana Resort & Spa
+  Oraciones con polaridad 0: 
+    lo lo mejor que no de es tranquilo 
+    increible de que que te que no te lo que se puede hacer en por de error 
+  Oracion con mas polaridad: 
+    tipo de bien que en no te lo en la en la en es la bomba que te te de la la de la la de no decir que esta es super amable lo mejor la que que te te lo genial la bonita 
+  Oracion con menor polaridad: 
+    celebrando de la que de la es de de super de una de en de parte de en la excelente de una en en en la de la en no queja de en 
+  Positivos: 7538  Negativos: 3739  Neutros: 10
+--------------------------------------------------
+Restaurante: Secrets Royal Beach
+  Oraciones con polaridad 0: 
+    de que pena duda 
+  Oracion con mas polaridad: 
+    increible la de de en de la en que en que es maravilloso solo felicitar 
+  Oracion con menor polaridad: 
+    estado una en increible rapido la la de poco 
+  Positivos: 7319  Negativos: 3367  Neutros: 9
+--------------------------------------------------
+Restaurante: Serena Village
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    excelente en en la en la de la de al es excelente de en que es de de incomodo de en en la claramente la vez de que en 
+  Oracion con menor polaridad: 
+    increible comodo no te llegar en es comodo linda tranquilidad no la de lo de la por mismo de mucho de la si no al de de excelente de en 
+  Positivos: 156  Negativos: 83  Neutros: 0
+--------------------------------------------------
+Restaurante: Serenade Punta Cana Beach & Spa Resort
+  Oraciones con polaridad 0: 
+    bien en la la al es horrible la mejorar en mal al 
+  Oracion con mas polaridad: 
+    es perfecto de bueno solo que no buena la la la genial queja es que la es la de maravilla es impresionante igual en es de 
+  Oracion con menor polaridad: 
+    la buena de simpatico en la de la de buen 
+  Positivos: 3180  Negativos: 1216  Neutros: 0
+--------------------------------------------------
+Restaurante: TRS Cap Cana Hotel
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    es paraiso sueno la por parte de excelente la de se 
+  Oracion con menor polaridad: 
+    la de en encantados que la es la mejor bien al igual que en 
+  Positivos: 5515  Negativos: 2258  Neutros: 4
+--------------------------------------------------
+Restaurante: The Greek Casino Resorts Punta Cana
+  Oraciones con polaridad 0: 
+    al excelente al duda 
+  Oracion con mas polaridad: 
+    al en excelente excelente es super esta al de gracias 
+  Oracion con menor polaridad: 
+    en alegria al super duda que la en 
+  Positivos: 575  Negativos: 222  Neutros: 0
+--------------------------------------------------
+Restaurante: The Level at Melia Punta Cana Beach Resort
+  Oraciones con polaridad 0: 
+    lo peor pagado tranquilidad la es de limites no 
+  Oracion con mas polaridad: 
+    en sol tranquilidad en la la de que en que ha en hacer que agradable gracias en una excelente 
+  Oracion con menor polaridad: 
+    es en en la que en si que se por la buena de de buena no la hacer disfrutar de 
+  Positivos: 5544  Negativos: 2533  Neutros: 3
+--------------------------------------------------
+Restaurante: The Reserve At Paradisus By Melia Punta Cana
+  Oraciones con polaridad 0: 
+    de que no la mejor que no lo que no no mejor mucho no en en al en poco aburrido de no 
+  Oracion con mas polaridad: 
+    super una la es excelente por que super en bueno la es buena superior al de en no gusto que tiempo compartido en de no te de la la relajado 
+  Oracion con menor polaridad: 
+    excelente al de parte de en la excelente de 
+  Positivos: 7144  Negativos: 3393  Neutros: 4
+--------------------------------------------------
+Restaurante: The Reserve at Paradisus Palma Real
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    lo bueno es en la la la en la excelente en en en bueno super que no lo malo al de la que la no de la por lo que que esperar de disfrutar parte 
+  Oracion con menor polaridad: 
+    la genial es que es lo una increible 
+  Positivos: 7194  Negativos: 3629  Neutros: 5
+--------------------------------------------------
+Restaurante: The Westin Puntacana Resort & Club
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    maravilloso hermosa de maravilloso en en la poco la pena 
+  Oracion con menor polaridad: 
+    una en si es la buen de no en de lo malo es que es lento de es bueno rico de lento 
+  Positivos: 1999  Negativos: 1088  Neutros: 1
+--------------------------------------------------
+Restaurante: Tortuga Bay Puntacana Resort & Club
+  Oraciones con polaridad 0: 
+    en es paraiso en es se te lo de lo que ha que es pesimo es de seguro aburrido en de mal humor es lo mejor 
+  Oracion con mas polaridad: 
+    lo la de que te en al de de es excepcional no puede mejor no mejor 
+  Oracion con menor polaridad: 
+    de de de una de en de al esplendido paraiso solo de la de la una de una grande la hermosa genial la la de por la mucho tiempo en la de en 
+  Positivos: 1347  Negativos: 786  Neutros: 2
+--------------------------------------------------
+Restaurante: Tropical Deluxe Princess
+  Oraciones con polaridad 0: 
+    que esta mucho lo demasiado se de 
+  Oracion con mas polaridad: 
+    que esperar de que esta de la que de poco en se que si de no la te pesimo no que la se en al la de la buena no la no es la la parte la parte en que 
+  Oracion con menor polaridad: 
+    una excelente de lo que ha ha la de que ha una de tipo al la oportunidad de una una que mucho la buen humor 
+  Positivos: 7461  Negativos: 4189  Neutros: 12
+--------------------------------------------------
+Restaurante: Whala!Urban Punta Cana
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    encanto comodo tranquilo bueno por excelente al llegar felicidades 
+  Oracion con menor polaridad: 
+    una en esta en la de de al que al que es parte de la la se puede disfrutar que no de la no esta al de la esta tipo es amable se en la 
+  Positivos: 716  Negativos: 365  Neutros: 0
+--------------------------------------------------
+Restaurante: Zoetry Agua Punta Cana
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    de la profesional divertido la excelente profesional de en maravilloso duda 
+  Oracion con menor polaridad: 
+    por si mismo es amable la la buena de buen una excelente en la mejor lo 
+  Positivos: 4118  Negativos: 2120  Neutros: 4
+--------------------------------------------------
+Restaurante: whala!bavaro
+  Oraciones con polaridad 0: 
+  Oracion con mas polaridad: 
+    en preocupacion de que cumplir hacer cumplir por no que en sentido en la que la una broma que se algun responsable superior se puede por en que de la por de la es capaz de que es incorrecto que se la de no soltar en al 
+  Oracion con menor polaridad: 
+    que la que una en que al la de no que linda la buena en de la mejor seguro 
+  Positivos: 3149  Negativos: 2023  Neutros: 4
+--------------------------------------------------
