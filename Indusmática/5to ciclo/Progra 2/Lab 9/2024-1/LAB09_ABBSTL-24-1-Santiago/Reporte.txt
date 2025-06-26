@@ -1,0 +1,215 @@
+Estante: 4
+Capacidad: 10.00        Disponible:  0.15
+====================================================================================================
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN:   10292004  Año: 2023
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN:   10292004  Año: 2023
+
+Titulo: LA ENCICLOPEDIA DE LOS DINOSAURIOS
+Peso: 2.00
+SKU:   36225  Año: 2018
+
+Titulo: La chica del tren
+Peso: 0.70
+Autor: Paula Hawkins
+
+Titulo: Espania con honra
+Peso: 0.70
+Autor: Daniel Aquillue
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN:   10292004  Año: 2022
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN:   10292004  Año: 2022
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN:   10292004  Año: 2021
+
+Titulo: El doble
+Peso: 1.40
+Autor: Fiodor Dostoyevski
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 1.30
+ISSN:   10292004  Año: 2021
+
+Estante: 2
+Capacidad: 10.00        Disponible:  2.30
+====================================================================================================
+Titulo: Educacion
+Peso: 0.20
+ISSN:   10199403  Año: 2022
+
+Titulo: Educacion
+Peso: 0.20
+ISSN:   10199403  Año: 2022
+
+Titulo: La Iliada
+Peso: 1.50
+Autor: Homero
+
+Titulo: Las aventuras de Pinocho
+Peso: 0.70
+Autor: Carlo Collodi
+
+Titulo: Cien anios de soledad
+Peso: 1.20
+Autor: Gabriel Garcia Marquez
+
+Titulo: Todo se desmorona
+Peso: 0.40
+Autor: Chinua Achebe
+
+Titulo: LA ENCICLOPEDIA DE LOS BARCOS
+Peso: 2.00
+SKU:   35902  Año: 2014
+
+Titulo: Historica
+Peso: 0.50
+ISSN:    2223375  Año: 2023
+
+Titulo: Historica
+Peso: 0.50
+ISSN:    2223375  Año: 2023
+
+Titulo: Historica
+Peso: 0.50
+ISSN:    2223375  Año: 2022
+
+Estante: 1
+Capacidad: 20.00        Disponible:  3.60
+====================================================================================================
+Titulo: Diamantes y pedernales
+Peso: 0.70
+Autor: Jose Maria Arguedas
+
+Titulo: ENCICLOPEDIA SALVAT
+Peso: 12.00
+SKU:   78323  Año: 2015
+
+Titulo: El otonio del patriarca
+Peso: 1.50
+Autor: Gabriel Garcia Marquez
+
+Titulo: El viejo y el mar
+Peso: 0.40
+Autor: Hernest Hemingway
+
+Titulo: Confesiones de una mascara
+Peso: 0.80
+Autor: Yukio Mishima
+
+Titulo: Educacion
+Peso: 0.20
+ISSN:   10199403  Año: 2024
+
+Titulo: Educacion
+Peso: 0.20
+ISSN:   10199403  Año: 2023
+
+Titulo: Educacion
+Peso: 0.20
+ISSN:   10199403  Año: 2023
+
+Titulo: Educacion
+Peso: 0.20
+ISSN:   10199403  Año: 2023
+
+Titulo: Educacion
+Peso: 0.20
+ISSN:   10199403  Año: 2022
+
+Estante: 3
+Capacidad: 15.00        Disponible:  8.15
+====================================================================================================
+Titulo: Historica
+Peso: 0.50
+ISSN:    2223375  Año: 2022
+
+Titulo: Historica
+Peso: 0.50
+ISSN:    2223375  Año: 2022
+
+Titulo: Historica
+Peso: 0.50
+ISSN:    2223375  Año: 2022
+
+Titulo: Historica
+Peso: 0.50
+ISSN:    2223375  Año: 2019
+
+Titulo: LA ENCICLOPEDIA DE LOS DINOSAURIOS
+Peso: 2.00
+SKU:   36225  Año: 2018
+
+Titulo: La chica del tren
+Peso: 0.70
+Autor: Paula Hawkins
+
+Titulo: Espania con honra
+Peso: 0.70
+Autor: Daniel Aquillue
+
+Titulo: Los pilares de la tierra
+Peso: 0.30
+Autor: Ken Follett
+
+Titulo: Apocalipticos e integrados
+Peso: 0.40
+Autor: Umberto Eco
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.75
+ISSN:   10292004  Año: 2023
+
+Estante: 5
+Capacidad: 15.00        Disponible:  8.80
+====================================================================================================
+Titulo: Boletin de Arqueologia PUCP
+Peso: 1.30
+ISSN:   10292004  Año: 2019
+
+Titulo: Relato de un naufrago
+Peso: 1.40
+Autor: Gabriel Garcia Marquez
+
+Titulo: El proceso
+Peso: 0.40
+Autor: Franz Kafka
+
+Titulo: El club Dumas
+Peso: 0.70
+Autor: Arturo Perez-Reverte
+
+Titulo: Progreso del peregrino
+Peso: 0.40
+Autor: John Bunyan
+
+Titulo: El italiano
+Peso: 0.40
+Autor: Arturo Perez-Reverte
+
+Titulo: El invierno del mundo
+Peso: 0.40
+Autor: Ken Follett
+
+Titulo: El reino de este mundo
+Peso: 0.40
+Autor: Alejo Carpentier
+
+Titulo: Vidas intrepidas
+Peso: 0.40
+Autor: Julio Albi de la Cuesta
+
+Titulo: Un asunto de honor
+Peso: 0.40
+Autor: Arturo Perez-Reverte
+
