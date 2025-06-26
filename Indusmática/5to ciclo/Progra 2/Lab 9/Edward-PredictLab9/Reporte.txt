@@ -1,0 +1,4414 @@
+DNI: 73818744  Nombre: FUENTES GAMARRA HUGO
+  Placa: U5N-536
+    Infraccion: 147
+      Dron: DRN-0404  Fecha: 2020/10/17
+      Dron: DRN-0499  Fecha: 2020/99/99
+    Infraccion: 207
+      Dron: DRN-0570  Fecha: 2020/08/21
+    Infraccion: 324
+      Dron: DRN-0484  Fecha: 2020/06/6
+    Infraccion: 332
+      Dron: DRN-0443  Fecha: 2020/05/19
+      Dron: DRN-0499  Fecha: 2020/99/99
+  Placa: U5N-536
+    Infraccion: 147
+      Dron: DRN-0404  Fecha: 2020/10/17
+      Dron: DRN-0499  Fecha: 2020/99/99
+  Placa: U5N-536
+    Infraccion: 147
+      Dron: DRN-0404  Fecha: 2020/10/17
+      Dron: DRN-0499  Fecha: 2020/99/99
+    Infraccion: 332
+      Dron: DRN-0443  Fecha: 2020/05/19
+  Placa: U5N-536
+    Infraccion: 147
+      Dron: DRN-0404  Fecha: 2020/10/17
+      Dron: DRN-0499  Fecha: 2020/99/99
+    Infraccion: 332
+      Dron: DRN-0443  Fecha: 2020/05/19
+      Dron: DRN-0499  Fecha: 2020/99/99
+  Placa: U5N-536
+    Infraccion: 147
+      Dron: DRN-0404  Fecha: 2020/10/17
+      Dron: DRN-0499  Fecha: 2020/99/99
+    Infraccion: 324
+      Dron: DRN-0484  Fecha: 2020/06/6
+    Infraccion: 332
+      Dron: DRN-0443  Fecha: 2020/05/19
+      Dron: DRN-0499  Fecha: 2020/99/99
+  Placa: U5N-536
+    Infraccion: 147
+      Dron: DRN-0404  Fecha: 2020/10/17
+      Dron: DRN-0499  Fecha: 2020/99/99
+    Infraccion: 207
+      Dron: DRN-0570  Fecha: 2020/08/21
+    Infraccion: 324
+      Dron: DRN-0484  Fecha: 2020/06/6
+    Infraccion: 332
+      Dron: DRN-0443  Fecha: 2020/05/19
+      Dron: DRN-0499  Fecha: 2020/99/99
+
+DNI: 73972114  Nombre: AVILA MARTEL JAIME MANUEL
+  Placa: A2F-518
+    Infraccion: 102
+      Dron: DRN-0022  Fecha: 2020/10/13
+    Infraccion: 107
+      Dron: DRN-0250  Fecha: 2020/11/10
+    Infraccion: 131
+      Dron: DRN-0113  Fecha: 2020/01/15
+    Infraccion: 133
+      Dron: DRN-0573  Fecha: 2020/02/15
+      Dron: DRN-0599  Fecha: 2020/99/99
+  Placa: J2M-606
+    Infraccion: 102
+      Dron: DRN-0089  Fecha: 2020/11/19
+    Infraccion: 156
+      Dron: DRN-0192  Fecha: 2020/12/9
+    Infraccion: 205
+      Dron: DRN-0416  Fecha: 2020/11/28
+    Infraccion: 312
+      Dron: DRN-0623  Fecha: 2020/02/22
+    Infraccion: 326
+      Dron: DRN-0611  Fecha: 2020/01/26
+  Placa: A2F-518
+    Infraccion: 102
+      Dron: DRN-0022  Fecha: 2020/10/13
+    Infraccion: 131
+      Dron: DRN-0113  Fecha: 2020/01/15
+  Placa: J2M-606
+    Infraccion: 102
+      Dron: DRN-0089  Fecha: 2020/11/19
+    Infraccion: 156
+      Dron: DRN-0192  Fecha: 2020/12/9
+  Placa: A2F-518
+    Infraccion: 102
+      Dron: DRN-0022  Fecha: 2020/10/13
+    Infraccion: 107
+      Dron: DRN-0250  Fecha: 2020/11/10
+    Infraccion: 131
+      Dron: DRN-0113  Fecha: 2020/01/15
+  Placa: J2M-606
+    Infraccion: 102
+      Dron: DRN-0089  Fecha: 2020/11/19
+    Infraccion: 156
+      Dron: DRN-0192  Fecha: 2020/12/9
+    Infraccion: 205
+      Dron: DRN-0416  Fecha: 2020/11/28
+  Placa: D8H-157
+    Infraccion: 105
+      Dron: DRN-0421  Fecha: 2020/03/24
+  Placa: A2F-518
+    Infraccion: 102
+      Dron: DRN-0022  Fecha: 2020/10/13
+    Infraccion: 107
+      Dron: DRN-0250  Fecha: 2020/11/10
+    Infraccion: 131
+      Dron: DRN-0113  Fecha: 2020/01/15
+    Infraccion: 133
+      Dron: DRN-0573  Fecha: 2020/02/15
+  Placa: A2F-518
+    Infraccion: 102
+      Dron: DRN-0022  Fecha: 2020/10/13
+    Infraccion: 107
+      Dron: DRN-0250  Fecha: 2020/11/10
+    Infraccion: 131
+      Dron: DRN-0113  Fecha: 2020/01/15
+    Infraccion: 133
+      Dron: DRN-0573  Fecha: 2020/02/15
+      Dron: DRN-0599  Fecha: 2020/99/99
+  Placa: J2M-606
+    Infraccion: 102
+      Dron: DRN-0089  Fecha: 2020/11/19
+    Infraccion: 156
+      Dron: DRN-0192  Fecha: 2020/12/9
+    Infraccion: 205
+      Dron: DRN-0416  Fecha: 2020/11/28
+    Infraccion: 326
+      Dron: DRN-0611  Fecha: 2020/01/26
+  Placa: J2M-606
+    Infraccion: 102
+      Dron: DRN-0089  Fecha: 2020/11/19
+    Infraccion: 156
+      Dron: DRN-0192  Fecha: 2020/12/9
+    Infraccion: 205
+      Dron: DRN-0416  Fecha: 2020/11/28
+    Infraccion: 312
+      Dron: DRN-0623  Fecha: 2020/02/22
+    Infraccion: 326
+      Dron: DRN-0611  Fecha: 2020/01/26
+
+DNI: 74325123  Nombre: TANG MOSCOSO JOHANA
+  Placa: V9F-655
+    Infraccion: 103
+      Dron: DRN-0369  Fecha: 2020/08/15
+    Infraccion: 121
+      Dron: DRN-0058  Fecha: 2020/03/1
+    Infraccion: 158
+      Dron: DRN-0639  Fecha: 2020/02/18
+  Placa: H0E-855
+    Infraccion: 309
+      Dron: DRN-0177  Fecha: 2020/09/1
+  Placa: V9F-655
+    Infraccion: 103
+      Dron: DRN-0369  Fecha: 2020/08/15
+    Infraccion: 121
+      Dron: DRN-0058  Fecha: 2020/03/1
+  Placa: V9F-655
+    Infraccion: 103
+      Dron: DRN-0369  Fecha: 2020/08/15
+    Infraccion: 121
+      Dron: DRN-0058  Fecha: 2020/03/1
+    Infraccion: 158
+      Dron: DRN-0639  Fecha: 2020/02/18
+
+DNI: 75348522  Nombre: LOZADA FORZANI DELIA
+  Placa: P5B-640
+    Infraccion: 124
+      Dron: DRN-0055  Fecha: 2020/08/3
+  Placa: X0D-655
+    Infraccion: 142
+      Dron: DRN-0153  Fecha: 2020/02/2
+  Placa: E1L-705
+    Infraccion: 117
+      Dron: DRN-0287  Fecha: 2020/08/14
+    Infraccion: 164
+      Dron: DRN-0491  Fecha: 2020/11/22
+  Placa: E1L-705
+    Infraccion: 117
+      Dron: DRN-0287  Fecha: 2020/08/14
+    Infraccion: 164
+      Dron: DRN-0491  Fecha: 2020/11/22
+
+DNI: 75945248  Nombre: MEJIA RODRIGUEZ INES VALENTINA
+  Placa: K6X-977
+    Infraccion: 121
+      Dron: DRN-0379  Fecha: 2020/04/17
+
+DNI: 77367073  Nombre: JAUREGUI DEL CASTILLO VICTOR RICARDO
+  Placa: C2S-070
+    Infraccion: 103
+      Dron: DRN-0615  Fecha: 2020/12/20
+    Infraccion: 129
+      Dron: DRN-0157  Fecha: 2020/05/14
+    Infraccion: 143
+      Dron: DRN-0517  Fecha: 2020/12/7
+    Infraccion: 327
+      Dron: DRN-0624  Fecha: 2020/07/18
+    Infraccion: 334
+      Dron: DRN-0036  Fecha: 2020/10/17
+  Placa: C2S-070
+    Infraccion: 129
+      Dron: DRN-0157  Fecha: 2020/05/14
+    Infraccion: 334
+      Dron: DRN-0036  Fecha: 2020/10/17
+  Placa: W4W-684
+    Infraccion: 140
+      Dron: DRN-0346  Fecha: 2020/05/16
+    Infraccion: 141
+      Dron: DRN-0172  Fecha: 2020/07/13
+  Placa: H9A-097
+    Infraccion: 310
+      Dron: DRN-0257  Fecha: 2020/05/8
+  Placa: N7K-403
+    Infraccion: 104
+      Dron: DRN-0507  Fecha: 2020/01/10
+    Infraccion: 153
+      Dron: DRN-0258  Fecha: 2020/05/30
+    Infraccion: 329
+      Dron: DRN-0566  Fecha: 2020/02/20
+  Placa: W4W-684
+    Infraccion: 140
+      Dron: DRN-0346  Fecha: 2020/05/16
+    Infraccion: 141
+      Dron: DRN-0172  Fecha: 2020/07/13
+  Placa: N7K-403
+    Infraccion: 104
+      Dron: DRN-0507  Fecha: 2020/01/10
+    Infraccion: 153
+      Dron: DRN-0258  Fecha: 2020/05/30
+  Placa: C2S-070
+    Infraccion: 129
+      Dron: DRN-0157  Fecha: 2020/05/14
+    Infraccion: 143
+      Dron: DRN-0517  Fecha: 2020/12/7
+    Infraccion: 334
+      Dron: DRN-0036  Fecha: 2020/10/17
+  Placa: N7K-403
+    Infraccion: 104
+      Dron: DRN-0507  Fecha: 2020/01/10
+    Infraccion: 153
+      Dron: DRN-0258  Fecha: 2020/05/30
+    Infraccion: 329
+      Dron: DRN-0566  Fecha: 2020/02/20
+  Placa: C2S-070
+    Infraccion: 103
+      Dron: DRN-0615  Fecha: 2020/12/20
+    Infraccion: 129
+      Dron: DRN-0157  Fecha: 2020/05/14
+    Infraccion: 143
+      Dron: DRN-0517  Fecha: 2020/12/7
+    Infraccion: 334
+      Dron: DRN-0036  Fecha: 2020/10/17
+  Placa: C2S-070
+    Infraccion: 103
+      Dron: DRN-0615  Fecha: 2020/12/20
+    Infraccion: 129
+      Dron: DRN-0157  Fecha: 2020/05/14
+    Infraccion: 143
+      Dron: DRN-0517  Fecha: 2020/12/7
+    Infraccion: 327
+      Dron: DRN-0624  Fecha: 2020/07/18
+    Infraccion: 334
+      Dron: DRN-0036  Fecha: 2020/10/17
+
+DNI: 77763722  Nombre: FARFAN SALAZAR MARGOT
+  Placa: A1Q-612
+    Infraccion: 143
+      Dron: DRN-0586  Fecha: 2020/03/25
+    Infraccion: 322
+      Dron: DRN-0303  Fecha: 2020/06/24
+    Infraccion: 339
+      Dron: DRN-0423  Fecha: 2020/01/21
+  Placa: W2L-827
+    Infraccion: 132
+      Dron: DRN-0335  Fecha: 2020/03/17
+    Infraccion: 309
+      Dron: DRN-0488  Fecha: 2020/11/1
+  Placa: Q4P-612
+    Infraccion: 309
+      Dron: DRN-0383  Fecha: 2020/01/27
+  Placa: D1M-667
+    Infraccion: 112
+      Dron: DRN-0402  Fecha: 2020/02/23
+  Placa: A1Q-612
+    Infraccion: 322
+      Dron: DRN-0303  Fecha: 2020/06/24
+    Infraccion: 339
+      Dron: DRN-0423  Fecha: 2020/01/21
+  Placa: W2L-827
+    Infraccion: 132
+      Dron: DRN-0335  Fecha: 2020/03/17
+    Infraccion: 309
+      Dron: DRN-0488  Fecha: 2020/11/1
+  Placa: A1Q-612
+    Infraccion: 143
+      Dron: DRN-0586  Fecha: 2020/03/25
+    Infraccion: 322
+      Dron: DRN-0303  Fecha: 2020/06/24
+    Infraccion: 339
+      Dron: DRN-0423  Fecha: 2020/01/21
+
+DNI: 79641328  Nombre: TOKESHI GUEVARA JAIME
+  Placa: L0L-653
+    Infraccion: 142
+      Dron: DRN-0029  Fecha: 2020/12/17
+    Infraccion: 204
+      Dron: DRN-0480  Fecha: 2020/04/8
+  Placa: X8Q-687
+    Infraccion: 103
+      Dron: DRN-0268  Fecha: 2020/01/11
+    Infraccion: 338
+      Dron: DRN-0104  Fecha: 2020/11/10
+    Infraccion: 339
+      Dron: DRN-0521  Fecha: 2020/01/4
+  Placa: X8Q-687
+    Infraccion: 103
+      Dron: DRN-0268  Fecha: 2020/01/11
+    Infraccion: 338
+      Dron: DRN-0104  Fecha: 2020/11/10
+  Placa: B4R-105
+    Infraccion: 202
+      Dron: DRN-0439  Fecha: 2020/02/17
+    Infraccion: 315
+      Dron: DRN-0625  Fecha: 2020/02/8
+  Placa: L0L-653
+    Infraccion: 142
+      Dron: DRN-0029  Fecha: 2020/12/17
+    Infraccion: 204
+      Dron: DRN-0480  Fecha: 2020/04/8
+  Placa: X8Q-687
+    Infraccion: 103
+      Dron: DRN-0268  Fecha: 2020/01/11
+    Infraccion: 338
+      Dron: DRN-0104  Fecha: 2020/11/10
+    Infraccion: 339
+      Dron: DRN-0521  Fecha: 2020/01/4
+  Placa: B4R-105
+    Infraccion: 202
+      Dron: DRN-0439  Fecha: 2020/02/17
+    Infraccion: 315
+      Dron: DRN-0625  Fecha: 2020/02/8
+
+DNI: 79672079  Nombre: CONTRERAS CHANG JOHANA CINTHIA
+  Placa: R7U-941
+    Infraccion: 131
+      Dron: DRN-0418  Fecha: 2020/10/7
+    Infraccion: 136
+      Dron: DRN-0269  Fecha: 2020/09/2
+    Infraccion: 142
+      Dron: DRN-0350  Fecha: 2020/03/6
+    Infraccion: 203
+      Dron: DRN-0116  Fecha: 2020/11/15
+  Placa: Y3Q-331
+    Infraccion: 127
+      Dron: DRN-0581  Fecha: 2020/10/7
+    Infraccion: 162
+      Dron: DRN-0445  Fecha: 2020/04/17
+    Infraccion: 170
+      Dron: DRN-0422  Fecha: 2020/08/15
+    Infraccion: 318
+      Dron: DRN-0181  Fecha: 2020/06/28
+  Placa: R7U-941
+    Infraccion: 136
+      Dron: DRN-0269  Fecha: 2020/09/2
+    Infraccion: 203
+      Dron: DRN-0116  Fecha: 2020/11/15
+  Placa: R7U-941
+    Infraccion: 136
+      Dron: DRN-0269  Fecha: 2020/09/2
+    Infraccion: 142
+      Dron: DRN-0350  Fecha: 2020/03/6
+    Infraccion: 203
+      Dron: DRN-0116  Fecha: 2020/11/15
+  Placa: R7U-941
+    Infraccion: 131
+      Dron: DRN-0418  Fecha: 2020/10/7
+    Infraccion: 136
+      Dron: DRN-0269  Fecha: 2020/09/2
+    Infraccion: 142
+      Dron: DRN-0350  Fecha: 2020/03/6
+    Infraccion: 203
+      Dron: DRN-0116  Fecha: 2020/11/15
+  Placa: Y3Q-331
+    Infraccion: 170
+      Dron: DRN-0422  Fecha: 2020/08/15
+    Infraccion: 318
+      Dron: DRN-0181  Fecha: 2020/06/28
+  Placa: Y3Q-331
+    Infraccion: 162
+      Dron: DRN-0445  Fecha: 2020/04/17
+    Infraccion: 170
+      Dron: DRN-0422  Fecha: 2020/08/15
+    Infraccion: 318
+      Dron: DRN-0181  Fecha: 2020/06/28
+  Placa: O3H-954
+    Infraccion: 119
+      Dron: DRN-0534  Fecha: 2020/01/15
+  Placa: Y3Q-331
+    Infraccion: 127
+      Dron: DRN-0581  Fecha: 2020/10/7
+    Infraccion: 162
+      Dron: DRN-0445  Fecha: 2020/04/17
+    Infraccion: 170
+      Dron: DRN-0422  Fecha: 2020/08/15
+    Infraccion: 318
+      Dron: DRN-0181  Fecha: 2020/06/28
+
+DNI: 79766395  Nombre: FUENTES ESCALANTE PATRICIA ELIZABETH
+  Placa: H7P-047
+    Infraccion: 208
+      Dron: DRN-0259  Fecha: 2020/03/4
+    Infraccion: 317
+      Dron: DRN-0169  Fecha: 2020/11/3
+  Placa: T3R-184
+    Infraccion: 146
+      Dron: DRN-0238  Fecha: 2020/05/8
+    Infraccion: 153
+      Dron: DRN-0194  Fecha: 2020/10/27
+  Placa: T3R-184
+    Infraccion: 146
+      Dron: DRN-0238  Fecha: 2020/05/8
+    Infraccion: 153
+      Dron: DRN-0194  Fecha: 2020/10/27
+  Placa: N6D-256
+    Infraccion: 130
+      Dron: DRN-0502  Fecha: 2020/07/14
+    Infraccion: 206
+      Dron: DRN-0363  Fecha: 2020/04/4
+    Infraccion: 302
+      Dron: DRN-0598  Fecha: 2020/04/2
+    Infraccion: 310
+      Dron: DRN-0504  Fecha: 2020/05/15
+    Infraccion: 322
+      Dron: DRN-0249  Fecha: 2020/01/22
+  Placa: H7P-047
+    Infraccion: 208
+      Dron: DRN-0259  Fecha: 2020/03/4
+    Infraccion: 317
+      Dron: DRN-0169  Fecha: 2020/11/3
+  Placa: N6D-256
+    Infraccion: 206
+      Dron: DRN-0363  Fecha: 2020/04/4
+    Infraccion: 322
+      Dron: DRN-0249  Fecha: 2020/01/22
+  Placa: N6D-256
+    Infraccion: 130
+      Dron: DRN-0502  Fecha: 2020/07/14
+    Infraccion: 206
+      Dron: DRN-0363  Fecha: 2020/04/4
+    Infraccion: 322
+      Dron: DRN-0249  Fecha: 2020/01/22
+  Placa: N6D-256
+    Infraccion: 130
+      Dron: DRN-0502  Fecha: 2020/07/14
+    Infraccion: 206
+      Dron: DRN-0363  Fecha: 2020/04/4
+    Infraccion: 310
+      Dron: DRN-0504  Fecha: 2020/05/15
+    Infraccion: 322
+      Dron: DRN-0249  Fecha: 2020/01/22
+  Placa: N6D-256
+    Infraccion: 130
+      Dron: DRN-0502  Fecha: 2020/07/14
+    Infraccion: 206
+      Dron: DRN-0363  Fecha: 2020/04/4
+    Infraccion: 302
+      Dron: DRN-0598  Fecha: 2020/04/2
+    Infraccion: 310
+      Dron: DRN-0504  Fecha: 2020/05/15
+    Infraccion: 322
+      Dron: DRN-0249  Fecha: 2020/01/22
+
+DNI: 80310768  Nombre: MINAYA BERROCAL HELI
+  Placa: O2F-523
+    Infraccion: 163
+      Dron: DRN-0459  Fecha: 2020/03/20
+    Infraccion: 326
+      Dron: DRN-0179  Fecha: 2020/06/22
+  Placa: O2F-523
+    Infraccion: 163
+      Dron: DRN-0459  Fecha: 2020/03/20
+    Infraccion: 326
+      Dron: DRN-0179  Fecha: 2020/06/22
+  Placa: N5J-515
+    Infraccion: 319
+      Dron: DRN-0627  Fecha: 2020/03/19
+
+DNI: 80457845  Nombre: NORABUENA MOYA HECTOR
+  Placa: Z5G-762
+    Infraccion: 101
+      Dron: DRN-0129  Fecha: 2020/11/9
+    Infraccion: 109
+      Dron: DRN-0106  Fecha: 2020/03/6
+    Infraccion: 335
+      Dron: DRN-0041  Fecha: 2020/04/18
+  Placa: Z5G-762
+    Infraccion: 109
+      Dron: DRN-0106  Fecha: 2020/03/6
+    Infraccion: 335
+      Dron: DRN-0041  Fecha: 2020/04/18
+  Placa: Z5G-762
+    Infraccion: 101
+      Dron: DRN-0129  Fecha: 2020/11/9
+    Infraccion: 109
+      Dron: DRN-0106  Fecha: 2020/03/6
+    Infraccion: 335
+      Dron: DRN-0041  Fecha: 2020/04/18
+  Placa: M7F-612
+    Infraccion: 150
+      Dron: DRN-0130  Fecha: 2020/02/5
+  Placa: W0C-131
+    Infraccion: 104
+      Dron: DRN-0519  Fecha: 2020/02/12
+
+DNI: 81485316  Nombre: JUSTINO MARTINEZ ENRIQUE
+  Placa: J5T-691
+    Infraccion: 128
+      Dron: DRN-0000  Fecha: 2020/12/24
+    Infraccion: 138
+      Dron: DRN-0634  Fecha: 2020/11/4
+    Infraccion: 319
+      Dron: DRN-0207  Fecha: 2020/04/17
+    Infraccion: 324
+      Dron: DRN-0523  Fecha: 2020/01/8
+  Placa: J5T-691
+    Infraccion: 128
+      Dron: DRN-0000  Fecha: 2020/12/24
+    Infraccion: 319
+      Dron: DRN-0207  Fecha: 2020/04/17
+  Placa: J5T-691
+    Infraccion: 128
+      Dron: DRN-0000  Fecha: 2020/12/24
+    Infraccion: 319
+      Dron: DRN-0207  Fecha: 2020/04/17
+    Infraccion: 324
+      Dron: DRN-0523  Fecha: 2020/01/8
+  Placa: J5T-691
+    Infraccion: 128
+      Dron: DRN-0000  Fecha: 2020/12/24
+    Infraccion: 138
+      Dron: DRN-0634  Fecha: 2020/11/4
+    Infraccion: 319
+      Dron: DRN-0207  Fecha: 2020/04/17
+    Infraccion: 324
+      Dron: DRN-0523  Fecha: 2020/01/8
+
+DNI: 81528434  Nombre: EPIQUEN AVILA ENRIQUE
+  Placa: D6F-465
+    Infraccion: 150
+      Dron: DRN-0340  Fecha: 2020/01/22
+      Dron: DRN-0568  Fecha: 2020/04/1
+    Infraccion: 204
+      Dron: DRN-0273  Fecha: 2020/06/19
+    Infraccion: 312
+      Dron: DRN-0168  Fecha: 2020/08/21
+  Placa: B3U-020
+    Infraccion: 309
+      Dron: DRN-0212  Fecha: 2020/01/26
+  Placa: D6F-465
+    Infraccion: 204
+      Dron: DRN-0273  Fecha: 2020/06/19
+    Infraccion: 312
+      Dron: DRN-0168  Fecha: 2020/08/21
+  Placa: D6F-465
+    Infraccion: 150
+      Dron: DRN-0340  Fecha: 2020/01/22
+    Infraccion: 204
+      Dron: DRN-0273  Fecha: 2020/06/19
+    Infraccion: 312
+      Dron: DRN-0168  Fecha: 2020/08/21
+  Placa: D6F-465
+    Infraccion: 150
+      Dron: DRN-0340  Fecha: 2020/01/22
+      Dron: DRN-0568  Fecha: 2020/04/1
+    Infraccion: 204
+      Dron: DRN-0273  Fecha: 2020/06/19
+    Infraccion: 312
+      Dron: DRN-0168  Fecha: 2020/08/21
+
+DNI: 81799482  Nombre: CERNA CERNA CINTHIA
+  Placa: V7P-711
+    Infraccion: 338
+      Dron: DRN-0097  Fecha: 2020/06/29
+  Placa: E3U-768
+    Infraccion: 118
+      Dron: DRN-0221  Fecha: 2020/08/30
+
+DNI: 82031355  Nombre: EGUSQUIZA BERROCAL DORIS NANCY
+  Placa: Z5D-724
+    Infraccion: 150
+      Dron: DRN-0110  Fecha: 2020/11/16
+    Infraccion: 166
+      Dron: DRN-0406  Fecha: 2020/03/13
+    Infraccion: 305
+      Dron: DRN-0191  Fecha: 2020/01/3
+    Infraccion: 319
+      Dron: DRN-0351  Fecha: 2020/09/19
+  Placa: Z5D-724
+    Infraccion: 150
+      Dron: DRN-0110  Fecha: 2020/11/16
+    Infraccion: 305
+      Dron: DRN-0191  Fecha: 2020/01/3
+  Placa: H6X-124
+    Infraccion: 148
+      Dron: DRN-0231  Fecha: 2020/03/26
+    Infraccion: 208
+      Dron: DRN-0366  Fecha: 2020/09/20
+  Placa: Z5D-724
+    Infraccion: 150
+      Dron: DRN-0110  Fecha: 2020/11/16
+    Infraccion: 305
+      Dron: DRN-0191  Fecha: 2020/01/3
+    Infraccion: 319
+      Dron: DRN-0351  Fecha: 2020/09/19
+  Placa: H6X-124
+    Infraccion: 148
+      Dron: DRN-0231  Fecha: 2020/03/26
+    Infraccion: 208
+      Dron: DRN-0366  Fecha: 2020/09/20
+  Placa: J0J-790
+    Infraccion: 113
+      Dron: DRN-0375  Fecha: 2020/04/8
+  Placa: Z5D-724
+    Infraccion: 150
+      Dron: DRN-0110  Fecha: 2020/11/16
+    Infraccion: 166
+      Dron: DRN-0406  Fecha: 2020/03/13
+    Infraccion: 305
+      Dron: DRN-0191  Fecha: 2020/01/3
+    Infraccion: 319
+      Dron: DRN-0351  Fecha: 2020/09/19
+
+DNI: 82870470  Nombre: SEDANO RETAMOSO ELIA YOLANDA
+  Placa: C4O-436
+    Infraccion: 118
+      Dron: DRN-0010  Fecha: 2020/10/12
+    Infraccion: 158
+      Dron: DRN-0031  Fecha: 2020/12/16
+  Placa: K0H-387
+    Infraccion: 103
+      Dron: DRN-0296  Fecha: 2020/01/13
+    Infraccion: 104
+      Dron: DRN-0235  Fecha: 2020/07/7
+    Infraccion: 143
+      Dron: DRN-0013  Fecha: 2020/03/3
+    Infraccion: 335
+      Dron: DRN-0542  Fecha: 2020/09/23
+  Placa: C4O-436
+    Infraccion: 118
+      Dron: DRN-0010  Fecha: 2020/10/12
+    Infraccion: 158
+      Dron: DRN-0031  Fecha: 2020/12/16
+  Placa: K0H-387
+    Infraccion: 104
+      Dron: DRN-0235  Fecha: 2020/07/7
+    Infraccion: 143
+      Dron: DRN-0013  Fecha: 2020/03/3
+  Placa: K0H-387
+    Infraccion: 103
+      Dron: DRN-0296  Fecha: 2020/01/13
+    Infraccion: 104
+      Dron: DRN-0235  Fecha: 2020/07/7
+    Infraccion: 143
+      Dron: DRN-0013  Fecha: 2020/03/3
+  Placa: K0H-387
+    Infraccion: 103
+      Dron: DRN-0296  Fecha: 2020/01/13
+    Infraccion: 104
+      Dron: DRN-0235  Fecha: 2020/07/7
+    Infraccion: 143
+      Dron: DRN-0013  Fecha: 2020/03/3
+    Infraccion: 335
+      Dron: DRN-0542  Fecha: 2020/09/23
+
+DNI: 84186239  Nombre: RIVERO CORONADO HECTOR ALONSO
+  Placa: T6W-978
+    Infraccion: 131
+      Dron: DRN-0531  Fecha: 2020/12/23
+    Infraccion: 316
+      Dron: DRN-0410  Fecha: 2020/11/5
+    Infraccion: 336
+      Dron: DRN-0073  Fecha: 2020/06/19
+  Placa: T6W-978
+    Infraccion: 316
+      Dron: DRN-0410  Fecha: 2020/11/5
+    Infraccion: 336
+      Dron: DRN-0073  Fecha: 2020/06/19
+  Placa: T6W-978
+    Infraccion: 131
+      Dron: DRN-0531  Fecha: 2020/12/23
+    Infraccion: 316
+      Dron: DRN-0410  Fecha: 2020/11/5
+    Infraccion: 336
+      Dron: DRN-0073  Fecha: 2020/06/19
+
+DNI: 85501710  Nombre: VIZCARDO SINCHE MARIBEL
+  Placa: Z4K-431
+    Infraccion: 105
+      Dron: DRN-0271  Fecha: 2020/09/29
+    Infraccion: 157
+      Dron: DRN-0275  Fecha: 2020/02/25
+    Infraccion: 331
+      Dron: DRN-0323  Fecha: 2020/10/22
+  Placa: Z4K-431
+    Infraccion: 105
+      Dron: DRN-0271  Fecha: 2020/09/29
+    Infraccion: 157
+      Dron: DRN-0275  Fecha: 2020/02/25
+  Placa: Z4K-431
+    Infraccion: 105
+      Dron: DRN-0271  Fecha: 2020/09/29
+    Infraccion: 157
+      Dron: DRN-0275  Fecha: 2020/02/25
+    Infraccion: 331
+      Dron: DRN-0323  Fecha: 2020/10/22
+  Placa: N2C-590
+    Infraccion: 129
+      Dron: DRN-0646  Fecha: 2020/10/9
+    Infraccion: 320
+      Dron: DRN-0417  Fecha: 2020/04/5
+  Placa: N2C-590
+    Infraccion: 129
+      Dron: DRN-0646  Fecha: 2020/10/9
+    Infraccion: 320
+      Dron: DRN-0417  Fecha: 2020/04/5
+
+DNI: 86429854  Nombre: MOSCOSO LAURA JANET VALENTINA
+  Placa: M5U-987
+    Infraccion: 104
+      Dron: DRN-0301  Fecha: 2020/02/26
+    Infraccion: 125
+      Dron: DRN-0474  Fecha: 2020/07/5
+    Infraccion: 154
+      Dron: DRN-0044  Fecha: 2020/04/11
+    Infraccion: 341
+      Dron: DRN-0466  Fecha: 2020/11/8
+  Placa: K1F-766
+    Infraccion: 103
+      Dron: DRN-0081  Fecha: 2020/04/13
+    Infraccion: 142
+      Dron: DRN-0156  Fecha: 2020/10/10
+    Infraccion: 207
+      Dron: DRN-0509  Fecha: 2020/04/26
+    Infraccion: 306
+      Dron: DRN-0483  Fecha: 2020/04/10
+    Infraccion: 333
+      Dron: DRN-0476  Fecha: 2020/05/1
+    Infraccion: 338
+      Dron: DRN-0064  Fecha: 2020/04/15
+  Placa: K1F-766
+    Infraccion: 103
+      Dron: DRN-0081  Fecha: 2020/04/13
+    Infraccion: 338
+      Dron: DRN-0064  Fecha: 2020/04/15
+  Placa: K1F-766
+    Infraccion: 103
+      Dron: DRN-0081  Fecha: 2020/04/13
+    Infraccion: 142
+      Dron: DRN-0156  Fecha: 2020/10/10
+    Infraccion: 338
+      Dron: DRN-0064  Fecha: 2020/04/15
+  Placa: M5U-987
+    Infraccion: 104
+      Dron: DRN-0301  Fecha: 2020/02/26
+    Infraccion: 154
+      Dron: DRN-0044  Fecha: 2020/04/11
+  Placa: M5U-987
+    Infraccion: 104
+      Dron: DRN-0301  Fecha: 2020/02/26
+    Infraccion: 154
+      Dron: DRN-0044  Fecha: 2020/04/11
+    Infraccion: 341
+      Dron: DRN-0466  Fecha: 2020/11/8
+  Placa: M5U-987
+    Infraccion: 104
+      Dron: DRN-0301  Fecha: 2020/02/26
+    Infraccion: 125
+      Dron: DRN-0474  Fecha: 2020/07/5
+    Infraccion: 154
+      Dron: DRN-0044  Fecha: 2020/04/11
+    Infraccion: 341
+      Dron: DRN-0466  Fecha: 2020/11/8
+  Placa: K1F-766
+    Infraccion: 103
+      Dron: DRN-0081  Fecha: 2020/04/13
+    Infraccion: 142
+      Dron: DRN-0156  Fecha: 2020/10/10
+    Infraccion: 333
+      Dron: DRN-0476  Fecha: 2020/05/1
+    Infraccion: 338
+      Dron: DRN-0064  Fecha: 2020/04/15
+  Placa: K1F-766
+    Infraccion: 103
+      Dron: DRN-0081  Fecha: 2020/04/13
+    Infraccion: 142
+      Dron: DRN-0156  Fecha: 2020/10/10
+    Infraccion: 306
+      Dron: DRN-0483  Fecha: 2020/04/10
+    Infraccion: 333
+      Dron: DRN-0476  Fecha: 2020/05/1
+    Infraccion: 338
+      Dron: DRN-0064  Fecha: 2020/04/15
+  Placa: K1F-766
+    Infraccion: 103
+      Dron: DRN-0081  Fecha: 2020/04/13
+    Infraccion: 142
+      Dron: DRN-0156  Fecha: 2020/10/10
+    Infraccion: 207
+      Dron: DRN-0509  Fecha: 2020/04/26
+    Infraccion: 306
+      Dron: DRN-0483  Fecha: 2020/04/10
+    Infraccion: 333
+      Dron: DRN-0476  Fecha: 2020/05/1
+    Infraccion: 338
+      Dron: DRN-0064  Fecha: 2020/04/15
+
+DNI: 86718074  Nombre: ESCALANTE ROJAS INES ADRIA
+  Placa: Q6I-941
+    Infraccion: 102
+      Dron: DRN-0065  Fecha: 2020/03/12
+    Infraccion: 141
+      Dron: DRN-0309  Fecha: 2020/09/9
+  Placa: Q6I-941
+    Infraccion: 102
+      Dron: DRN-0065  Fecha: 2020/03/12
+    Infraccion: 141
+      Dron: DRN-0309  Fecha: 2020/09/9
+  Placa: L4O-783
+    Infraccion: 107
+      Dron: DRN-0444  Fecha: 2020/10/17
+    Infraccion: 301
+      Dron: DRN-0370  Fecha: 2020/09/4
+    Infraccion: 307
+      Dron: DRN-0398  Fecha: 2020/08/27
+  Placa: L4O-783
+    Infraccion: 301
+      Dron: DRN-0370  Fecha: 2020/09/4
+    Infraccion: 307
+      Dron: DRN-0398  Fecha: 2020/08/27
+  Placa: L4O-783
+    Infraccion: 107
+      Dron: DRN-0444  Fecha: 2020/10/17
+    Infraccion: 301
+      Dron: DRN-0370  Fecha: 2020/09/4
+    Infraccion: 307
+      Dron: DRN-0398  Fecha: 2020/08/27
+
+DNI: 87282766  Nombre: SUAREZ CHANG GLORIA
+  Placa: S1D-093
+    Infraccion: 105
+      Dron: DRN-0562  Fecha: 2020/10/5
+    Infraccion: 111
+      Dron: DRN-0631  Fecha: 2020/09/4
+    Infraccion: 123
+      Dron: DRN-0449  Fecha: 2020/12/14
+    Infraccion: 134
+      Dron: DRN-0083  Fecha: 2020/10/24
+    Infraccion: 204
+      Dron: DRN-0574  Fecha: 2020/05/11
+    Infraccion: 323
+      Dron: DRN-0316  Fecha: 2020/05/27
+    Infraccion: 331
+      Dron: DRN-0622  Fecha: 2020/01/9
+  Placa: S1D-093
+    Infraccion: 134
+      Dron: DRN-0083  Fecha: 2020/10/24
+    Infraccion: 323
+      Dron: DRN-0316  Fecha: 2020/05/27
+  Placa: S1D-093
+    Infraccion: 123
+      Dron: DRN-0449  Fecha: 2020/12/14
+    Infraccion: 134
+      Dron: DRN-0083  Fecha: 2020/10/24
+    Infraccion: 323
+      Dron: DRN-0316  Fecha: 2020/05/27
+  Placa: S1D-093
+    Infraccion: 105
+      Dron: DRN-0562  Fecha: 2020/10/5
+    Infraccion: 123
+      Dron: DRN-0449  Fecha: 2020/12/14
+    Infraccion: 134
+      Dron: DRN-0083  Fecha: 2020/10/24
+    Infraccion: 323
+      Dron: DRN-0316  Fecha: 2020/05/27
+  Placa: S1D-093
+    Infraccion: 105
+      Dron: DRN-0562  Fecha: 2020/10/5
+    Infraccion: 123
+      Dron: DRN-0449  Fecha: 2020/12/14
+    Infraccion: 134
+      Dron: DRN-0083  Fecha: 2020/10/24
+    Infraccion: 204
+      Dron: DRN-0574  Fecha: 2020/05/11
+    Infraccion: 323
+      Dron: DRN-0316  Fecha: 2020/05/27
+  Placa: S1D-093
+    Infraccion: 105
+      Dron: DRN-0562  Fecha: 2020/10/5
+    Infraccion: 123
+      Dron: DRN-0449  Fecha: 2020/12/14
+    Infraccion: 134
+      Dron: DRN-0083  Fecha: 2020/10/24
+    Infraccion: 204
+      Dron: DRN-0574  Fecha: 2020/05/11
+    Infraccion: 323
+      Dron: DRN-0316  Fecha: 2020/05/27
+    Infraccion: 331
+      Dron: DRN-0622  Fecha: 2020/01/9
+  Placa: S1D-093
+    Infraccion: 105
+      Dron: DRN-0562  Fecha: 2020/10/5
+    Infraccion: 111
+      Dron: DRN-0631  Fecha: 2020/09/4
+    Infraccion: 123
+      Dron: DRN-0449  Fecha: 2020/12/14
+    Infraccion: 134
+      Dron: DRN-0083  Fecha: 2020/10/24
+    Infraccion: 204
+      Dron: DRN-0574  Fecha: 2020/05/11
+    Infraccion: 323
+      Dron: DRN-0316  Fecha: 2020/05/27
+    Infraccion: 331
+      Dron: DRN-0622  Fecha: 2020/01/9
+
+DNI: 87495937  Nombre: MORALES PASQUEL KARIN MARIBEL
+  Placa: M5G-669
+    Infraccion: 124
+      Dron: DRN-0384  Fecha: 2020/01/7
+    Infraccion: 155
+      Dron: DRN-0242  Fecha: 2020/02/15
+    Infraccion: 304
+      Dron: DRN-0093  Fecha: 2020/11/2
+  Placa: L2H-207
+    Infraccion: 123
+      Dron: DRN-0201  Fecha: 2020/10/15
+    Infraccion: 150
+      Dron: DRN-0408  Fecha: 2020/03/29
+    Infraccion: 158
+      Dron: DRN-0111  Fecha: 2020/03/17
+    Infraccion: 336
+      Dron: DRN-0554  Fecha: 2020/08/25
+  Placa: L2H-207
+    Infraccion: 123
+      Dron: DRN-0201  Fecha: 2020/10/15
+    Infraccion: 158
+      Dron: DRN-0111  Fecha: 2020/03/17
+  Placa: M5G-669
+    Infraccion: 155
+      Dron: DRN-0242  Fecha: 2020/02/15
+    Infraccion: 304
+      Dron: DRN-0093  Fecha: 2020/11/2
+  Placa: M5G-669
+    Infraccion: 124
+      Dron: DRN-0384  Fecha: 2020/01/7
+    Infraccion: 155
+      Dron: DRN-0242  Fecha: 2020/02/15
+    Infraccion: 304
+      Dron: DRN-0093  Fecha: 2020/11/2
+  Placa: L2H-207
+    Infraccion: 123
+      Dron: DRN-0201  Fecha: 2020/10/15
+    Infraccion: 150
+      Dron: DRN-0408  Fecha: 2020/03/29
+    Infraccion: 158
+      Dron: DRN-0111  Fecha: 2020/03/17
+  Placa: Z8C-558
+    Infraccion: 129
+      Dron: DRN-0618  Fecha: 2020/10/18
+    Infraccion: 160
+      Dron: DRN-0424  Fecha: 2020/05/19
+  Placa: L2H-207
+    Infraccion: 123
+      Dron: DRN-0201  Fecha: 2020/10/15
+    Infraccion: 150
+      Dron: DRN-0408  Fecha: 2020/03/29
+    Infraccion: 158
+      Dron: DRN-0111  Fecha: 2020/03/17
+    Infraccion: 336
+      Dron: DRN-0554  Fecha: 2020/08/25
+  Placa: Z8C-558
+    Infraccion: 129
+      Dron: DRN-0618  Fecha: 2020/10/18
+    Infraccion: 160
+      Dron: DRN-0424  Fecha: 2020/05/19
+
+DNI: 88167677  Nombre: PRADO VERA JUAN
+  Placa: Y4Y-028
+    Infraccion: 310
+      Dron: DRN-0630  Fecha: 2020/02/6
+    Infraccion: 316
+      Dron: DRN-0162  Fecha: 2020/05/18
+      Dron: DRN-0198  Fecha: 2020/06/18
+    Infraccion: 329
+      Dron: DRN-0042  Fecha: 2020/07/1
+    Infraccion: 332
+      Dron: DRN-0576  Fecha: 2020/09/21
+  Placa: O0C-616
+    Infraccion: 118
+      Dron: DRN-0214  Fecha: 2020/04/9
+    Infraccion: 128
+      Dron: DRN-0274  Fecha: 2020/01/4
+    Infraccion: 338
+      Dron: DRN-0101  Fecha: 2020/02/12
+  Placa: V7U-622
+    Infraccion: 160
+      Dron: DRN-0158  Fecha: 2020/05/25
+  Placa: Y4Y-028
+    Infraccion: 316
+      Dron: DRN-0162  Fecha: 2020/05/18
+    Infraccion: 329
+      Dron: DRN-0042  Fecha: 2020/07/1
+  Placa: Y4Y-028
+    Infraccion: 316
+      Dron: DRN-0162  Fecha: 2020/05/18
+      Dron: DRN-0198  Fecha: 2020/06/18
+    Infraccion: 329
+      Dron: DRN-0042  Fecha: 2020/07/1
+  Placa: O0C-616
+    Infraccion: 118
+      Dron: DRN-0214  Fecha: 2020/04/9
+    Infraccion: 338
+      Dron: DRN-0101  Fecha: 2020/02/12
+  Placa: O0C-616
+    Infraccion: 118
+      Dron: DRN-0214  Fecha: 2020/04/9
+    Infraccion: 128
+      Dron: DRN-0274  Fecha: 2020/01/4
+    Infraccion: 338
+      Dron: DRN-0101  Fecha: 2020/02/12
+  Placa: B4C-100
+    Infraccion: 121
+      Dron: DRN-0382  Fecha: 2020/08/31
+    Infraccion: 123
+      Dron: DRN-0636  Fecha: 2020/02/3
+    Infraccion: 149
+      Dron: DRN-0473  Fecha: 2020/06/4
+    Infraccion: 202
+      Dron: DRN-0278  Fecha: 2020/08/21
+    Infraccion: 332
+      Dron: DRN-0393  Fecha: 2020/07/2
+  Placa: B4C-100
+    Infraccion: 121
+      Dron: DRN-0382  Fecha: 2020/08/31
+    Infraccion: 202
+      Dron: DRN-0278  Fecha: 2020/08/21
+  Placa: B4C-100
+    Infraccion: 121
+      Dron: DRN-0382  Fecha: 2020/08/31
+    Infraccion: 202
+      Dron: DRN-0278  Fecha: 2020/08/21
+    Infraccion: 332
+      Dron: DRN-0393  Fecha: 2020/07/2
+  Placa: B4C-100
+    Infraccion: 121
+      Dron: DRN-0382  Fecha: 2020/08/31
+    Infraccion: 149
+      Dron: DRN-0473  Fecha: 2020/06/4
+    Infraccion: 202
+      Dron: DRN-0278  Fecha: 2020/08/21
+    Infraccion: 332
+      Dron: DRN-0393  Fecha: 2020/07/2
+  Placa: Y4Y-028
+    Infraccion: 316
+      Dron: DRN-0162  Fecha: 2020/05/18
+      Dron: DRN-0198  Fecha: 2020/06/18
+    Infraccion: 329
+      Dron: DRN-0042  Fecha: 2020/07/1
+    Infraccion: 332
+      Dron: DRN-0576  Fecha: 2020/09/21
+  Placa: Y4Y-028
+    Infraccion: 310
+      Dron: DRN-0630  Fecha: 2020/02/6
+    Infraccion: 316
+      Dron: DRN-0162  Fecha: 2020/05/18
+      Dron: DRN-0198  Fecha: 2020/06/18
+    Infraccion: 329
+      Dron: DRN-0042  Fecha: 2020/07/1
+    Infraccion: 332
+      Dron: DRN-0576  Fecha: 2020/09/21
+  Placa: B4C-100
+    Infraccion: 121
+      Dron: DRN-0382  Fecha: 2020/08/31
+    Infraccion: 123
+      Dron: DRN-0636  Fecha: 2020/02/3
+    Infraccion: 149
+      Dron: DRN-0473  Fecha: 2020/06/4
+    Infraccion: 202
+      Dron: DRN-0278  Fecha: 2020/08/21
+    Infraccion: 332
+      Dron: DRN-0393  Fecha: 2020/07/2
+
+DNI: 88854166  Nombre: PINTO ROJAS JUVENAL FRANCISCO
+  Placa: H3E-885
+    Infraccion: 122
+      Dron: DRN-0020  Fecha: 2020/06/10
+  Placa: L3N-150
+    Infraccion: 104
+      Dron: DRN-0124  Fecha: 2020/12/10
+    Infraccion: 135
+      Dron: DRN-0620  Fecha: 2020/06/19
+    Infraccion: 334
+      Dron: DRN-0136  Fecha: 2020/05/21
+  Placa: L3N-150
+    Infraccion: 104
+      Dron: DRN-0124  Fecha: 2020/12/10
+    Infraccion: 334
+      Dron: DRN-0136  Fecha: 2020/05/21
+  Placa: O0K-148
+    Infraccion: 331
+      Dron: DRN-0277  Fecha: 2020/09/22
+  Placa: L3N-150
+    Infraccion: 104
+      Dron: DRN-0124  Fecha: 2020/12/10
+    Infraccion: 135
+      Dron: DRN-0620  Fecha: 2020/06/19
+    Infraccion: 334
+      Dron: DRN-0136  Fecha: 2020/05/21
+
+DNI: 89314225  Nombre: RIOS DURAND CARLOS EDILBERTO
+  Placa: C3A-423
+    Infraccion: 104
+      Dron: DRN-0541  Fecha: 2020/12/2
+    Infraccion: 110
+      Dron: DRN-0226  Fecha: 2020/06/20
+    Infraccion: 164
+      Dron: DRN-0155  Fecha: 2020/01/27
+    Infraccion: 341
+      Dron: DRN-0371  Fecha: 2020/02/21
+  Placa: C3A-423
+    Infraccion: 110
+      Dron: DRN-0226  Fecha: 2020/06/20
+    Infraccion: 164
+      Dron: DRN-0155  Fecha: 2020/01/27
+  Placa: C3A-423
+    Infraccion: 110
+      Dron: DRN-0226  Fecha: 2020/06/20
+    Infraccion: 164
+      Dron: DRN-0155  Fecha: 2020/01/27
+    Infraccion: 341
+      Dron: DRN-0371  Fecha: 2020/02/21
+  Placa: C3A-423
+    Infraccion: 104
+      Dron: DRN-0541  Fecha: 2020/12/2
+    Infraccion: 110
+      Dron: DRN-0226  Fecha: 2020/06/20
+    Infraccion: 164
+      Dron: DRN-0155  Fecha: 2020/01/27
+    Infraccion: 341
+      Dron: DRN-0371  Fecha: 2020/02/21
+
+DNI: 89941095  Nombre: ARCA LARRIEGA LUCERO YLIANA
+  Placa: P6T-244
+    Infraccion: 140
+      Dron: DRN-0024  Fecha: 2020/09/17
+    Infraccion: 314
+      Dron: DRN-0465  Fecha: 2020/06/1
+  Placa: R8O-904
+    Infraccion: 164
+      Dron: DRN-0429  Fecha: 2020/07/23
+    Infraccion: 320
+      Dron: DRN-0151  Fecha: 2020/09/25
+    Infraccion: 331
+      Dron: DRN-0095  Fecha: 2020/08/12
+    Infraccion: 337
+      Dron: DRN-0265  Fecha: 2020/11/9
+  Placa: R8O-904
+    Infraccion: 320
+      Dron: DRN-0151  Fecha: 2020/09/25
+    Infraccion: 331
+      Dron: DRN-0095  Fecha: 2020/08/12
+  Placa: P6N-119
+    Infraccion: 314
+      Dron: DRN-0163  Fecha: 2020/01/6
+  Placa: R8O-904
+    Infraccion: 320
+      Dron: DRN-0151  Fecha: 2020/09/25
+    Infraccion: 331
+      Dron: DRN-0095  Fecha: 2020/08/12
+    Infraccion: 337
+      Dron: DRN-0265  Fecha: 2020/11/9
+  Placa: R8O-904
+    Infraccion: 164
+      Dron: DRN-0429  Fecha: 2020/07/23
+    Infraccion: 320
+      Dron: DRN-0151  Fecha: 2020/09/25
+    Infraccion: 331
+      Dron: DRN-0095  Fecha: 2020/08/12
+    Infraccion: 337
+      Dron: DRN-0265  Fecha: 2020/11/9
+  Placa: P6T-244
+    Infraccion: 140
+      Dron: DRN-0024  Fecha: 2020/09/17
+    Infraccion: 314
+      Dron: DRN-0465  Fecha: 2020/06/1
+
+DNI: 90467829  Nombre: IPARRAGUIRRE PEREZ NICOLAS
+  Placa: X8U-894
+    Infraccion: 105
+      Dron: DRN-0046  Fecha: 2020/10/6
+    Infraccion: 118
+      Dron: DRN-0302  Fecha: 2020/09/16
+  Placa: K4H-445
+    Infraccion: 118
+      Dron: DRN-0187  Fecha: 2020/10/22
+    Infraccion: 145
+      Dron: DRN-0276  Fecha: 2020/10/10
+    Infraccion: 313
+      Dron: DRN-0330  Fecha: 2020/07/17
+  Placa: K4H-445
+    Infraccion: 118
+      Dron: DRN-0187  Fecha: 2020/10/22
+    Infraccion: 145
+      Dron: DRN-0276  Fecha: 2020/10/10
+  Placa: X8U-894
+    Infraccion: 105
+      Dron: DRN-0046  Fecha: 2020/10/6
+    Infraccion: 118
+      Dron: DRN-0302  Fecha: 2020/09/16
+  Placa: K4H-445
+    Infraccion: 118
+      Dron: DRN-0187  Fecha: 2020/10/22
+    Infraccion: 145
+      Dron: DRN-0276  Fecha: 2020/10/10
+    Infraccion: 313
+      Dron: DRN-0330  Fecha: 2020/07/17
+  Placa: C9H-661
+    Infraccion: 128
+      Dron: DRN-0387  Fecha: 2020/11/29
+  Placa: H1R-953
+    Infraccion: 129
+      Dron: DRN-0648  Fecha: 2020/06/23
+    Infraccion: 136
+      Dron: DRN-0388  Fecha: 2020/02/5
+    Infraccion: 335
+      Dron: DRN-0602  Fecha: 2020/10/11
+  Placa: H1R-953
+    Infraccion: 136
+      Dron: DRN-0388  Fecha: 2020/02/5
+    Infraccion: 335
+      Dron: DRN-0602  Fecha: 2020/10/11
+  Placa: H1R-953
+    Infraccion: 129
+      Dron: DRN-0648  Fecha: 2020/06/23
+    Infraccion: 136
+      Dron: DRN-0388  Fecha: 2020/02/5
+    Infraccion: 335
+      Dron: DRN-0602  Fecha: 2020/10/11
+
+DNI: 96693273  Nombre: VALDERRAMA BERROCAL EVERT
+  Placa: C0G-556
+    Infraccion: 120
+      Dron: DRN-0070  Fecha: 2020/10/3
+    Infraccion: 123
+      Dron: DRN-0224  Fecha: 2020/02/22
+    Infraccion: 135
+      Dron: DRN-0059  Fecha: 2020/10/9
+    Infraccion: 165
+      Dron: DRN-0174  Fecha: 2020/12/30
+    Infraccion: 312
+      Dron: DRN-0503  Fecha: 2020/12/24
+  Placa: C0G-556
+    Infraccion: 120
+      Dron: DRN-0070  Fecha: 2020/10/3
+    Infraccion: 135
+      Dron: DRN-0059  Fecha: 2020/10/9
+  Placa: C0G-556
+    Infraccion: 120
+      Dron: DRN-0070  Fecha: 2020/10/3
+    Infraccion: 135
+      Dron: DRN-0059  Fecha: 2020/10/9
+    Infraccion: 165
+      Dron: DRN-0174  Fecha: 2020/12/30
+  Placa: C0G-556
+    Infraccion: 120
+      Dron: DRN-0070  Fecha: 2020/10/3
+    Infraccion: 123
+      Dron: DRN-0224  Fecha: 2020/02/22
+    Infraccion: 135
+      Dron: DRN-0059  Fecha: 2020/10/9
+    Infraccion: 165
+      Dron: DRN-0174  Fecha: 2020/12/30
+  Placa: F3R-138
+    Infraccion: 135
+      Dron: DRN-0280  Fecha: 2020/07/24
+    Infraccion: 147
+      Dron: DRN-0569  Fecha: 2020/04/30
+    Infraccion: 302
+      Dron: DRN-0364  Fecha: 2020/10/28
+  Placa: F3R-138
+    Infraccion: 135
+      Dron: DRN-0280  Fecha: 2020/07/24
+    Infraccion: 302
+      Dron: DRN-0364  Fecha: 2020/10/28
+  Placa: B9X-420
+    Infraccion: 148
+      Dron: DRN-0499  Fecha: 2020/05/26
+  Placa: C0G-556
+    Infraccion: 120
+      Dron: DRN-0070  Fecha: 2020/10/3
+    Infraccion: 123
+      Dron: DRN-0224  Fecha: 2020/02/22
+    Infraccion: 135
+      Dron: DRN-0059  Fecha: 2020/10/9
+    Infraccion: 165
+      Dron: DRN-0174  Fecha: 2020/12/30
+    Infraccion: 312
+      Dron: DRN-0503  Fecha: 2020/12/24
+  Placa: A6K-820
+    Infraccion: 141
+      Dron: DRN-0557  Fecha: 2020/08/15
+  Placa: F3R-138
+    Infraccion: 135
+      Dron: DRN-0280  Fecha: 2020/07/24
+    Infraccion: 147
+      Dron: DRN-0569  Fecha: 2020/04/30
+    Infraccion: 302
+      Dron: DRN-0364  Fecha: 2020/10/28
+
+DNI: 97849227  Nombre: PRADO ESPINOZA MILAGROS
+  Placa: I0K-077
+    Infraccion: 109
+      Dron: DRN-0233  Fecha: 2020/06/29
+    Infraccion: 126
+      Dron: DRN-0300  Fecha: 2020/01/27
+    Infraccion: 311
+      Dron: DRN-0241  Fecha: 2020/02/24
+    Infraccion: 323
+      Dron: DRN-0135  Fecha: 2020/06/30
+    Infraccion: 328
+      Dron: DRN-0307  Fecha: 2020/10/7
+    Infraccion: 341
+      Dron: DRN-0553  Fecha: 2020/07/14
+  Placa: I0K-077
+    Infraccion: 109
+      Dron: DRN-0233  Fecha: 2020/06/29
+    Infraccion: 323
+      Dron: DRN-0135  Fecha: 2020/06/30
+  Placa: I0K-077
+    Infraccion: 109
+      Dron: DRN-0233  Fecha: 2020/06/29
+    Infraccion: 311
+      Dron: DRN-0241  Fecha: 2020/02/24
+    Infraccion: 323
+      Dron: DRN-0135  Fecha: 2020/06/30
+  Placa: I0K-077
+    Infraccion: 109
+      Dron: DRN-0233  Fecha: 2020/06/29
+    Infraccion: 126
+      Dron: DRN-0300  Fecha: 2020/01/27
+    Infraccion: 311
+      Dron: DRN-0241  Fecha: 2020/02/24
+    Infraccion: 323
+      Dron: DRN-0135  Fecha: 2020/06/30
+  Placa: I0K-077
+    Infraccion: 109
+      Dron: DRN-0233  Fecha: 2020/06/29
+    Infraccion: 126
+      Dron: DRN-0300  Fecha: 2020/01/27
+    Infraccion: 311
+      Dron: DRN-0241  Fecha: 2020/02/24
+    Infraccion: 323
+      Dron: DRN-0135  Fecha: 2020/06/30
+    Infraccion: 328
+      Dron: DRN-0307  Fecha: 2020/10/7
+  Placa: I0K-077
+    Infraccion: 109
+      Dron: DRN-0233  Fecha: 2020/06/29
+    Infraccion: 126
+      Dron: DRN-0300  Fecha: 2020/01/27
+    Infraccion: 311
+      Dron: DRN-0241  Fecha: 2020/02/24
+    Infraccion: 323
+      Dron: DRN-0135  Fecha: 2020/06/30
+    Infraccion: 328
+      Dron: DRN-0307  Fecha: 2020/10/7
+    Infraccion: 341
+      Dron: DRN-0553  Fecha: 2020/07/14
+
+DNI: 99950484  Nombre: CORTES CORTEZ RAUL ALEX
+  Placa: Y9W-731
+    Infraccion: 103
+      Dron: DRN-0547  Fecha: 2020/12/22
+    Infraccion: 135
+      Dron: DRN-0125  Fecha: 2020/07/28
+    Infraccion: 338
+      Dron: DRN-0016  Fecha: 2020/05/25
+  Placa: Y9W-731
+    Infraccion: 135
+      Dron: DRN-0125  Fecha: 2020/07/28
+    Infraccion: 338
+      Dron: DRN-0016  Fecha: 2020/05/25
+  Placa: Y6I-680
+    Infraccion: 107
+      Dron: DRN-0501  Fecha: 2020/05/6
+    Infraccion: 145
+      Dron: DRN-0537  Fecha: 2020/05/26
+    Infraccion: 162
+      Dron: DRN-0138  Fecha: 2020/07/26
+  Placa: Y6I-680
+    Infraccion: 107
+      Dron: DRN-0501  Fecha: 2020/05/6
+    Infraccion: 162
+      Dron: DRN-0138  Fecha: 2020/07/26
+  Placa: Y6I-680
+    Infraccion: 107
+      Dron: DRN-0501  Fecha: 2020/05/6
+    Infraccion: 145
+      Dron: DRN-0537  Fecha: 2020/05/26
+    Infraccion: 162
+      Dron: DRN-0138  Fecha: 2020/07/26
+  Placa: Y9W-731
+    Infraccion: 103
+      Dron: DRN-0547  Fecha: 2020/12/22
+    Infraccion: 135
+      Dron: DRN-0125  Fecha: 2020/07/28
+    Infraccion: 338
+      Dron: DRN-0016  Fecha: 2020/05/25
+  Placa: X0R-946
+    Infraccion: 326
+      Dron: DRN-0551  Fecha: 2020/07/11
+  Placa: L8A-167
+    Infraccion: 326
+      Dron: DRN-0647  Fecha: 2020/03/29
+
+DNI: 12270502  Nombre: CUEVA FUENTES CINTHIA DELIA
+  Placa: P7T-999
+    Infraccion: 111
+      Dron: DRN-0380  Fecha: 2020/11/20
+    Infraccion: 150
+      Dron: DRN-0071  Fecha: 2020/04/13
+  Placa: O1C-880
+    Infraccion: 102
+      Dron: DRN-0290  Fecha: 2020/04/14
+    Infraccion: 332
+      Dron: DRN-0604  Fecha: 2020/12/27
+  Placa: P7T-999
+    Infraccion: 111
+      Dron: DRN-0380  Fecha: 2020/11/20
+    Infraccion: 150
+      Dron: DRN-0071  Fecha: 2020/04/13
+  Placa: Y5F-449
+    Infraccion: 332
+      Dron: DRN-0481  Fecha: 2020/03/25
+  Placa: O1C-880
+    Infraccion: 102
+      Dron: DRN-0290  Fecha: 2020/04/14
+    Infraccion: 332
+      Dron: DRN-0604  Fecha: 2020/12/27
+
+DNI: 12443643  Nombre: LEE SERRANO ROSARIO
+  Placa: R8H-409
+    Infraccion: 156
+      Dron: DRN-0133  Fecha: 2020/12/14
+    Infraccion: 321
+      Dron: DRN-0617  Fecha: 2020/10/30
+  Placa: R8H-409
+    Infraccion: 156
+      Dron: DRN-0133  Fecha: 2020/12/14
+    Infraccion: 321
+      Dron: DRN-0617  Fecha: 2020/10/30
+
+DNI: 12858682  Nombre: ZARATE PEREZ ALEXANDER
+  Placa: T5L-371
+    Infraccion: 101
+      Dron: DRN-0054  Fecha: 2020/12/20
+    Infraccion: 308
+      Dron: DRN-0385  Fecha: 2020/03/11
+    Infraccion: 310
+      Dron: DRN-0516  Fecha: 2020/04/22
+    Infraccion: 318
+      Dron: DRN-0283  Fecha: 2020/02/27
+  Placa: T5L-371
+    Infraccion: 101
+      Dron: DRN-0054  Fecha: 2020/12/20
+    Infraccion: 318
+      Dron: DRN-0283  Fecha: 2020/02/27
+  Placa: T5L-371
+    Infraccion: 101
+      Dron: DRN-0054  Fecha: 2020/12/20
+    Infraccion: 308
+      Dron: DRN-0385  Fecha: 2020/03/11
+    Infraccion: 318
+      Dron: DRN-0283  Fecha: 2020/02/27
+  Placa: T5L-371
+    Infraccion: 101
+      Dron: DRN-0054  Fecha: 2020/12/20
+    Infraccion: 308
+      Dron: DRN-0385  Fecha: 2020/03/11
+    Infraccion: 310
+      Dron: DRN-0516  Fecha: 2020/04/22
+    Infraccion: 318
+      Dron: DRN-0283  Fecha: 2020/02/27
+
+DNI: 13219606  Nombre: RODRIGUEZ MORENO BLANCA OFELIA
+  Placa: T3B-722
+    Infraccion: 141
+      Dron: DRN-0145  Fecha: 2020/08/29
+    Infraccion: 313
+      Dron: DRN-0090  Fecha: 2020/04/16
+    Infraccion: 333
+      Dron: DRN-0159  Fecha: 2020/11/16
+  Placa: M2Q-712
+    Infraccion: 152
+      Dron: DRN-0529  Fecha: 2020/08/13
+    Infraccion: 313
+      Dron: DRN-0091  Fecha: 2020/06/20
+      Dron: DRN-0105  Fecha: 2020/07/20
+  Placa: M2Q-712
+    Infraccion: 313
+      Dron: DRN-0091  Fecha: 2020/06/20
+      Dron: DRN-0105  Fecha: 2020/07/20
+  Placa: T3B-722
+    Infraccion: 141
+      Dron: DRN-0145  Fecha: 2020/08/29
+    Infraccion: 313
+      Dron: DRN-0090  Fecha: 2020/04/16
+  Placa: T3B-722
+    Infraccion: 141
+      Dron: DRN-0145  Fecha: 2020/08/29
+    Infraccion: 313
+      Dron: DRN-0090  Fecha: 2020/04/16
+    Infraccion: 333
+      Dron: DRN-0159  Fecha: 2020/11/16
+  Placa: N1O-921
+    Infraccion: 102
+      Dron: DRN-0176  Fecha: 2020/09/4
+    Infraccion: 145
+      Dron: DRN-0638  Fecha: 2020/04/6
+  Placa: M2Q-712
+    Infraccion: 152
+      Dron: DRN-0529  Fecha: 2020/08/13
+    Infraccion: 313
+      Dron: DRN-0091  Fecha: 2020/06/20
+      Dron: DRN-0105  Fecha: 2020/07/20
+  Placa: N1O-921
+    Infraccion: 102
+      Dron: DRN-0176  Fecha: 2020/09/4
+    Infraccion: 145
+      Dron: DRN-0638  Fecha: 2020/04/6
+
+DNI: 13628871  Nombre: QUIROGA HERNANDEZ SILVANA ZKENIA
+  Placa: F3E-797
+    Infraccion: 108
+      Dron: DRN-0589  Fecha: 2020/03/21
+    Infraccion: 131
+      Dron: DRN-0103  Fecha: 2020/05/14
+    Infraccion: 142
+      Dron: DRN-0413  Fecha: 2020/01/19
+    Infraccion: 302
+      Dron: DRN-0462  Fecha: 2020/03/19
+      Dron: DRN-0578  Fecha: 2020/01/13
+  Placa: F3E-797
+    Infraccion: 131
+      Dron: DRN-0103  Fecha: 2020/05/14
+    Infraccion: 142
+      Dron: DRN-0413  Fecha: 2020/01/19
+  Placa: F3E-797
+    Infraccion: 131
+      Dron: DRN-0103  Fecha: 2020/05/14
+    Infraccion: 142
+      Dron: DRN-0413  Fecha: 2020/01/19
+    Infraccion: 302
+      Dron: DRN-0462  Fecha: 2020/03/19
+  Placa: F3E-797
+    Infraccion: 131
+      Dron: DRN-0103  Fecha: 2020/05/14
+    Infraccion: 142
+      Dron: DRN-0413  Fecha: 2020/01/19
+    Infraccion: 302
+      Dron: DRN-0462  Fecha: 2020/03/19
+      Dron: DRN-0578  Fecha: 2020/01/13
+  Placa: F3E-797
+    Infraccion: 108
+      Dron: DRN-0589  Fecha: 2020/03/21
+    Infraccion: 131
+      Dron: DRN-0103  Fecha: 2020/05/14
+    Infraccion: 142
+      Dron: DRN-0413  Fecha: 2020/01/19
+    Infraccion: 302
+      Dron: DRN-0462  Fecha: 2020/03/19
+      Dron: DRN-0578  Fecha: 2020/01/13
+
+DNI: 15029228  Nombre: VALVERDE MAEIREIZO MELVIN JAIR
+  Placa: C0P-895
+    Infraccion: 102
+      Dron: DRN-0003  Fecha: 2020/09/27
+      Dron: DRN-0487  Fecha: 2020/07/10
+  Placa: J0Q-121
+    Infraccion: 145
+      Dron: DRN-0289  Fecha: 2020/12/22
+    Infraccion: 154
+      Dron: DRN-0515  Fecha: 2020/11/27
+    Infraccion: 328
+      Dron: DRN-0260  Fecha: 2020/04/22
+    Infraccion: 331
+      Dron: DRN-0047  Fecha: 2020/11/6
+  Placa: N0Z-560
+    Infraccion: 133
+      Dron: DRN-0183  Fecha: 2020/11/28
+  Placa: J0Q-121
+    Infraccion: 328
+      Dron: DRN-0260  Fecha: 2020/04/22
+    Infraccion: 331
+      Dron: DRN-0047  Fecha: 2020/11/6
+  Placa: J0Q-121
+    Infraccion: 145
+      Dron: DRN-0289  Fecha: 2020/12/22
+    Infraccion: 328
+      Dron: DRN-0260  Fecha: 2020/04/22
+    Infraccion: 331
+      Dron: DRN-0047  Fecha: 2020/11/6
+  Placa: C0P-895
+    Infraccion: 102
+      Dron: DRN-0003  Fecha: 2020/09/27
+      Dron: DRN-0487  Fecha: 2020/07/10
+  Placa: J0Q-121
+    Infraccion: 145
+      Dron: DRN-0289  Fecha: 2020/12/22
+    Infraccion: 154
+      Dron: DRN-0515  Fecha: 2020/11/27
+    Infraccion: 328
+      Dron: DRN-0260  Fecha: 2020/04/22
+    Infraccion: 331
+      Dron: DRN-0047  Fecha: 2020/11/6
+
+DNI: 15115705  Nombre: HERNANDEZ CORRALES GUILLERMO
+
+DNI: 15559308  Nombre: BRAVO CORTES JANET FLOR
+  Placa: T8F-368
+    Infraccion: 148
+      Dron: DRN-0045  Fecha: 2020/08/31
+      Dron: DRN-0098  Fecha: 2020/11/8
+      Dron: DRN-0262  Fecha: 2020/10/9
+  Placa: T8F-368
+    Infraccion: 148
+      Dron: DRN-0045  Fecha: 2020/08/31
+      Dron: DRN-0098  Fecha: 2020/11/8
+  Placa: X6O-905
+    Infraccion: 110
+      Dron: DRN-0453  Fecha: 2020/06/21
+    Infraccion: 133
+      Dron: DRN-0120  Fecha: 2020/03/7
+    Infraccion: 309
+      Dron: DRN-0374  Fecha: 2020/03/9
+  Placa: T8F-368
+    Infraccion: 148
+      Dron: DRN-0045  Fecha: 2020/08/31
+      Dron: DRN-0098  Fecha: 2020/11/8
+      Dron: DRN-0262  Fecha: 2020/10/9
+  Placa: X6O-905
+    Infraccion: 133
+      Dron: DRN-0120  Fecha: 2020/03/7
+    Infraccion: 309
+      Dron: DRN-0374  Fecha: 2020/03/9
+  Placa: X6O-905
+    Infraccion: 110
+      Dron: DRN-0453  Fecha: 2020/06/21
+    Infraccion: 133
+      Dron: DRN-0120  Fecha: 2020/03/7
+    Infraccion: 309
+      Dron: DRN-0374  Fecha: 2020/03/9
+  Placa: S3L-803
+    Infraccion: 105
+      Dron: DRN-0526  Fecha: 2020/08/13
+    Infraccion: 305
+      Dron: DRN-0552  Fecha: 2020/08/21
+  Placa: S3L-803
+    Infraccion: 105
+      Dron: DRN-0526  Fecha: 2020/08/13
+    Infraccion: 305
+      Dron: DRN-0552  Fecha: 2020/08/21
+
+DNI: 16136330  Nombre: YEP PRECIADO RICHARD
+  Placa: E3U-231
+    Infraccion: 108
+      Dron: DRN-0500  Fecha: 2020/09/17
+    Infraccion: 126
+      Dron: DRN-0401  Fecha: 2020/07/14
+    Infraccion: 314
+      Dron: DRN-0643  Fecha: 2020/06/13
+  Placa: E3U-231
+    Infraccion: 108
+      Dron: DRN-0500  Fecha: 2020/09/17
+    Infraccion: 126
+      Dron: DRN-0401  Fecha: 2020/07/14
+  Placa: E3U-231
+    Infraccion: 108
+      Dron: DRN-0500  Fecha: 2020/09/17
+    Infraccion: 126
+      Dron: DRN-0401  Fecha: 2020/07/14
+    Infraccion: 314
+      Dron: DRN-0643  Fecha: 2020/06/13
+
+DNI: 16477908  Nombre: BACA CAMACHO MILAGROS NATALIA
+  Placa: X9D-758
+    Infraccion: 123
+      Dron: DRN-0008  Fecha: 2020/03/18
+  Placa: I0E-459
+    Infraccion: 323
+      Dron: DRN-0048  Fecha: 2020/10/10
+    Infraccion: 338
+      Dron: DRN-0317  Fecha: 2020/08/14
+  Placa: I0E-459
+    Infraccion: 323
+      Dron: DRN-0048  Fecha: 2020/10/10
+    Infraccion: 338
+      Dron: DRN-0317  Fecha: 2020/08/14
+  Placa: W7C-957
+    Infraccion: 126
+      Dron: DRN-0420  Fecha: 2020/07/29
+
+DNI: 16925690  Nombre: CABRERA TORO FANNY
+  Placa: R7N-113
+    Infraccion: 143
+      Dron: DRN-0038  Fecha: 2020/08/14
+      Dron: DRN-0261  Fecha: 2020/04/11
+      Dron: DRN-0354  Fecha: 2020/07/22
+      Dron: DRN-0505  Fecha: 2020/02/14
+    Infraccion: 308
+      Dron: DRN-0587  Fecha: 2020/08/17
+    Infraccion: 332
+      Dron: DRN-0018  Fecha: 2020/12/27
+  Placa: R7N-113
+    Infraccion: 143
+      Dron: DRN-0038  Fecha: 2020/08/14
+    Infraccion: 332
+      Dron: DRN-0018  Fecha: 2020/12/27
+  Placa: B4I-014
+    Infraccion: 128
+      Dron: DRN-0039  Fecha: 2020/07/10
+  Placa: F3F-478
+    Infraccion: 107
+      Dron: DRN-0475  Fecha: 2020/11/27
+    Infraccion: 128
+      Dron: DRN-0053  Fecha: 2020/02/12
+  Placa: R7N-113
+    Infraccion: 143
+      Dron: DRN-0038  Fecha: 2020/08/14
+      Dron: DRN-0261  Fecha: 2020/04/11
+    Infraccion: 332
+      Dron: DRN-0018  Fecha: 2020/12/27
+  Placa: R7N-113
+    Infraccion: 143
+      Dron: DRN-0038  Fecha: 2020/08/14
+      Dron: DRN-0261  Fecha: 2020/04/11
+      Dron: DRN-0354  Fecha: 2020/07/22
+    Infraccion: 332
+      Dron: DRN-0018  Fecha: 2020/12/27
+  Placa: F3F-478
+    Infraccion: 107
+      Dron: DRN-0475  Fecha: 2020/11/27
+    Infraccion: 128
+      Dron: DRN-0053  Fecha: 2020/02/12
+  Placa: R7N-113
+    Infraccion: 143
+      Dron: DRN-0038  Fecha: 2020/08/14
+      Dron: DRN-0261  Fecha: 2020/04/11
+      Dron: DRN-0354  Fecha: 2020/07/22
+      Dron: DRN-0505  Fecha: 2020/02/14
+    Infraccion: 332
+      Dron: DRN-0018  Fecha: 2020/12/27
+  Placa: R7N-113
+    Infraccion: 143
+      Dron: DRN-0038  Fecha: 2020/08/14
+      Dron: DRN-0261  Fecha: 2020/04/11
+      Dron: DRN-0354  Fecha: 2020/07/22
+      Dron: DRN-0505  Fecha: 2020/02/14
+    Infraccion: 308
+      Dron: DRN-0587  Fecha: 2020/08/17
+    Infraccion: 332
+      Dron: DRN-0018  Fecha: 2020/12/27
+
+DNI: 19568447  Nombre: VEGA SORIA HENRRY
+  Placa: D8R-235
+    Infraccion: 137
+      Dron: DRN-0067  Fecha: 2020/08/20
+  Placa: O7W-705
+    Infraccion: 138
+      Dron: DRN-0357  Fecha: 2020/10/21
+
+DNI: 19963454  Nombre: SALAMANCA CABRERA NESTOR EVERT
+  Placa: X9O-440
+    Infraccion: 131
+      Dron: DRN-0252  Fecha: 2020/06/26
+      Dron: DRN-0355  Fecha: 2020/02/25
+      Dron: DRN-0597  Fecha: 2020/10/19
+    Infraccion: 307
+      Dron: DRN-0165  Fecha: 2020/01/30
+    Infraccion: 334
+      Dron: DRN-0472  Fecha: 2020/09/24
+  Placa: D9A-711
+    Infraccion: 150
+      Dron: DRN-0245  Fecha: 2020/09/22
+    Infraccion: 314
+      Dron: DRN-0247  Fecha: 2020/01/24
+    Infraccion: 330
+      Dron: DRN-0197  Fecha: 2020/08/21
+  Placa: H8A-390
+    Infraccion: 109
+      Dron: DRN-0390  Fecha: 2020/06/15
+    Infraccion: 336
+      Dron: DRN-0234  Fecha: 2020/10/6
+  Placa: D9A-711
+    Infraccion: 150
+      Dron: DRN-0245  Fecha: 2020/09/22
+    Infraccion: 330
+      Dron: DRN-0197  Fecha: 2020/08/21
+  Placa: D9A-711
+    Infraccion: 150
+      Dron: DRN-0245  Fecha: 2020/09/22
+    Infraccion: 314
+      Dron: DRN-0247  Fecha: 2020/01/24
+    Infraccion: 330
+      Dron: DRN-0197  Fecha: 2020/08/21
+  Placa: X9O-440
+    Infraccion: 131
+      Dron: DRN-0252  Fecha: 2020/06/26
+    Infraccion: 307
+      Dron: DRN-0165  Fecha: 2020/01/30
+  Placa: X9O-440
+    Infraccion: 131
+      Dron: DRN-0252  Fecha: 2020/06/26
+      Dron: DRN-0355  Fecha: 2020/02/25
+    Infraccion: 307
+      Dron: DRN-0165  Fecha: 2020/01/30
+  Placa: H8A-390
+    Infraccion: 109
+      Dron: DRN-0390  Fecha: 2020/06/15
+    Infraccion: 336
+      Dron: DRN-0234  Fecha: 2020/10/6
+  Placa: X9O-440
+    Infraccion: 131
+      Dron: DRN-0252  Fecha: 2020/06/26
+      Dron: DRN-0355  Fecha: 2020/02/25
+    Infraccion: 307
+      Dron: DRN-0165  Fecha: 2020/01/30
+    Infraccion: 334
+      Dron: DRN-0472  Fecha: 2020/09/24
+  Placa: X9O-440
+    Infraccion: 131
+      Dron: DRN-0252  Fecha: 2020/06/26
+      Dron: DRN-0355  Fecha: 2020/02/25
+      Dron: DRN-0597  Fecha: 2020/10/19
+    Infraccion: 307
+      Dron: DRN-0165  Fecha: 2020/01/30
+    Infraccion: 334
+      Dron: DRN-0472  Fecha: 2020/09/24
+
+DNI: 21621497  Nombre: AYALA CASTILLO ERICKA OFELIA
+  Placa: R5I-860
+    Infraccion: 120
+      Dron: DRN-0637  Fecha: 2020/05/5
+    Infraccion: 136
+      Dron: DRN-0132  Fecha: 2020/01/11
+  Placa: D6W-048
+    Infraccion: 320
+      Dron: DRN-0304  Fecha: 2020/05/3
+  Placa: R5I-860
+    Infraccion: 120
+      Dron: DRN-0637  Fecha: 2020/05/5
+    Infraccion: 136
+      Dron: DRN-0132  Fecha: 2020/01/11
+
+DNI: 24859596  Nombre: FLORIAN CUBA CHRISTIAN
+  Placa: A8P-118
+    Infraccion: 101
+      Dron: DRN-0454  Fecha: 2020/02/26
+    Infraccion: 153
+      Dron: DRN-0102  Fecha: 2020/12/29
+    Infraccion: 331
+      Dron: DRN-0005  Fecha: 2020/09/7
+  Placa: A8P-118
+    Infraccion: 153
+      Dron: DRN-0102  Fecha: 2020/12/29
+    Infraccion: 331
+      Dron: DRN-0005  Fecha: 2020/09/7
+  Placa: B8B-326
+    Infraccion: 312
+      Dron: DRN-0230  Fecha: 2020/11/2
+  Placa: L6D-758
+    Infraccion: 329
+      Dron: DRN-0352  Fecha: 2020/05/5
+  Placa: A8P-118
+    Infraccion: 101
+      Dron: DRN-0454  Fecha: 2020/02/26
+    Infraccion: 153
+      Dron: DRN-0102  Fecha: 2020/12/29
+    Infraccion: 331
+      Dron: DRN-0005  Fecha: 2020/09/7
+
+DNI: 25518120  Nombre: RONDON CABRERA ALEXANDER ADOLFO
+  Placa: E1J-798
+    Infraccion: 118
+      Dron: DRN-0001  Fecha: 2020/07/14
+    Infraccion: 145
+      Dron: DRN-0635  Fecha: 2020/11/8
+    Infraccion: 337
+      Dron: DRN-0115  Fecha: 2020/06/4
+  Placa: E1J-798
+    Infraccion: 118
+      Dron: DRN-0001  Fecha: 2020/07/14
+    Infraccion: 337
+      Dron: DRN-0115  Fecha: 2020/06/4
+  Placa: F2C-703
+    Infraccion: 205
+      Dron: DRN-0327  Fecha: 2020/12/6
+  Placa: U1X-768
+    Infraccion: 123
+      Dron: DRN-0411  Fecha: 2020/01/19
+    Infraccion: 313
+      Dron: DRN-0614  Fecha: 2020/12/25
+  Placa: U1X-768
+    Infraccion: 123
+      Dron: DRN-0411  Fecha: 2020/01/19
+    Infraccion: 313
+      Dron: DRN-0614  Fecha: 2020/12/25
+  Placa: E1J-798
+    Infraccion: 118
+      Dron: DRN-0001  Fecha: 2020/07/14
+    Infraccion: 145
+      Dron: DRN-0635  Fecha: 2020/11/8
+    Infraccion: 337
+      Dron: DRN-0115  Fecha: 2020/06/4
+
+DNI: 26522329  Nombre: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+  Placa: U7R-252
+    Infraccion: 202
+      Dron: DRN-0015  Fecha: 2020/06/9
+  Placa: W7R-114
+    Infraccion: 123
+      Dron: DRN-0461  Fecha: 2020/06/9
+      Dron: DRN-0495  Fecha: 2020/08/27
+    Infraccion: 338
+      Dron: DRN-0460  Fecha: 2020/04/6
+    Infraccion: 339
+      Dron: DRN-0334  Fecha: 2020/02/5
+  Placa: W7R-114
+    Infraccion: 338
+      Dron: DRN-0460  Fecha: 2020/04/6
+    Infraccion: 339
+      Dron: DRN-0334  Fecha: 2020/02/5
+  Placa: W7R-114
+    Infraccion: 123
+      Dron: DRN-0461  Fecha: 2020/06/9
+    Infraccion: 338
+      Dron: DRN-0460  Fecha: 2020/04/6
+    Infraccion: 339
+      Dron: DRN-0334  Fecha: 2020/02/5
+  Placa: W7R-114
+    Infraccion: 123
+      Dron: DRN-0461  Fecha: 2020/06/9
+      Dron: DRN-0495  Fecha: 2020/08/27
+    Infraccion: 338
+      Dron: DRN-0460  Fecha: 2020/04/6
+    Infraccion: 339
+      Dron: DRN-0334  Fecha: 2020/02/5
+  Placa: U5W-825
+    Infraccion: 146
+      Dron: DRN-0561  Fecha: 2020/05/13
+
+DNI: 27185429  Nombre: SOLIS CHUNG ROLANDO
+  Placa: U3F-754
+    Infraccion: 125
+      Dron: DRN-0040  Fecha: 2020/02/2
+    Infraccion: 134
+      Dron: DRN-0425  Fecha: 2020/06/5
+    Infraccion: 337
+      Dron: DRN-0118  Fecha: 2020/02/27
+  Placa: U3F-754
+    Infraccion: 125
+      Dron: DRN-0040  Fecha: 2020/02/2
+    Infraccion: 337
+      Dron: DRN-0118  Fecha: 2020/02/27
+  Placa: S9I-160
+    Infraccion: 165
+      Dron: DRN-0190  Fecha: 2020/06/13
+  Placa: U3F-754
+    Infraccion: 125
+      Dron: DRN-0040  Fecha: 2020/02/2
+    Infraccion: 134
+      Dron: DRN-0425  Fecha: 2020/06/5
+    Infraccion: 337
+      Dron: DRN-0118  Fecha: 2020/02/27
+
+DNI: 27268323  Nombre: LOZADA IBEROS HELI BLANCA
+
+DNI: 27864822  Nombre: FIGUEROA MEDINA MADELEINE
+  Placa: S3D-133
+    Infraccion: 125
+      Dron: DRN-0006  Fecha: 2020/03/8
+    Infraccion: 145
+      Dron: DRN-0297  Fecha: 2020/01/21
+    Infraccion: 158
+      Dron: DRN-0469  Fecha: 2020/01/18
+  Placa: T9U-338
+    Infraccion: 125
+      Dron: DRN-0320  Fecha: 2020/02/22
+    Infraccion: 204
+      Dron: DRN-0150  Fecha: 2020/05/22
+  Placa: R5C-239
+    Infraccion: 141
+      Dron: DRN-0270  Fecha: 2020/08/2
+    Infraccion: 202
+      Dron: DRN-0331  Fecha: 2020/07/16
+      Dron: DRN-0376  Fecha: 2020/03/25
+  Placa: S3D-133
+    Infraccion: 125
+      Dron: DRN-0006  Fecha: 2020/03/8
+    Infraccion: 145
+      Dron: DRN-0297  Fecha: 2020/01/21
+  Placa: T9U-338
+    Infraccion: 125
+      Dron: DRN-0320  Fecha: 2020/02/22
+    Infraccion: 204
+      Dron: DRN-0150  Fecha: 2020/05/22
+  Placa: R5C-239
+    Infraccion: 141
+      Dron: DRN-0270  Fecha: 2020/08/2
+    Infraccion: 202
+      Dron: DRN-0331  Fecha: 2020/07/16
+  Placa: R5C-239
+    Infraccion: 141
+      Dron: DRN-0270  Fecha: 2020/08/2
+    Infraccion: 202
+      Dron: DRN-0331  Fecha: 2020/07/16
+      Dron: DRN-0376  Fecha: 2020/03/25
+  Placa: S3D-133
+    Infraccion: 125
+      Dron: DRN-0006  Fecha: 2020/03/8
+    Infraccion: 145
+      Dron: DRN-0297  Fecha: 2020/01/21
+    Infraccion: 158
+      Dron: DRN-0469  Fecha: 2020/01/18
+
+DNI: 28820944  Nombre: RIOS ZAMORA INES
+  Placa: H2K-127
+    Infraccion: 104
+      Dron: DRN-0220  Fecha: 2020/06/8
+    Infraccion: 138
+      Dron: DRN-0438  Fecha: 2020/03/2
+    Infraccion: 154
+      Dron: DRN-0254  Fecha: 2020/09/24
+    Infraccion: 329
+      Dron: DRN-0564  Fecha: 2020/05/15
+  Placa: H2K-127
+    Infraccion: 104
+      Dron: DRN-0220  Fecha: 2020/06/8
+    Infraccion: 154
+      Dron: DRN-0254  Fecha: 2020/09/24
+  Placa: H2K-127
+    Infraccion: 104
+      Dron: DRN-0220  Fecha: 2020/06/8
+    Infraccion: 138
+      Dron: DRN-0438  Fecha: 2020/03/2
+    Infraccion: 154
+      Dron: DRN-0254  Fecha: 2020/09/24
+  Placa: H2K-127
+    Infraccion: 104
+      Dron: DRN-0220  Fecha: 2020/06/8
+    Infraccion: 138
+      Dron: DRN-0438  Fecha: 2020/03/2
+    Infraccion: 154
+      Dron: DRN-0254  Fecha: 2020/09/24
+    Infraccion: 329
+      Dron: DRN-0564  Fecha: 2020/05/15
+
+DNI: 29833157  Nombre: HIJAR LAM MARTIN
+  Placa: I5K-310
+    Infraccion: 110
+      Dron: DRN-0372  Fecha: 2020/09/3
+    Infraccion: 157
+      Dron: DRN-0052  Fecha: 2020/04/6
+    Infraccion: 307
+      Dron: DRN-0033  Fecha: 2020/04/4
+    Infraccion: 312
+      Dron: DRN-0237  Fecha: 2020/02/1
+    Infraccion: 319
+      Dron: DRN-0479  Fecha: 2020/03/17
+  Placa: I5K-310
+    Infraccion: 157
+      Dron: DRN-0052  Fecha: 2020/04/6
+    Infraccion: 307
+      Dron: DRN-0033  Fecha: 2020/04/4
+  Placa: I9F-484
+    Infraccion: 159
+      Dron: DRN-0193  Fecha: 2020/05/20
+    Infraccion: 302
+      Dron: DRN-0272  Fecha: 2020/10/4
+  Placa: S2N-896
+    Infraccion: 102
+      Dron: DRN-0448  Fecha: 2020/05/14
+    Infraccion: 109
+      Dron: DRN-0232  Fecha: 2020/06/5
+    Infraccion: 134
+      Dron: DRN-0329  Fecha: 2020/01/29
+  Placa: I5K-310
+    Infraccion: 157
+      Dron: DRN-0052  Fecha: 2020/04/6
+    Infraccion: 307
+      Dron: DRN-0033  Fecha: 2020/04/4
+    Infraccion: 312
+      Dron: DRN-0237  Fecha: 2020/02/1
+  Placa: I9F-484
+    Infraccion: 159
+      Dron: DRN-0193  Fecha: 2020/05/20
+    Infraccion: 302
+      Dron: DRN-0272  Fecha: 2020/10/4
+  Placa: S2N-896
+    Infraccion: 109
+      Dron: DRN-0232  Fecha: 2020/06/5
+    Infraccion: 134
+      Dron: DRN-0329  Fecha: 2020/01/29
+  Placa: I5K-310
+    Infraccion: 110
+      Dron: DRN-0372  Fecha: 2020/09/3
+    Infraccion: 157
+      Dron: DRN-0052  Fecha: 2020/04/6
+    Infraccion: 307
+      Dron: DRN-0033  Fecha: 2020/04/4
+    Infraccion: 312
+      Dron: DRN-0237  Fecha: 2020/02/1
+  Placa: S2N-896
+    Infraccion: 102
+      Dron: DRN-0448  Fecha: 2020/05/14
+    Infraccion: 109
+      Dron: DRN-0232  Fecha: 2020/06/5
+    Infraccion: 134
+      Dron: DRN-0329  Fecha: 2020/01/29
+  Placa: I5K-310
+    Infraccion: 110
+      Dron: DRN-0372  Fecha: 2020/09/3
+    Infraccion: 157
+      Dron: DRN-0052  Fecha: 2020/04/6
+    Infraccion: 307
+      Dron: DRN-0033  Fecha: 2020/04/4
+    Infraccion: 312
+      Dron: DRN-0237  Fecha: 2020/02/1
+    Infraccion: 319
+      Dron: DRN-0479  Fecha: 2020/03/17
+
+DNI: 29989682  Nombre: CAMACHO PAIRAZAMAN YDALI LUCERO
+  Placa: W3T-571
+    Infraccion: 158
+      Dron: DRN-0180  Fecha: 2020/04/19
+    Infraccion: 326
+      Dron: DRN-0315  Fecha: 2020/07/27
+    Infraccion: 335
+      Dron: DRN-0028  Fecha: 2020/12/19
+  Placa: W3T-571
+    Infraccion: 158
+      Dron: DRN-0180  Fecha: 2020/04/19
+    Infraccion: 335
+      Dron: DRN-0028  Fecha: 2020/12/19
+  Placa: B1J-773
+    Infraccion: 127
+      Dron: DRN-0594  Fecha: 2020/03/27
+    Infraccion: 149
+      Dron: DRN-0236  Fecha: 2020/09/17
+    Infraccion: 206
+      Dron: DRN-0458  Fecha: 2020/01/2
+    Infraccion: 310
+      Dron: DRN-0213  Fecha: 2020/03/5
+    Infraccion: 322
+      Dron: DRN-0255  Fecha: 2020/11/23
+    Infraccion: 324
+      Dron: DRN-0409  Fecha: 2020/03/12
+  Placa: B1J-773
+    Infraccion: 149
+      Dron: DRN-0236  Fecha: 2020/09/17
+    Infraccion: 310
+      Dron: DRN-0213  Fecha: 2020/03/5
+  Placa: B1J-773
+    Infraccion: 149
+      Dron: DRN-0236  Fecha: 2020/09/17
+    Infraccion: 310
+      Dron: DRN-0213  Fecha: 2020/03/5
+    Infraccion: 322
+      Dron: DRN-0255  Fecha: 2020/11/23
+  Placa: W3T-571
+    Infraccion: 158
+      Dron: DRN-0180  Fecha: 2020/04/19
+    Infraccion: 326
+      Dron: DRN-0315  Fecha: 2020/07/27
+    Infraccion: 335
+      Dron: DRN-0028  Fecha: 2020/12/19
+  Placa: W1V-221
+    Infraccion: 139
+      Dron: DRN-0525  Fecha: 2020/10/17
+    Infraccion: 162
+      Dron: DRN-0343  Fecha: 2020/12/5
+  Placa: B1J-773
+    Infraccion: 149
+      Dron: DRN-0236  Fecha: 2020/09/17
+    Infraccion: 310
+      Dron: DRN-0213  Fecha: 2020/03/5
+    Infraccion: 322
+      Dron: DRN-0255  Fecha: 2020/11/23
+    Infraccion: 324
+      Dron: DRN-0409  Fecha: 2020/03/12
+  Placa: B1J-773
+    Infraccion: 149
+      Dron: DRN-0236  Fecha: 2020/09/17
+    Infraccion: 206
+      Dron: DRN-0458  Fecha: 2020/01/2
+    Infraccion: 310
+      Dron: DRN-0213  Fecha: 2020/03/5
+    Infraccion: 322
+      Dron: DRN-0255  Fecha: 2020/11/23
+    Infraccion: 324
+      Dron: DRN-0409  Fecha: 2020/03/12
+  Placa: W1V-221
+    Infraccion: 139
+      Dron: DRN-0525  Fecha: 2020/10/17
+    Infraccion: 162
+      Dron: DRN-0343  Fecha: 2020/12/5
+  Placa: B1J-773
+    Infraccion: 127
+      Dron: DRN-0594  Fecha: 2020/03/27
+    Infraccion: 149
+      Dron: DRN-0236  Fecha: 2020/09/17
+    Infraccion: 206
+      Dron: DRN-0458  Fecha: 2020/01/2
+    Infraccion: 310
+      Dron: DRN-0213  Fecha: 2020/03/5
+    Infraccion: 322
+      Dron: DRN-0255  Fecha: 2020/11/23
+    Infraccion: 324
+      Dron: DRN-0409  Fecha: 2020/03/12
+
+DNI: 30046639  Nombre: SALAMANCA VEGA VIRGINIA MARTHA
+  Placa: S3F-021
+    Infraccion: 131
+      Dron: DRN-0467  Fecha: 2020/02/4
+    Infraccion: 146
+      Dron: DRN-0049  Fecha: 2020/04/13
+    Infraccion: 154
+      Dron: DRN-0353  Fecha: 2020/05/11
+  Placa: L8F-459
+    Infraccion: 144
+      Dron: DRN-0068  Fecha: 2020/03/30
+    Infraccion: 162
+      Dron: DRN-0182  Fecha: 2020/10/14
+    Infraccion: 315
+      Dron: DRN-0608  Fecha: 2020/07/14
+    Infraccion: 319
+      Dron: DRN-0344  Fecha: 2020/11/25
+  Placa: P6I-223
+    Infraccion: 138
+      Dron: DRN-0208  Fecha: 2020/06/29
+    Infraccion: 204
+      Dron: DRN-0166  Fecha: 2020/09/15
+    Infraccion: 205
+      Dron: DRN-0292  Fecha: 2020/11/16
+  Placa: L8F-459
+    Infraccion: 144
+      Dron: DRN-0068  Fecha: 2020/03/30
+    Infraccion: 162
+      Dron: DRN-0182  Fecha: 2020/10/14
+  Placa: P6I-223
+    Infraccion: 138
+      Dron: DRN-0208  Fecha: 2020/06/29
+    Infraccion: 204
+      Dron: DRN-0166  Fecha: 2020/09/15
+  Placa: P6I-223
+    Infraccion: 138
+      Dron: DRN-0208  Fecha: 2020/06/29
+    Infraccion: 204
+      Dron: DRN-0166  Fecha: 2020/09/15
+    Infraccion: 205
+      Dron: DRN-0292  Fecha: 2020/11/16
+  Placa: L8F-459
+    Infraccion: 144
+      Dron: DRN-0068  Fecha: 2020/03/30
+    Infraccion: 162
+      Dron: DRN-0182  Fecha: 2020/10/14
+    Infraccion: 319
+      Dron: DRN-0344  Fecha: 2020/11/25
+  Placa: S3F-021
+    Infraccion: 146
+      Dron: DRN-0049  Fecha: 2020/04/13
+    Infraccion: 154
+      Dron: DRN-0353  Fecha: 2020/05/11
+  Placa: S3F-021
+    Infraccion: 131
+      Dron: DRN-0467  Fecha: 2020/02/4
+    Infraccion: 146
+      Dron: DRN-0049  Fecha: 2020/04/13
+    Infraccion: 154
+      Dron: DRN-0353  Fecha: 2020/05/11
+  Placa: L8F-459
+    Infraccion: 144
+      Dron: DRN-0068  Fecha: 2020/03/30
+    Infraccion: 162
+      Dron: DRN-0182  Fecha: 2020/10/14
+    Infraccion: 315
+      Dron: DRN-0608  Fecha: 2020/07/14
+    Infraccion: 319
+      Dron: DRN-0344  Fecha: 2020/11/25
+
+DNI: 30441350  Nombre: RETAMOSO SALAMANCA DELIA MARITZA
+  Placa: M9Z-497
+    Infraccion: 125
+      Dron: DRN-0591  Fecha: 2020/05/7
+    Infraccion: 139
+      Dron: DRN-0435  Fecha: 2020/05/7
+    Infraccion: 154
+      Dron: DRN-0600  Fecha: 2020/04/16
+    Infraccion: 158
+      Dron: DRN-0011  Fecha: 2020/03/17
+    Infraccion: 315
+      Dron: DRN-0288  Fecha: 2020/09/12
+  Placa: T7F-869
+    Infraccion: 154
+      Dron: DRN-0100  Fecha: 2020/02/19
+  Placa: Q6Q-335
+    Infraccion: 153
+      Dron: DRN-0142  Fecha: 2020/10/14
+  Placa: X0F-315
+    Infraccion: 207
+      Dron: DRN-0645  Fecha: 2020/09/13
+    Infraccion: 328
+      Dron: DRN-0284  Fecha: 2020/02/4
+    Infraccion: 331
+      Dron: DRN-0522  Fecha: 2020/03/8
+  Placa: M9Z-497
+    Infraccion: 158
+      Dron: DRN-0011  Fecha: 2020/03/17
+    Infraccion: 315
+      Dron: DRN-0288  Fecha: 2020/09/12
+  Placa: M9Z-497
+    Infraccion: 139
+      Dron: DRN-0435  Fecha: 2020/05/7
+    Infraccion: 158
+      Dron: DRN-0011  Fecha: 2020/03/17
+    Infraccion: 315
+      Dron: DRN-0288  Fecha: 2020/09/12
+  Placa: X0F-315
+    Infraccion: 328
+      Dron: DRN-0284  Fecha: 2020/02/4
+    Infraccion: 331
+      Dron: DRN-0522  Fecha: 2020/03/8
+  Placa: M9Z-497
+    Infraccion: 125
+      Dron: DRN-0591  Fecha: 2020/05/7
+    Infraccion: 139
+      Dron: DRN-0435  Fecha: 2020/05/7
+    Infraccion: 158
+      Dron: DRN-0011  Fecha: 2020/03/17
+    Infraccion: 315
+      Dron: DRN-0288  Fecha: 2020/09/12
+  Placa: M9Z-497
+    Infraccion: 125
+      Dron: DRN-0591  Fecha: 2020/05/7
+    Infraccion: 139
+      Dron: DRN-0435  Fecha: 2020/05/7
+    Infraccion: 154
+      Dron: DRN-0600  Fecha: 2020/04/16
+    Infraccion: 158
+      Dron: DRN-0011  Fecha: 2020/03/17
+    Infraccion: 315
+      Dron: DRN-0288  Fecha: 2020/09/12
+  Placa: X0F-315
+    Infraccion: 207
+      Dron: DRN-0645  Fecha: 2020/09/13
+    Infraccion: 328
+      Dron: DRN-0284  Fecha: 2020/02/4
+    Infraccion: 331
+      Dron: DRN-0522  Fecha: 2020/03/8
+
+DNI: 31107104  Nombre: MOSCOSO ARIAS FIORELLA
+  Placa: E0I-722
+    Infraccion: 101
+      Dron: DRN-0333  Fecha: 2020/06/15
+    Infraccion: 148
+      Dron: DRN-0079  Fecha: 2020/01/8
+  Placa: O3T-110
+    Infraccion: 122
+      Dron: DRN-0485  Fecha: 2020/05/26
+    Infraccion: 158
+      Dron: DRN-0322  Fecha: 2020/01/29
+  Placa: E0I-722
+    Infraccion: 101
+      Dron: DRN-0333  Fecha: 2020/06/15
+    Infraccion: 148
+      Dron: DRN-0079  Fecha: 2020/01/8
+  Placa: O3T-110
+    Infraccion: 122
+      Dron: DRN-0485  Fecha: 2020/05/26
+    Infraccion: 158
+      Dron: DRN-0322  Fecha: 2020/01/29
+
+DNI: 31205866  Nombre: VIZCARRA MONTERO JAIR
+  Placa: U6A-456
+    Infraccion: 166
+      Dron: DRN-0121  Fecha: 2020/02/24
+      Dron: DRN-0139  Fecha: 2020/04/5
+      Dron: DRN-0202  Fecha: 2020/02/17
+  Placa: U6A-456
+    Infraccion: 166
+      Dron: DRN-0121  Fecha: 2020/02/24
+      Dron: DRN-0139  Fecha: 2020/04/5
+  Placa: U6A-456
+    Infraccion: 166
+      Dron: DRN-0121  Fecha: 2020/02/24
+      Dron: DRN-0139  Fecha: 2020/04/5
+      Dron: DRN-0202  Fecha: 2020/02/17
+
+DNI: 32090869  Nombre: SUELDO ANTEZANO LUIS JESUS
+  Placa: L4B-291
+    Infraccion: 162
+      Dron: DRN-0295  Fecha: 2020/08/3
+    Infraccion: 166
+      Dron: DRN-0034  Fecha: 2020/08/1
+    Infraccion: 312
+      Dron: DRN-0596  Fecha: 2020/01/27
+  Placa: L4B-291
+    Infraccion: 162
+      Dron: DRN-0295  Fecha: 2020/08/3
+    Infraccion: 166
+      Dron: DRN-0034  Fecha: 2020/08/1
+  Placa: L4B-291
+    Infraccion: 162
+      Dron: DRN-0295  Fecha: 2020/08/3
+    Infraccion: 166
+      Dron: DRN-0034  Fecha: 2020/08/1
+    Infraccion: 312
+      Dron: DRN-0596  Fecha: 2020/01/27
+
+DNI: 32244565  Nombre: HENRIQUEZ PAREDES PAUL RAFAEL
+  Placa: J1E-736
+    Infraccion: 101
+      Dron: DRN-0533  Fecha: 2020/05/24
+    Infraccion: 131
+      Dron: DRN-0206  Fecha: 2020/07/21
+    Infraccion: 149
+      Dron: DRN-0595  Fecha: 2020/11/21
+    Infraccion: 160
+      Dron: DRN-0394  Fecha: 2020/08/2
+    Infraccion: 315
+      Dron: DRN-0050  Fecha: 2020/07/7
+      Dron: DRN-0544  Fecha: 2020/10/21
+      Dron: DRN-0585  Fecha: 2020/11/13
+  Placa: J1E-736
+    Infraccion: 131
+      Dron: DRN-0206  Fecha: 2020/07/21
+    Infraccion: 315
+      Dron: DRN-0050  Fecha: 2020/07/7
+  Placa: J1E-736
+    Infraccion: 131
+      Dron: DRN-0206  Fecha: 2020/07/21
+    Infraccion: 160
+      Dron: DRN-0394  Fecha: 2020/08/2
+    Infraccion: 315
+      Dron: DRN-0050  Fecha: 2020/07/7
+  Placa: K4F-319
+    Infraccion: 108
+      Dron: DRN-0434  Fecha: 2020/12/11
+    Infraccion: 315
+      Dron: DRN-0437  Fecha: 2020/02/5
+    Infraccion: 321
+      Dron: DRN-0455  Fecha: 2020/01/24
+  Placa: K4F-319
+    Infraccion: 108
+      Dron: DRN-0434  Fecha: 2020/12/11
+    Infraccion: 315
+      Dron: DRN-0437  Fecha: 2020/02/5
+  Placa: K4F-319
+    Infraccion: 108
+      Dron: DRN-0434  Fecha: 2020/12/11
+    Infraccion: 315
+      Dron: DRN-0437  Fecha: 2020/02/5
+    Infraccion: 321
+      Dron: DRN-0455  Fecha: 2020/01/24
+  Placa: M8W-853
+    Infraccion: 111
+      Dron: DRN-0513  Fecha: 2020/11/19
+    Infraccion: 162
+      Dron: DRN-0607  Fecha: 2020/07/14
+  Placa: J1E-736
+    Infraccion: 101
+      Dron: DRN-0533  Fecha: 2020/05/24
+    Infraccion: 131
+      Dron: DRN-0206  Fecha: 2020/07/21
+    Infraccion: 160
+      Dron: DRN-0394  Fecha: 2020/08/2
+    Infraccion: 315
+      Dron: DRN-0050  Fecha: 2020/07/7
+  Placa: J1E-736
+    Infraccion: 101
+      Dron: DRN-0533  Fecha: 2020/05/24
+    Infraccion: 131
+      Dron: DRN-0206  Fecha: 2020/07/21
+    Infraccion: 160
+      Dron: DRN-0394  Fecha: 2020/08/2
+    Infraccion: 315
+      Dron: DRN-0050  Fecha: 2020/07/7
+      Dron: DRN-0544  Fecha: 2020/10/21
+  Placa: W9L-468
+    Infraccion: 125
+      Dron: DRN-0584  Fecha: 2020/02/6
+  Placa: J1E-736
+    Infraccion: 101
+      Dron: DRN-0533  Fecha: 2020/05/24
+    Infraccion: 131
+      Dron: DRN-0206  Fecha: 2020/07/21
+    Infraccion: 160
+      Dron: DRN-0394  Fecha: 2020/08/2
+    Infraccion: 315
+      Dron: DRN-0050  Fecha: 2020/07/7
+      Dron: DRN-0544  Fecha: 2020/10/21
+      Dron: DRN-0585  Fecha: 2020/11/13
+  Placa: J1E-736
+    Infraccion: 101
+      Dron: DRN-0533  Fecha: 2020/05/24
+    Infraccion: 131
+      Dron: DRN-0206  Fecha: 2020/07/21
+    Infraccion: 149
+      Dron: DRN-0595  Fecha: 2020/11/21
+    Infraccion: 160
+      Dron: DRN-0394  Fecha: 2020/08/2
+    Infraccion: 315
+      Dron: DRN-0050  Fecha: 2020/07/7
+      Dron: DRN-0544  Fecha: 2020/10/21
+      Dron: DRN-0585  Fecha: 2020/11/13
+  Placa: M8W-853
+    Infraccion: 111
+      Dron: DRN-0513  Fecha: 2020/11/19
+    Infraccion: 162
+      Dron: DRN-0607  Fecha: 2020/07/14
+
+DNI: 34248357  Nombre: LEYVA LANDEO NANCY SONIA
+  Placa: H4R-733
+    Infraccion: 132
+      Dron: DRN-0184  Fecha: 2020/07/2
+    Infraccion: 151
+      Dron: DRN-0558  Fecha: 2020/02/14
+    Infraccion: 313
+      Dron: DRN-0026  Fecha: 2020/01/10
+    Infraccion: 319
+      Dron: DRN-0478  Fecha: 2020/05/25
+    Infraccion: 328
+      Dron: DRN-0464  Fecha: 2020/07/22
+  Placa: U0T-459
+    Infraccion: 112
+      Dron: DRN-0550  Fecha: 2020/02/21
+    Infraccion: 149
+      Dron: DRN-0310  Fecha: 2020/04/26
+    Infraccion: 320
+      Dron: DRN-0117  Fecha: 2020/12/20
+  Placa: R7N-062
+    Infraccion: 155
+      Dron: DRN-0146  Fecha: 2020/06/15
+    Infraccion: 314
+      Dron: DRN-0414  Fecha: 2020/05/1
+  Placa: H4R-733
+    Infraccion: 132
+      Dron: DRN-0184  Fecha: 2020/07/2
+    Infraccion: 313
+      Dron: DRN-0026  Fecha: 2020/01/10
+  Placa: U0T-459
+    Infraccion: 149
+      Dron: DRN-0310  Fecha: 2020/04/26
+    Infraccion: 320
+      Dron: DRN-0117  Fecha: 2020/12/20
+  Placa: S5E-231
+    Infraccion: 158
+      Dron: DRN-0477  Fecha: 2020/02/29
+    Infraccion: 314
+      Dron: DRN-0392  Fecha: 2020/05/8
+  Placa: R7N-062
+    Infraccion: 155
+      Dron: DRN-0146  Fecha: 2020/06/15
+    Infraccion: 314
+      Dron: DRN-0414  Fecha: 2020/05/1
+  Placa: H4R-733
+    Infraccion: 132
+      Dron: DRN-0184  Fecha: 2020/07/2
+    Infraccion: 313
+      Dron: DRN-0026  Fecha: 2020/01/10
+    Infraccion: 328
+      Dron: DRN-0464  Fecha: 2020/07/22
+  Placa: S5E-231
+    Infraccion: 158
+      Dron: DRN-0477  Fecha: 2020/02/29
+    Infraccion: 314
+      Dron: DRN-0392  Fecha: 2020/05/8
+  Placa: H4R-733
+    Infraccion: 132
+      Dron: DRN-0184  Fecha: 2020/07/2
+    Infraccion: 313
+      Dron: DRN-0026  Fecha: 2020/01/10
+    Infraccion: 319
+      Dron: DRN-0478  Fecha: 2020/05/25
+    Infraccion: 328
+      Dron: DRN-0464  Fecha: 2020/07/22
+  Placa: U0T-459
+    Infraccion: 112
+      Dron: DRN-0550  Fecha: 2020/02/21
+    Infraccion: 149
+      Dron: DRN-0310  Fecha: 2020/04/26
+    Infraccion: 320
+      Dron: DRN-0117  Fecha: 2020/12/20
+  Placa: H4R-733
+    Infraccion: 132
+      Dron: DRN-0184  Fecha: 2020/07/2
+    Infraccion: 151
+      Dron: DRN-0558  Fecha: 2020/02/14
+    Infraccion: 313
+      Dron: DRN-0026  Fecha: 2020/01/10
+    Infraccion: 319
+      Dron: DRN-0478  Fecha: 2020/05/25
+    Infraccion: 328
+      Dron: DRN-0464  Fecha: 2020/07/22
+
+DNI: 34976629  Nombre: LOZADA ARGUEDAS FELICITA VALENTINA
+  Placa: J8B-303
+    Infraccion: 150
+      Dron: DRN-0141  Fecha: 2020/05/8
+    Infraccion: 206
+      Dron: DRN-0486  Fecha: 2020/09/29
+    Infraccion: 310
+      Dron: DRN-0244  Fecha: 2020/07/7
+    Infraccion: 333
+      Dron: DRN-0642  Fecha: 2020/11/3
+  Placa: I0Y-720
+    Infraccion: 144
+      Dron: DRN-0345  Fecha: 2020/02/10
+    Infraccion: 145
+      Dron: DRN-0548  Fecha: 2020/04/3
+    Infraccion: 165
+      Dron: DRN-0378  Fecha: 2020/12/16
+    Infraccion: 320
+      Dron: DRN-0209  Fecha: 2020/01/6
+  Placa: J8B-303
+    Infraccion: 150
+      Dron: DRN-0141  Fecha: 2020/05/8
+    Infraccion: 310
+      Dron: DRN-0244  Fecha: 2020/07/7
+  Placa: I0Y-720
+    Infraccion: 144
+      Dron: DRN-0345  Fecha: 2020/02/10
+    Infraccion: 320
+      Dron: DRN-0209  Fecha: 2020/01/6
+  Placa: I0Y-720
+    Infraccion: 144
+      Dron: DRN-0345  Fecha: 2020/02/10
+    Infraccion: 165
+      Dron: DRN-0378  Fecha: 2020/12/16
+    Infraccion: 320
+      Dron: DRN-0209  Fecha: 2020/01/6
+  Placa: J8B-303
+    Infraccion: 150
+      Dron: DRN-0141  Fecha: 2020/05/8
+    Infraccion: 206
+      Dron: DRN-0486  Fecha: 2020/09/29
+    Infraccion: 310
+      Dron: DRN-0244  Fecha: 2020/07/7
+  Placa: I0Y-720
+    Infraccion: 144
+      Dron: DRN-0345  Fecha: 2020/02/10
+    Infraccion: 145
+      Dron: DRN-0548  Fecha: 2020/04/3
+    Infraccion: 165
+      Dron: DRN-0378  Fecha: 2020/12/16
+    Infraccion: 320
+      Dron: DRN-0209  Fecha: 2020/01/6
+  Placa: J8B-303
+    Infraccion: 150
+      Dron: DRN-0141  Fecha: 2020/05/8
+    Infraccion: 206
+      Dron: DRN-0486  Fecha: 2020/09/29
+    Infraccion: 310
+      Dron: DRN-0244  Fecha: 2020/07/7
+    Infraccion: 333
+      Dron: DRN-0642  Fecha: 2020/11/3
+
+DNI: 35297848  Nombre: ASTETE CHANG GUIDA
+  Placa: O7D-970
+    Infraccion: 122
+      Dron: DRN-0367  Fecha: 2020/07/26
+    Infraccion: 326
+      Dron: DRN-0494  Fecha: 2020/11/12
+  Placa: O7D-970
+    Infraccion: 122
+      Dron: DRN-0367  Fecha: 2020/07/26
+    Infraccion: 326
+      Dron: DRN-0494  Fecha: 2020/11/12
+
+DNI: 35671623  Nombre: EPIQUEN YEP GUIDA VICTORIA
+  Placa: K0T-350
+    Infraccion: 307
+      Dron: DRN-0189  Fecha: 2020/08/9
+  Placa: P2Q-870
+    Infraccion: 147
+      Dron: DRN-0195  Fecha: 2020/09/5
+  Placa: V4E-749
+    Infraccion: 110
+      Dron: DRN-0593  Fecha: 2020/08/8
+    Infraccion: 161
+      Dron: DRN-0543  Fecha: 2020/04/3
+    Infraccion: 305
+      Dron: DRN-0253  Fecha: 2020/05/21
+    Infraccion: 328
+      Dron: DRN-0556  Fecha: 2020/02/22
+  Placa: V4E-749
+    Infraccion: 161
+      Dron: DRN-0543  Fecha: 2020/04/3
+    Infraccion: 305
+      Dron: DRN-0253  Fecha: 2020/05/21
+  Placa: V4E-749
+    Infraccion: 161
+      Dron: DRN-0543  Fecha: 2020/04/3
+    Infraccion: 305
+      Dron: DRN-0253  Fecha: 2020/05/21
+    Infraccion: 328
+      Dron: DRN-0556  Fecha: 2020/02/22
+  Placa: V4E-749
+    Infraccion: 110
+      Dron: DRN-0593  Fecha: 2020/08/8
+    Infraccion: 161
+      Dron: DRN-0543  Fecha: 2020/04/3
+    Infraccion: 305
+      Dron: DRN-0253  Fecha: 2020/05/21
+    Infraccion: 328
+      Dron: DRN-0556  Fecha: 2020/02/22
+
+DNI: 35683701  Nombre: DIAZ MOYA ELIA ANNIE
+  Placa: D5W-953
+    Infraccion: 105
+      Dron: DRN-0532  Fecha: 2020/05/16
+    Infraccion: 328
+      Dron: DRN-0123  Fecha: 2020/09/12
+  Placa: D5W-953
+    Infraccion: 105
+      Dron: DRN-0532  Fecha: 2020/05/16
+    Infraccion: 328
+      Dron: DRN-0123  Fecha: 2020/09/12
+
+DNI: 35912665  Nombre: MARTINEZ CRUZ EVERT RONY
+  Placa: O4X-500
+    Infraccion: 162
+      Dron: DRN-0131  Fecha: 2020/12/17
+    Infraccion: 335
+      Dron: DRN-0640  Fecha: 2020/06/11
+    Infraccion: 341
+      Dron: DRN-0285  Fecha: 2020/11/3
+  Placa: A6E-125
+    Infraccion: 157
+      Dron: DRN-0173  Fecha: 2020/10/12
+    Infraccion: 162
+      Dron: DRN-0575  Fecha: 2020/07/15
+  Placa: O2Z-308
+    Infraccion: 111
+      Dron: DRN-0185  Fecha: 2020/06/15
+    Infraccion: 315
+      Dron: DRN-0641  Fecha: 2020/12/31
+  Placa: O4X-500
+    Infraccion: 162
+      Dron: DRN-0131  Fecha: 2020/12/17
+    Infraccion: 341
+      Dron: DRN-0285  Fecha: 2020/11/3
+  Placa: A6E-125
+    Infraccion: 157
+      Dron: DRN-0173  Fecha: 2020/10/12
+    Infraccion: 162
+      Dron: DRN-0575  Fecha: 2020/07/15
+  Placa: O4X-500
+    Infraccion: 162
+      Dron: DRN-0131  Fecha: 2020/12/17
+    Infraccion: 335
+      Dron: DRN-0640  Fecha: 2020/06/11
+    Infraccion: 341
+      Dron: DRN-0285  Fecha: 2020/11/3
+  Placa: O2Z-308
+    Infraccion: 111
+      Dron: DRN-0185  Fecha: 2020/06/15
+    Infraccion: 315
+      Dron: DRN-0641  Fecha: 2020/12/31
+
+DNI: 36079131  Nombre: ZAVALETA VILCA ERICKA ELEONOR
+  Placa: I0W-872
+    Infraccion: 166
+      Dron: DRN-0094  Fecha: 2020/01/26
+    Infraccion: 203
+      Dron: DRN-0540  Fecha: 2020/10/13
+  Placa: V4S-057
+    Infraccion: 328
+      Dron: DRN-0175  Fecha: 2020/07/10
+  Placa: I0W-872
+    Infraccion: 166
+      Dron: DRN-0094  Fecha: 2020/01/26
+    Infraccion: 203
+      Dron: DRN-0540  Fecha: 2020/10/13
+
+DNI: 37080813  Nombre: FLORIAN VALDERRAMA JOSE
+  Placa: P7E-145
+    Infraccion: 124
+      Dron: DRN-0628  Fecha: 2020/05/5
+    Infraccion: 149
+      Dron: DRN-0077  Fecha: 2020/02/4
+    Infraccion: 312
+      Dron: DRN-0463  Fecha: 2020/06/8
+  Placa: O9W-355
+    Infraccion: 145
+      Dron: DRN-0560  Fecha: 2020/02/10
+    Infraccion: 204
+      Dron: DRN-0205  Fecha: 2020/05/13
+    Infraccion: 339
+      Dron: DRN-0403  Fecha: 2020/08/30
+  Placa: O9W-355
+    Infraccion: 204
+      Dron: DRN-0205  Fecha: 2020/05/13
+    Infraccion: 339
+      Dron: DRN-0403  Fecha: 2020/08/30
+  Placa: P7E-145
+    Infraccion: 149
+      Dron: DRN-0077  Fecha: 2020/02/4
+    Infraccion: 312
+      Dron: DRN-0463  Fecha: 2020/06/8
+  Placa: O9W-355
+    Infraccion: 145
+      Dron: DRN-0560  Fecha: 2020/02/10
+    Infraccion: 204
+      Dron: DRN-0205  Fecha: 2020/05/13
+    Infraccion: 339
+      Dron: DRN-0403  Fecha: 2020/08/30
+  Placa: P7E-145
+    Infraccion: 124
+      Dron: DRN-0628  Fecha: 2020/05/5
+    Infraccion: 149
+      Dron: DRN-0077  Fecha: 2020/02/4
+    Infraccion: 312
+      Dron: DRN-0463  Fecha: 2020/06/8
+
+DNI: 38862473  Nombre: WONG MAEIREIZO BEATRIZ
+  Placa: I4B-541
+    Infraccion: 108
+      Dron: DRN-0496  Fecha: 2020/06/1
+    Infraccion: 135
+      Dron: DRN-0188  Fecha: 2020/08/7
+  Placa: S6Y-726
+    Infraccion: 129
+      Dron: DRN-0405  Fecha: 2020/03/31
+    Infraccion: 141
+      Dron: DRN-0536  Fecha: 2020/12/22
+    Infraccion: 325
+      Dron: DRN-0599  Fecha: 2020/03/29
+  Placa: I4B-541
+    Infraccion: 108
+      Dron: DRN-0496  Fecha: 2020/06/1
+    Infraccion: 135
+      Dron: DRN-0188  Fecha: 2020/08/7
+  Placa: S6Y-726
+    Infraccion: 129
+      Dron: DRN-0405  Fecha: 2020/03/31
+    Infraccion: 141
+      Dron: DRN-0536  Fecha: 2020/12/22
+  Placa: S6Y-726
+    Infraccion: 129
+      Dron: DRN-0405  Fecha: 2020/03/31
+    Infraccion: 141
+      Dron: DRN-0536  Fecha: 2020/12/22
+    Infraccion: 325
+      Dron: DRN-0599  Fecha: 2020/03/29
+  Placa: K3B-165
+    Infraccion: 318
+      Dron: DRN-0603  Fecha: 2020/08/20
+
+DNI: 39244942  Nombre: PENA SUAREZ GLENDA MARGOT
+  Placa: N5Y-450
+    Infraccion: 103
+      Dron: DRN-0080  Fecha: 2020/07/15
+    Infraccion: 136
+      Dron: DRN-0140  Fecha: 2020/08/19
+  Placa: N5Y-450
+    Infraccion: 103
+      Dron: DRN-0080  Fecha: 2020/07/15
+    Infraccion: 136
+      Dron: DRN-0140  Fecha: 2020/08/19
+
+DNI: 39544560  Nombre: LUNA VARGAS WALDEMAR
+  Placa: N4J-043
+    Infraccion: 313
+      Dron: DRN-0428  Fecha: 2020/01/11
+    Infraccion: 316
+      Dron: DRN-0621  Fecha: 2020/11/12
+  Placa: Y0K-784
+    Infraccion: 115
+      Dron: DRN-0588  Fecha: 2020/05/19
+    Infraccion: 332
+      Dron: DRN-0482  Fecha: 2020/07/7
+    Infraccion: 341
+      Dron: DRN-0567  Fecha: 2020/07/19
+  Placa: Y0K-784
+    Infraccion: 332
+      Dron: DRN-0482  Fecha: 2020/07/7
+    Infraccion: 341
+      Dron: DRN-0567  Fecha: 2020/07/19
+  Placa: Y0K-784
+    Infraccion: 115
+      Dron: DRN-0588  Fecha: 2020/05/19
+    Infraccion: 332
+      Dron: DRN-0482  Fecha: 2020/07/7
+    Infraccion: 341
+      Dron: DRN-0567  Fecha: 2020/07/19
+  Placa: N4J-043
+    Infraccion: 313
+      Dron: DRN-0428  Fecha: 2020/01/11
+    Infraccion: 316
+      Dron: DRN-0621  Fecha: 2020/11/12
+
+DNI: 42956681  Nombre: POMAJAMBO EGUSQUIZA PAUL
+  Placa: L8Z-555
+    Infraccion: 322
+      Dron: DRN-0069  Fecha: 2020/12/3
+  Placa: E0L-862
+    Infraccion: 143
+      Dron: DRN-0122  Fecha: 2020/04/2
+    Infraccion: 155
+      Dron: DRN-0396  Fecha: 2020/12/25
+  Placa: E0L-862
+    Infraccion: 143
+      Dron: DRN-0122  Fecha: 2020/04/2
+    Infraccion: 155
+      Dron: DRN-0396  Fecha: 2020/12/25
+  Placa: A6D-661
+    Infraccion: 332
+      Dron: DRN-0619  Fecha: 2020/03/2
+
+DNI: 43454884  Nombre: ESPINOZA CHANG SHIRLEY
+  Placa: P6Z-734
+    Infraccion: 150
+      Dron: DRN-0119  Fecha: 2020/07/24
+    Infraccion: 152
+      Dron: DRN-0312  Fecha: 2020/10/17
+    Infraccion: 324
+      Dron: DRN-0492  Fecha: 2020/08/6
+  Placa: P6Z-734
+    Infraccion: 150
+      Dron: DRN-0119  Fecha: 2020/07/24
+    Infraccion: 152
+      Dron: DRN-0312  Fecha: 2020/10/17
+  Placa: G0F-080
+    Infraccion: 119
+      Dron: DRN-0337  Fecha: 2020/09/19
+  Placa: P6Z-734
+    Infraccion: 150
+      Dron: DRN-0119  Fecha: 2020/07/24
+    Infraccion: 152
+      Dron: DRN-0312  Fecha: 2020/10/17
+    Infraccion: 324
+      Dron: DRN-0492  Fecha: 2020/08/6
+
+DNI: 44188994  Nombre: VILCARA YALLICO MAGALI
+  Placa: M0X-657
+    Infraccion: 137
+      Dron: DRN-0021  Fecha: 2020/03/17
+    Infraccion: 159
+      Dron: DRN-0204  Fecha: 2020/06/26
+  Placa: M0X-657
+    Infraccion: 137
+      Dron: DRN-0021  Fecha: 2020/03/17
+    Infraccion: 159
+      Dron: DRN-0204  Fecha: 2020/06/26
+  Placa: R2L-600
+    Infraccion: 304
+      Dron: DRN-0218  Fecha: 2020/08/4
+    Infraccion: 306
+      Dron: DRN-0219  Fecha: 2020/10/19
+  Placa: R2L-600
+    Infraccion: 304
+      Dron: DRN-0218  Fecha: 2020/08/4
+    Infraccion: 306
+      Dron: DRN-0219  Fecha: 2020/10/19
+
+DNI: 44346371  Nombre: ALFARO ALFARO ERICK BRUNO
+  Placa: S4J-282
+    Infraccion: 137
+      Dron: DRN-0063  Fecha: 2020/12/15
+
+DNI: 45043076  Nombre: VEGA VILCARA CARMELA TERESA
+  Placa: S7E-946
+    Infraccion: 134
+      Dron: DRN-0291  Fecha: 2020/01/2
+      Dron: DRN-0447  Fecha: 2020/10/4
+    Infraccion: 145
+      Dron: DRN-0027  Fecha: 2020/08/5
+    Infraccion: 149
+      Dron: DRN-0256  Fecha: 2020/12/6
+  Placa: I1D-713
+    Infraccion: 154
+      Dron: DRN-0149  Fecha: 2020/07/19
+  Placa: S7E-946
+    Infraccion: 145
+      Dron: DRN-0027  Fecha: 2020/08/5
+    Infraccion: 149
+      Dron: DRN-0256  Fecha: 2020/12/6
+  Placa: S7E-946
+    Infraccion: 134
+      Dron: DRN-0291  Fecha: 2020/01/2
+    Infraccion: 145
+      Dron: DRN-0027  Fecha: 2020/08/5
+    Infraccion: 149
+      Dron: DRN-0256  Fecha: 2020/12/6
+  Placa: R1T-735
+    Infraccion: 146
+      Dron: DRN-0452  Fecha: 2020/08/17
+    Infraccion: 318
+      Dron: DRN-0391  Fecha: 2020/10/29
+    Infraccion: 328
+      Dron: DRN-0498  Fecha: 2020/04/24
+    Infraccion: 334
+      Dron: DRN-0298  Fecha: 2020/02/23
+  Placa: R1T-735
+    Infraccion: 318
+      Dron: DRN-0391  Fecha: 2020/10/29
+    Infraccion: 334
+      Dron: DRN-0298  Fecha: 2020/02/23
+  Placa: S7E-946
+    Infraccion: 134
+      Dron: DRN-0291  Fecha: 2020/01/2
+      Dron: DRN-0447  Fecha: 2020/10/4
+    Infraccion: 145
+      Dron: DRN-0027  Fecha: 2020/08/5
+    Infraccion: 149
+      Dron: DRN-0256  Fecha: 2020/12/6
+  Placa: R1T-735
+    Infraccion: 146
+      Dron: DRN-0452  Fecha: 2020/08/17
+    Infraccion: 318
+      Dron: DRN-0391  Fecha: 2020/10/29
+    Infraccion: 334
+      Dron: DRN-0298  Fecha: 2020/02/23
+  Placa: R1T-735
+    Infraccion: 146
+      Dron: DRN-0452  Fecha: 2020/08/17
+    Infraccion: 318
+      Dron: DRN-0391  Fecha: 2020/10/29
+    Infraccion: 328
+      Dron: DRN-0498  Fecha: 2020/04/24
+    Infraccion: 334
+      Dron: DRN-0298  Fecha: 2020/02/23
+
+DNI: 47528229  Nombre: SAAVEDRA GONZALES WILMER
+  Placa: U0N-343
+    Infraccion: 146
+      Dron: DRN-0030  Fecha: 2020/12/5
+    Infraccion: 161
+      Dron: DRN-0025  Fecha: 2020/06/13
+  Placa: U0N-343
+    Infraccion: 146
+      Dron: DRN-0030  Fecha: 2020/12/5
+    Infraccion: 161
+      Dron: DRN-0025  Fecha: 2020/06/13
+  Placa: G8O-154
+    Infraccion: 158
+      Dron: DRN-0227  Fecha: 2020/11/27
+    Infraccion: 312
+      Dron: DRN-0361  Fecha: 2020/03/2
+  Placa: G8O-154
+    Infraccion: 158
+      Dron: DRN-0227  Fecha: 2020/11/27
+    Infraccion: 312
+      Dron: DRN-0361  Fecha: 2020/03/2
+  Placa: T8Y-354
+    Infraccion: 130
+      Dron: DRN-0436  Fecha: 2020/05/18
+
+DNI: 47844324  Nombre: VILCA LEE NESTOR HUGO
+  Placa: F1H-328
+    Infraccion: 150
+      Dron: DRN-0347  Fecha: 2020/08/3
+    Infraccion: 208
+      Dron: DRN-0325  Fecha: 2020/03/28
+  Placa: F1H-328
+    Infraccion: 150
+      Dron: DRN-0347  Fecha: 2020/08/3
+    Infraccion: 208
+      Dron: DRN-0325  Fecha: 2020/03/28
+
+DNI: 48450395  Nombre: RAMIREZ ASTETE KARINA ESTEFANIA
+  Placa: Q5S-871
+    Infraccion: 147
+      Dron: DRN-0511  Fecha: 2020/05/13
+    Infraccion: 339
+      Dron: DRN-0137  Fecha: 2020/08/13
+  Placa: G1P-591
+    Infraccion: 106
+      Dron: DRN-0240  Fecha: 2020/04/22
+    Infraccion: 147
+      Dron: DRN-0203  Fecha: 2020/02/22
+    Infraccion: 331
+      Dron: DRN-0210  Fecha: 2020/12/29
+  Placa: G1P-591
+    Infraccion: 147
+      Dron: DRN-0203  Fecha: 2020/02/22
+    Infraccion: 331
+      Dron: DRN-0210  Fecha: 2020/12/29
+  Placa: G1P-591
+    Infraccion: 106
+      Dron: DRN-0240  Fecha: 2020/04/22
+    Infraccion: 147
+      Dron: DRN-0203  Fecha: 2020/02/22
+    Infraccion: 331
+      Dron: DRN-0210  Fecha: 2020/12/29
+  Placa: H6H-085
+    Infraccion: 317
+      Dron: DRN-0451  Fecha: 2020/03/12
+  Placa: Q5S-871
+    Infraccion: 147
+      Dron: DRN-0511  Fecha: 2020/05/13
+    Infraccion: 339
+      Dron: DRN-0137  Fecha: 2020/08/13
+
+DNI: 48528209  Nombre: ZAVALETA CORONADO FELICITA ELOISA
+  Placa: T9L-709
+    Infraccion: 148
+      Dron: DRN-0457  Fecha: 2020/03/11
+    Infraccion: 153
+      Dron: DRN-0399  Fecha: 2020/02/23
+    Infraccion: 338
+      Dron: DRN-0356  Fecha: 2020/05/26
+    Infraccion: 341
+      Dron: DRN-0096  Fecha: 2020/07/20
+  Placa: T9L-709
+    Infraccion: 338
+      Dron: DRN-0356  Fecha: 2020/05/26
+    Infraccion: 341
+      Dron: DRN-0096  Fecha: 2020/07/20
+  Placa: T9L-709
+    Infraccion: 153
+      Dron: DRN-0399  Fecha: 2020/02/23
+    Infraccion: 338
+      Dron: DRN-0356  Fecha: 2020/05/26
+    Infraccion: 341
+      Dron: DRN-0096  Fecha: 2020/07/20
+  Placa: T9L-709
+    Infraccion: 148
+      Dron: DRN-0457  Fecha: 2020/03/11
+    Infraccion: 153
+      Dron: DRN-0399  Fecha: 2020/02/23
+    Infraccion: 338
+      Dron: DRN-0356  Fecha: 2020/05/26
+    Infraccion: 341
+      Dron: DRN-0096  Fecha: 2020/07/20
+
+DNI: 48878256  Nombre: RAFFO CORONADO ROLANDO
+  Placa: W6Z-142
+    Infraccion: 202
+      Dron: DRN-0293  Fecha: 2020/09/4
+    Infraccion: 203
+      Dron: DRN-0590  Fecha: 2020/03/3
+    Infraccion: 328
+      Dron: DRN-0632  Fecha: 2020/05/30
+  Placa: Z4L-514
+    Infraccion: 115
+      Dron: DRN-0314  Fecha: 2020/01/23
+  Placa: F2F-895
+    Infraccion: 107
+      Dron: DRN-0332  Fecha: 2020/05/12
+    Infraccion: 115
+      Dron: DRN-0368  Fecha: 2020/10/7
+  Placa: G2R-979
+    Infraccion: 101
+      Dron: DRN-0535  Fecha: 2020/09/30
+    Infraccion: 312
+      Dron: DRN-0359  Fecha: 2020/08/31
+  Placa: F2F-895
+    Infraccion: 107
+      Dron: DRN-0332  Fecha: 2020/05/12
+    Infraccion: 115
+      Dron: DRN-0368  Fecha: 2020/10/7
+  Placa: G2R-979
+    Infraccion: 101
+      Dron: DRN-0535  Fecha: 2020/09/30
+    Infraccion: 312
+      Dron: DRN-0359  Fecha: 2020/08/31
+  Placa: W6Z-142
+    Infraccion: 202
+      Dron: DRN-0293  Fecha: 2020/09/4
+    Infraccion: 203
+      Dron: DRN-0590  Fecha: 2020/03/3
+  Placa: W6Z-142
+    Infraccion: 202
+      Dron: DRN-0293  Fecha: 2020/09/4
+    Infraccion: 203
+      Dron: DRN-0590  Fecha: 2020/03/3
+    Infraccion: 328
+      Dron: DRN-0632  Fecha: 2020/05/30
+
+DNI: 49428502  Nombre: RIVERO CORTEZ WILVER ALFONSO
+  Placa: C0A-114
+    Infraccion: 125
+      Dron: DRN-0527  Fecha: 2020/04/9
+    Infraccion: 126
+      Dron: DRN-0612  Fecha: 2020/03/1
+  Placa: C0A-114
+    Infraccion: 125
+      Dron: DRN-0527  Fecha: 2020/04/9
+    Infraccion: 126
+      Dron: DRN-0612  Fecha: 2020/03/1
+
+DNI: 49927087  Nombre: INGA PALOMARES ERIKA
+  Placa: G7B-252
+    Infraccion: 116
+      Dron: DRN-0066  Fecha: 2020/09/25
+    Infraccion: 136
+      Dron: DRN-0441  Fecha: 2020/07/8
+  Placa: X3E-271
+    Infraccion: 112
+      Dron: DRN-0299  Fecha: 2020/01/12
+    Infraccion: 139
+      Dron: DRN-0229  Fecha: 2020/07/15
+    Infraccion: 207
+      Dron: DRN-0358  Fecha: 2020/03/14
+    Infraccion: 208
+      Dron: DRN-0144  Fecha: 2020/03/15
+  Placa: X3E-271
+    Infraccion: 139
+      Dron: DRN-0229  Fecha: 2020/07/15
+    Infraccion: 208
+      Dron: DRN-0144  Fecha: 2020/03/15
+  Placa: X3E-271
+    Infraccion: 112
+      Dron: DRN-0299  Fecha: 2020/01/12
+    Infraccion: 139
+      Dron: DRN-0229  Fecha: 2020/07/15
+    Infraccion: 208
+      Dron: DRN-0144  Fecha: 2020/03/15
+  Placa: M8Q-758
+    Infraccion: 155
+      Dron: DRN-0308  Fecha: 2020/05/11
+    Infraccion: 304
+      Dron: DRN-0579  Fecha: 2020/08/9
+    Infraccion: 326
+      Dron: DRN-0559  Fecha: 2020/04/22
+  Placa: X3E-271
+    Infraccion: 112
+      Dron: DRN-0299  Fecha: 2020/01/12
+    Infraccion: 139
+      Dron: DRN-0229  Fecha: 2020/07/15
+    Infraccion: 207
+      Dron: DRN-0358  Fecha: 2020/03/14
+    Infraccion: 208
+      Dron: DRN-0144  Fecha: 2020/03/15
+  Placa: G7B-252
+    Infraccion: 116
+      Dron: DRN-0066  Fecha: 2020/09/25
+    Infraccion: 136
+      Dron: DRN-0441  Fecha: 2020/07/8
+  Placa: M8Q-758
+    Infraccion: 155
+      Dron: DRN-0308  Fecha: 2020/05/11
+    Infraccion: 326
+      Dron: DRN-0559  Fecha: 2020/04/22
+  Placa: M8Q-758
+    Infraccion: 155
+      Dron: DRN-0308  Fecha: 2020/05/11
+    Infraccion: 304
+      Dron: DRN-0579  Fecha: 2020/08/9
+    Infraccion: 326
+      Dron: DRN-0559  Fecha: 2020/04/22
+
+DNI: 50200823  Nombre: LEYVA SAM DIANA DELIA
+  Placa: Q6C-943
+    Infraccion: 315
+      Dron: DRN-0037  Fecha: 2020/04/14
+  Placa: R0P-255
+    Infraccion: 157
+      Dron: DRN-0349  Fecha: 2020/03/20
+    Infraccion: 306
+      Dron: DRN-0170  Fecha: 2020/02/25
+  Placa: H1E-399
+    Infraccion: 103
+      Dron: DRN-0555  Fecha: 2020/10/29
+    Infraccion: 119
+      Dron: DRN-0228  Fecha: 2020/06/25
+  Placa: R0P-255
+    Infraccion: 157
+      Dron: DRN-0349  Fecha: 2020/03/20
+    Infraccion: 306
+      Dron: DRN-0170  Fecha: 2020/02/25
+  Placa: H1E-399
+    Infraccion: 103
+      Dron: DRN-0555  Fecha: 2020/10/29
+    Infraccion: 119
+      Dron: DRN-0228  Fecha: 2020/06/25
+
+DNI: 50201756  Nombre: ZEGARRA PENA CARMELA
+  Placa: K5K-595
+    Infraccion: 105
+      Dron: DRN-0427  Fecha: 2020/12/15
+    Infraccion: 310
+      Dron: DRN-0057  Fecha: 2020/11/4
+  Placa: X8O-807
+    Infraccion: 118
+      Dron: DRN-0563  Fecha: 2020/06/28
+    Infraccion: 123
+      Dron: DRN-0338  Fecha: 2020/08/22
+  Placa: K5K-595
+    Infraccion: 105
+      Dron: DRN-0427  Fecha: 2020/12/15
+    Infraccion: 310
+      Dron: DRN-0057  Fecha: 2020/11/4
+  Placa: X8O-807
+    Infraccion: 118
+      Dron: DRN-0563  Fecha: 2020/06/28
+    Infraccion: 123
+      Dron: DRN-0338  Fecha: 2020/08/22
+
+DNI: 51395324  Nombre: TRIGUEROS PORTUGAL ARTURO FAUSTO
+  Placa: M4Z-108
+    Infraccion: 202
+      Dron: DRN-0108  Fecha: 2020/09/11
+
+DNI: 51929951  Nombre: CHAVEZ BERROCAL JOHAN
+
+DNI: 52002275  Nombre: CASANOVA ZEGARRA MARITZA
+  Placa: J8N-930
+    Infraccion: 320
+      Dron: DRN-0017  Fecha: 2020/03/23
+  Placa: C0S-417
+    Infraccion: 149
+      Dron: DRN-0279  Fecha: 2020/02/5
+    Infraccion: 203
+      Dron: DRN-0397  Fecha: 2020/02/8
+  Placa: C0S-417
+    Infraccion: 149
+      Dron: DRN-0279  Fecha: 2020/02/5
+    Infraccion: 203
+      Dron: DRN-0397  Fecha: 2020/02/8
+
+DNI: 52003695  Nombre: CARBAJAL SALAS MAGDA ZKENIA
+  Placa: H8S-849
+    Infraccion: 122
+      Dron: DRN-0506  Fecha: 2020/09/21
+    Infraccion: 124
+      Dron: DRN-0442  Fecha: 2020/09/30
+    Infraccion: 141
+      Dron: DRN-0471  Fecha: 2020/03/17
+  Placa: H8S-849
+    Infraccion: 124
+      Dron: DRN-0442  Fecha: 2020/09/30
+    Infraccion: 141
+      Dron: DRN-0471  Fecha: 2020/03/17
+  Placa: H8S-849
+    Infraccion: 122
+      Dron: DRN-0506  Fecha: 2020/09/21
+    Infraccion: 124
+      Dron: DRN-0442  Fecha: 2020/09/30
+    Infraccion: 141
+      Dron: DRN-0471  Fecha: 2020/03/17
+
+DNI: 53374153  Nombre: SERRANO IBEROS FRANCISCO
+  Placa: G6I-762
+    Infraccion: 328
+      Dron: DRN-0266  Fecha: 2020/12/29
+    Infraccion: 341
+      Dron: DRN-0076  Fecha: 2020/08/8
+  Placa: V7L-069
+    Infraccion: 104
+      Dron: DRN-0160  Fecha: 2020/06/24
+    Infraccion: 125
+      Dron: DRN-0282  Fecha: 2020/08/24
+  Placa: G6I-762
+    Infraccion: 328
+      Dron: DRN-0266  Fecha: 2020/12/29
+    Infraccion: 341
+      Dron: DRN-0076  Fecha: 2020/08/8
+  Placa: V7L-069
+    Infraccion: 104
+      Dron: DRN-0160  Fecha: 2020/06/24
+    Infraccion: 125
+      Dron: DRN-0282  Fecha: 2020/08/24
+  Placa: R2T-476
+    Infraccion: 165
+      Dron: DRN-0497  Fecha: 2020/11/18
+
+DNI: 53853385  Nombre: SOLIS NARVAEZ MARIA MADELEINE
+  Placa: O5L-856
+    Infraccion: 103
+      Dron: DRN-0007  Fecha: 2020/06/19
+    Infraccion: 110
+      Dron: DRN-0294  Fecha: 2020/05/22
+    Infraccion: 153
+      Dron: DRN-0524  Fecha: 2020/07/29
+    Infraccion: 306
+      Dron: DRN-0582  Fecha: 2020/01/15
+    Infraccion: 307
+      Dron: DRN-0412  Fecha: 2020/01/10
+  Placa: R6P-267
+    Infraccion: 121
+      Dron: DRN-0199  Fecha: 2020/02/7
+    Infraccion: 150
+      Dron: DRN-0012  Fecha: 2020/01/16
+  Placa: T9X-217
+    Infraccion: 110
+      Dron: DRN-0126  Fecha: 2020/11/8
+    Infraccion: 127
+      Dron: DRN-0014  Fecha: 2020/10/13
+    Infraccion: 140
+      Dron: DRN-0601  Fecha: 2020/06/6
+    Infraccion: 147
+      Dron: DRN-0512  Fecha: 2020/12/11
+    Infraccion: 302
+      Dron: DRN-0538  Fecha: 2020/08/18
+  Placa: T9X-217
+    Infraccion: 110
+      Dron: DRN-0126  Fecha: 2020/11/8
+    Infraccion: 127
+      Dron: DRN-0014  Fecha: 2020/10/13
+  Placa: R6P-267
+    Infraccion: 121
+      Dron: DRN-0199  Fecha: 2020/02/7
+    Infraccion: 150
+      Dron: DRN-0012  Fecha: 2020/01/16
+  Placa: O5L-856
+    Infraccion: 103
+      Dron: DRN-0007  Fecha: 2020/06/19
+    Infraccion: 110
+      Dron: DRN-0294  Fecha: 2020/05/22
+  Placa: O5L-856
+    Infraccion: 103
+      Dron: DRN-0007  Fecha: 2020/06/19
+    Infraccion: 110
+      Dron: DRN-0294  Fecha: 2020/05/22
+    Infraccion: 307
+      Dron: DRN-0412  Fecha: 2020/01/10
+  Placa: T9X-217
+    Infraccion: 110
+      Dron: DRN-0126  Fecha: 2020/11/8
+    Infraccion: 127
+      Dron: DRN-0014  Fecha: 2020/10/13
+    Infraccion: 147
+      Dron: DRN-0512  Fecha: 2020/12/11
+  Placa: O5L-856
+    Infraccion: 103
+      Dron: DRN-0007  Fecha: 2020/06/19
+    Infraccion: 110
+      Dron: DRN-0294  Fecha: 2020/05/22
+    Infraccion: 153
+      Dron: DRN-0524  Fecha: 2020/07/29
+    Infraccion: 307
+      Dron: DRN-0412  Fecha: 2020/01/10
+  Placa: T9X-217
+    Infraccion: 110
+      Dron: DRN-0126  Fecha: 2020/11/8
+    Infraccion: 127
+      Dron: DRN-0014  Fecha: 2020/10/13
+    Infraccion: 147
+      Dron: DRN-0512  Fecha: 2020/12/11
+    Infraccion: 302
+      Dron: DRN-0538  Fecha: 2020/08/18
+  Placa: O5L-856
+    Infraccion: 103
+      Dron: DRN-0007  Fecha: 2020/06/19
+    Infraccion: 110
+      Dron: DRN-0294  Fecha: 2020/05/22
+    Infraccion: 153
+      Dron: DRN-0524  Fecha: 2020/07/29
+    Infraccion: 306
+      Dron: DRN-0582  Fecha: 2020/01/15
+    Infraccion: 307
+      Dron: DRN-0412  Fecha: 2020/01/10
+  Placa: T9X-217
+    Infraccion: 110
+      Dron: DRN-0126  Fecha: 2020/11/8
+    Infraccion: 127
+      Dron: DRN-0014  Fecha: 2020/10/13
+    Infraccion: 140
+      Dron: DRN-0601  Fecha: 2020/06/6
+    Infraccion: 147
+      Dron: DRN-0512  Fecha: 2020/12/11
+    Infraccion: 302
+      Dron: DRN-0538  Fecha: 2020/08/18
+
+DNI: 54141214  Nombre: DURAND MIRANDA MIGUEL JUAN
+  Placa: G2I-709
+    Infraccion: 114
+      Dron: DRN-0075  Fecha: 2020/11/21
+    Infraccion: 122
+      Dron: DRN-0440  Fecha: 2020/09/20
+    Infraccion: 316
+      Dron: DRN-0510  Fecha: 2020/03/28
+    Infraccion: 339
+      Dron: DRN-0313  Fecha: 2020/04/18
+  Placa: J7Y-327
+    Infraccion: 104
+      Dron: DRN-0223  Fecha: 2020/03/14
+    Infraccion: 204
+      Dron: DRN-0592  Fecha: 2020/06/22
+    Infraccion: 336
+      Dron: DRN-0431  Fecha: 2020/07/9
+  Placa: G2I-709
+    Infraccion: 114
+      Dron: DRN-0075  Fecha: 2020/11/21
+    Infraccion: 339
+      Dron: DRN-0313  Fecha: 2020/04/18
+  Placa: J7Y-327
+    Infraccion: 104
+      Dron: DRN-0223  Fecha: 2020/03/14
+    Infraccion: 336
+      Dron: DRN-0431  Fecha: 2020/07/9
+  Placa: G2I-709
+    Infraccion: 114
+      Dron: DRN-0075  Fecha: 2020/11/21
+    Infraccion: 122
+      Dron: DRN-0440  Fecha: 2020/09/20
+    Infraccion: 339
+      Dron: DRN-0313  Fecha: 2020/04/18
+  Placa: Y9G-536
+    Infraccion: 147
+      Dron: DRN-0613  Fecha: 2020/06/9
+    Infraccion: 330
+      Dron: DRN-0493  Fecha: 2020/01/20
+  Placa: G2I-709
+    Infraccion: 114
+      Dron: DRN-0075  Fecha: 2020/11/21
+    Infraccion: 122
+      Dron: DRN-0440  Fecha: 2020/09/20
+    Infraccion: 316
+      Dron: DRN-0510  Fecha: 2020/03/28
+    Infraccion: 339
+      Dron: DRN-0313  Fecha: 2020/04/18
+  Placa: J7Y-327
+    Infraccion: 104
+      Dron: DRN-0223  Fecha: 2020/03/14
+    Infraccion: 204
+      Dron: DRN-0592  Fecha: 2020/06/22
+    Infraccion: 336
+      Dron: DRN-0431  Fecha: 2020/07/9
+  Placa: Y9G-536
+    Infraccion: 147
+      Dron: DRN-0613  Fecha: 2020/06/9
+    Infraccion: 330
+      Dron: DRN-0493  Fecha: 2020/01/20
+
+DNI: 54447051  Nombre: AVILA DEL CASTILLO ANNIE
+  Placa: G3Y-654
+    Infraccion: 124
+      Dron: DRN-0023  Fecha: 2020/05/23
+    Infraccion: 146
+      Dron: DRN-0082  Fecha: 2020/05/1
+    Infraccion: 311
+      Dron: DRN-0148  Fecha: 2020/06/20
+  Placa: G3Y-654
+    Infraccion: 124
+      Dron: DRN-0023  Fecha: 2020/05/23
+    Infraccion: 146
+      Dron: DRN-0082  Fecha: 2020/05/1
+  Placa: G3Y-654
+    Infraccion: 124
+      Dron: DRN-0023  Fecha: 2020/05/23
+    Infraccion: 146
+      Dron: DRN-0082  Fecha: 2020/05/1
+    Infraccion: 311
+      Dron: DRN-0148  Fecha: 2020/06/20
+  Placa: D5W-773
+    Infraccion: 130
+      Dron: DRN-0577  Fecha: 2020/06/25
+    Infraccion: 165
+      Dron: DRN-0321  Fecha: 2020/09/25
+    Infraccion: 341
+      Dron: DRN-0339  Fecha: 2020/05/31
+  Placa: D5W-773
+    Infraccion: 165
+      Dron: DRN-0321  Fecha: 2020/09/25
+    Infraccion: 341
+      Dron: DRN-0339  Fecha: 2020/05/31
+  Placa: U5L-205
+    Infraccion: 132
+      Dron: DRN-0400  Fecha: 2020/10/29
+  Placa: D5W-773
+    Infraccion: 130
+      Dron: DRN-0577  Fecha: 2020/06/25
+    Infraccion: 165
+      Dron: DRN-0321  Fecha: 2020/09/25
+    Infraccion: 341
+      Dron: DRN-0339  Fecha: 2020/05/31
+
+DNI: 54665716  Nombre: GONZALES GAMARRA GIOVANA KARINA
+  Placa: D2V-055
+    Infraccion: 130
+      Dron: DRN-0580  Fecha: 2020/02/22
+    Infraccion: 151
+      Dron: DRN-0084  Fecha: 2020/06/5
+  Placa: D2V-055
+    Infraccion: 130
+      Dron: DRN-0580  Fecha: 2020/02/22
+    Infraccion: 151
+      Dron: DRN-0084  Fecha: 2020/06/5
+
+DNI: 58992942  Nombre: NARVAEZ CASTILLO JESUS RAFAEL
+  Placa: Q6B-243
+    Infraccion: 102
+      Dron: DRN-0002  Fecha: 2020/02/28
+  Placa: V7O-315
+    Infraccion: 123
+      Dron: DRN-0004  Fecha: 2020/01/1
+    Infraccion: 130
+      Dron: DRN-0360  Fecha: 2020/12/19
+    Infraccion: 147
+      Dron: DRN-0324  Fecha: 2020/07/4
+    Infraccion: 333
+      Dron: DRN-0508  Fecha: 2020/07/28
+  Placa: H8M-598
+    Infraccion: 207
+      Dron: DRN-0060  Fecha: 2020/08/7
+    Infraccion: 329
+      Dron: DRN-0407  Fecha: 2020/02/19
+  Placa: V7O-315
+    Infraccion: 123
+      Dron: DRN-0004  Fecha: 2020/01/1
+    Infraccion: 147
+      Dron: DRN-0324  Fecha: 2020/07/4
+  Placa: V7O-315
+    Infraccion: 123
+      Dron: DRN-0004  Fecha: 2020/01/1
+    Infraccion: 130
+      Dron: DRN-0360  Fecha: 2020/12/19
+    Infraccion: 147
+      Dron: DRN-0324  Fecha: 2020/07/4
+  Placa: H8M-598
+    Infraccion: 207
+      Dron: DRN-0060  Fecha: 2020/08/7
+    Infraccion: 329
+      Dron: DRN-0407  Fecha: 2020/02/19
+  Placa: V7O-315
+    Infraccion: 123
+      Dron: DRN-0004  Fecha: 2020/01/1
+    Infraccion: 130
+      Dron: DRN-0360  Fecha: 2020/12/19
+    Infraccion: 147
+      Dron: DRN-0324  Fecha: 2020/07/4
+    Infraccion: 333
+      Dron: DRN-0508  Fecha: 2020/07/28
+
+DNI: 60335381  Nombre: DIAZ TANG ENRIQUE
+  Placa: E6T-667
+    Infraccion: 105
+      Dron: DRN-0609  Fecha: 2020/05/15
+    Infraccion: 162
+      Dron: DRN-0087  Fecha: 2020/11/20
+    Infraccion: 163
+      Dron: DRN-0572  Fecha: 2020/07/25
+    Infraccion: 166
+      Dron: DRN-0281  Fecha: 2020/10/23
+  Placa: B3U-845
+    Infraccion: 149
+      Dron: DRN-0178  Fecha: 2020/08/19
+  Placa: E6T-667
+    Infraccion: 162
+      Dron: DRN-0087  Fecha: 2020/11/20
+    Infraccion: 166
+      Dron: DRN-0281  Fecha: 2020/10/23
+  Placa: E6T-667
+    Infraccion: 162
+      Dron: DRN-0087  Fecha: 2020/11/20
+    Infraccion: 163
+      Dron: DRN-0572  Fecha: 2020/07/25
+    Infraccion: 166
+      Dron: DRN-0281  Fecha: 2020/10/23
+  Placa: E6T-667
+    Infraccion: 105
+      Dron: DRN-0609  Fecha: 2020/05/15
+    Infraccion: 162
+      Dron: DRN-0087  Fecha: 2020/11/20
+    Infraccion: 163
+      Dron: DRN-0572  Fecha: 2020/07/25
+    Infraccion: 166
+      Dron: DRN-0281  Fecha: 2020/10/23
+
+DNI: 60784914  Nombre: RUIZ ZEVALLOS WALTER RONY
+  Placa: C6Q-548
+    Infraccion: 117
+      Dron: DRN-0107  Fecha: 2020/03/4
+    Infraccion: 128
+      Dron: DRN-0432  Fecha: 2020/05/31
+    Infraccion: 205
+      Dron: DRN-0616  Fecha: 2020/01/27
+  Placa: P4Y-758
+    Infraccion: 112
+      Dron: DRN-0470  Fecha: 2020/12/7
+    Infraccion: 165
+      Dron: DRN-0246  Fecha: 2020/11/10
+    Infraccion: 306
+      Dron: DRN-0217  Fecha: 2020/02/24
+    Infraccion: 309
+      Dron: DRN-0267  Fecha: 2020/06/13
+  Placa: P4Y-758
+    Infraccion: 165
+      Dron: DRN-0246  Fecha: 2020/11/10
+    Infraccion: 306
+      Dron: DRN-0217  Fecha: 2020/02/24
+  Placa: P4Y-758
+    Infraccion: 165
+      Dron: DRN-0246  Fecha: 2020/11/10
+    Infraccion: 306
+      Dron: DRN-0217  Fecha: 2020/02/24
+    Infraccion: 309
+      Dron: DRN-0267  Fecha: 2020/06/13
+  Placa: A8J-929
+    Infraccion: 201
+      Dron: DRN-0336  Fecha: 2020/05/27
+  Placa: C6Q-548
+    Infraccion: 117
+      Dron: DRN-0107  Fecha: 2020/03/4
+    Infraccion: 128
+      Dron: DRN-0432  Fecha: 2020/05/31
+  Placa: C6G-842
+    Infraccion: 309
+      Dron: DRN-0446  Fecha: 2020/05/14
+  Placa: P4Y-758
+    Infraccion: 112
+      Dron: DRN-0470  Fecha: 2020/12/7
+    Infraccion: 165
+      Dron: DRN-0246  Fecha: 2020/11/10
+    Infraccion: 306
+      Dron: DRN-0217  Fecha: 2020/02/24
+    Infraccion: 309
+      Dron: DRN-0267  Fecha: 2020/06/13
+  Placa: C6Q-548
+    Infraccion: 117
+      Dron: DRN-0107  Fecha: 2020/03/4
+    Infraccion: 128
+      Dron: DRN-0432  Fecha: 2020/05/31
+    Infraccion: 205
+      Dron: DRN-0616  Fecha: 2020/01/27
+
+DNI: 63291514  Nombre: LAU ZAVALETA YDALI ELIA
+  Placa: Z1A-459
+    Infraccion: 104
+      Dron: DRN-0009  Fecha: 2020/08/20
+  Placa: L3W-411
+    Infraccion: 206
+      Dron: DRN-0433  Fecha: 2020/12/27
+
+DNI: 63736112  Nombre: ZAMORA ZAVALETA RONAL MANUEL
+  Placa: K0D-676
+    Infraccion: 115
+      Dron: DRN-0243  Fecha: 2020/03/4
+    Infraccion: 128
+      Dron: DRN-0546  Fecha: 2020/11/12
+    Infraccion: 304
+      Dron: DRN-0342  Fecha: 2020/04/21
+  Placa: K0D-676
+    Infraccion: 115
+      Dron: DRN-0243  Fecha: 2020/03/4
+    Infraccion: 304
+      Dron: DRN-0342  Fecha: 2020/04/21
+  Placa: K0D-676
+    Infraccion: 115
+      Dron: DRN-0243  Fecha: 2020/03/4
+    Infraccion: 128
+      Dron: DRN-0546  Fecha: 2020/11/12
+    Infraccion: 304
+      Dron: DRN-0342  Fecha: 2020/04/21
+
+DNI: 64178096  Nombre: VIZCARRA CARBAJAL IVAN FAUSTO
+  Placa: G3B-505
+    Infraccion: 157
+      Dron: DRN-0051  Fecha: 2020/11/22
+    Infraccion: 306
+      Dron: DRN-0216  Fecha: 2020/10/23
+    Infraccion: 310
+      Dron: DRN-0362  Fecha: 2020/03/26
+  Placa: B7V-643
+    Infraccion: 204
+      Dron: DRN-0154  Fecha: 2020/03/5
+    Infraccion: 313
+      Dron: DRN-0430  Fecha: 2020/09/12
+  Placa: I0X-469
+    Infraccion: 132
+      Dron: DRN-0450  Fecha: 2020/05/24
+    Infraccion: 320
+      Dron: DRN-0518  Fecha: 2020/06/16
+    Infraccion: 321
+      Dron: DRN-0171  Fecha: 2020/11/4
+  Placa: G3B-505
+    Infraccion: 157
+      Dron: DRN-0051  Fecha: 2020/11/22
+    Infraccion: 306
+      Dron: DRN-0216  Fecha: 2020/10/23
+  Placa: G3B-505
+    Infraccion: 157
+      Dron: DRN-0051  Fecha: 2020/11/22
+    Infraccion: 306
+      Dron: DRN-0216  Fecha: 2020/10/23
+    Infraccion: 310
+      Dron: DRN-0362  Fecha: 2020/03/26
+  Placa: B7V-643
+    Infraccion: 204
+      Dron: DRN-0154  Fecha: 2020/03/5
+    Infraccion: 313
+      Dron: DRN-0430  Fecha: 2020/09/12
+  Placa: I0X-469
+    Infraccion: 132
+      Dron: DRN-0450  Fecha: 2020/05/24
+    Infraccion: 321
+      Dron: DRN-0171  Fecha: 2020/11/4
+  Placa: I0X-469
+    Infraccion: 132
+      Dron: DRN-0450  Fecha: 2020/05/24
+    Infraccion: 320
+      Dron: DRN-0518  Fecha: 2020/06/16
+    Infraccion: 321
+      Dron: DRN-0171  Fecha: 2020/11/4
+
+DNI: 64532449  Nombre: INFANTES MERCADO LUIS WALDEMAR
+  Placa: J0V-437
+    Infraccion: 159
+      Dron: DRN-0086  Fecha: 2020/07/4
+    Infraccion: 204
+      Dron: DRN-0161  Fecha: 2020/10/27
+    Infraccion: 207
+      Dron: DRN-0328  Fecha: 2020/11/3
+  Placa: J0V-437
+    Infraccion: 159
+      Dron: DRN-0086  Fecha: 2020/07/4
+    Infraccion: 204
+      Dron: DRN-0161  Fecha: 2020/10/27
+  Placa: J0V-437
+    Infraccion: 159
+      Dron: DRN-0086  Fecha: 2020/07/4
+    Infraccion: 204
+      Dron: DRN-0161  Fecha: 2020/10/27
+    Infraccion: 207
+      Dron: DRN-0328  Fecha: 2020/11/3
+  Placa: K8R-348
+    Infraccion: 103
+      Dron: DRN-0381  Fecha: 2020/02/5
+    Infraccion: 106
+      Dron: DRN-0468  Fecha: 2020/10/24
+  Placa: V4I-691
+    Infraccion: 304
+      Dron: DRN-0545  Fecha: 2020/08/3
+    Infraccion: 322
+      Dron: DRN-0419  Fecha: 2020/05/17
+  Placa: K8R-348
+    Infraccion: 103
+      Dron: DRN-0381  Fecha: 2020/02/5
+    Infraccion: 106
+      Dron: DRN-0468  Fecha: 2020/10/24
+  Placa: V4I-691
+    Infraccion: 304
+      Dron: DRN-0545  Fecha: 2020/08/3
+    Infraccion: 322
+      Dron: DRN-0419  Fecha: 2020/05/17
+  Placa: X3Z-285
+    Infraccion: 143
+      Dron: DRN-0605  Fecha: 2020/02/20
+
+DNI: 66849703  Nombre: MERCADO CORONEL ELIA
+  Placa: B4N-777
+    Infraccion: 115
+      Dron: DRN-0143  Fecha: 2020/02/25
+    Infraccion: 124
+      Dron: DRN-0377  Fecha: 2020/04/21
+    Infraccion: 139
+      Dron: DRN-0112  Fecha: 2020/02/18
+    Infraccion: 170
+      Dron: DRN-0127  Fecha: 2020/11/20
+    Infraccion: 331
+      Dron: DRN-0306  Fecha: 2020/06/14
+  Placa: B4N-777
+    Infraccion: 139
+      Dron: DRN-0112  Fecha: 2020/02/18
+    Infraccion: 170
+      Dron: DRN-0127  Fecha: 2020/11/20
+  Placa: B4N-777
+    Infraccion: 115
+      Dron: DRN-0143  Fecha: 2020/02/25
+    Infraccion: 139
+      Dron: DRN-0112  Fecha: 2020/02/18
+    Infraccion: 170
+      Dron: DRN-0127  Fecha: 2020/11/20
+  Placa: J2F-853
+    Infraccion: 114
+      Dron: DRN-0211  Fecha: 2020/10/20
+    Infraccion: 115
+      Dron: DRN-0196  Fecha: 2020/07/24
+  Placa: J2F-853
+    Infraccion: 114
+      Dron: DRN-0211  Fecha: 2020/10/20
+    Infraccion: 115
+      Dron: DRN-0196  Fecha: 2020/07/24
+  Placa: B4N-777
+    Infraccion: 115
+      Dron: DRN-0143  Fecha: 2020/02/25
+    Infraccion: 139
+      Dron: DRN-0112  Fecha: 2020/02/18
+    Infraccion: 170
+      Dron: DRN-0127  Fecha: 2020/11/20
+    Infraccion: 331
+      Dron: DRN-0306  Fecha: 2020/06/14
+  Placa: B4N-777
+    Infraccion: 115
+      Dron: DRN-0143  Fecha: 2020/02/25
+    Infraccion: 124
+      Dron: DRN-0377  Fecha: 2020/04/21
+    Infraccion: 139
+      Dron: DRN-0112  Fecha: 2020/02/18
+    Infraccion: 170
+      Dron: DRN-0127  Fecha: 2020/11/20
+    Infraccion: 331
+      Dron: DRN-0306  Fecha: 2020/06/14
+
+DNI: 67185679  Nombre: FLORENCIO CORONADO ALONSO
+  Placa: F1F-571
+    Infraccion: 107
+      Dron: DRN-0549  Fecha: 2020/04/30
+    Infraccion: 109
+      Dron: DRN-0043  Fecha: 2020/05/16
+    Infraccion: 206
+      Dron: DRN-0606  Fecha: 2020/01/20
+  Placa: S7F-983
+    Infraccion: 122
+      Dron: DRN-0456  Fecha: 2020/03/10
+    Infraccion: 163
+      Dron: DRN-0530  Fecha: 2020/04/21
+    Infraccion: 312
+      Dron: DRN-0062  Fecha: 2020/12/22
+    Infraccion: 315
+      Dron: DRN-0528  Fecha: 2020/09/19
+    Infraccion: 316
+      Dron: DRN-0571  Fecha: 2020/02/28
+    Infraccion: 335
+      Dron: DRN-0147  Fecha: 2020/08/26
+  Placa: S7F-983
+    Infraccion: 312
+      Dron: DRN-0062  Fecha: 2020/12/22
+    Infraccion: 335
+      Dron: DRN-0147  Fecha: 2020/08/26
+  Placa: I2P-193
+    Infraccion: 127
+      Dron: DRN-0225  Fecha: 2020/03/15
+  Placa: S7F-983
+    Infraccion: 122
+      Dron: DRN-0456  Fecha: 2020/03/10
+    Infraccion: 312
+      Dron: DRN-0062  Fecha: 2020/12/22
+    Infraccion: 335
+      Dron: DRN-0147  Fecha: 2020/08/26
+  Placa: S7F-983
+    Infraccion: 122
+      Dron: DRN-0456  Fecha: 2020/03/10
+    Infraccion: 312
+      Dron: DRN-0062  Fecha: 2020/12/22
+    Infraccion: 315
+      Dron: DRN-0528  Fecha: 2020/09/19
+    Infraccion: 335
+      Dron: DRN-0147  Fecha: 2020/08/26
+  Placa: S7F-983
+    Infraccion: 122
+      Dron: DRN-0456  Fecha: 2020/03/10
+    Infraccion: 163
+      Dron: DRN-0530  Fecha: 2020/04/21
+    Infraccion: 312
+      Dron: DRN-0062  Fecha: 2020/12/22
+    Infraccion: 315
+      Dron: DRN-0528  Fecha: 2020/09/19
+    Infraccion: 335
+      Dron: DRN-0147  Fecha: 2020/08/26
+  Placa: F1F-571
+    Infraccion: 107
+      Dron: DRN-0549  Fecha: 2020/04/30
+    Infraccion: 109
+      Dron: DRN-0043  Fecha: 2020/05/16
+  Placa: S7F-983
+    Infraccion: 122
+      Dron: DRN-0456  Fecha: 2020/03/10
+    Infraccion: 163
+      Dron: DRN-0530  Fecha: 2020/04/21
+    Infraccion: 312
+      Dron: DRN-0062  Fecha: 2020/12/22
+    Infraccion: 315
+      Dron: DRN-0528  Fecha: 2020/09/19
+    Infraccion: 316
+      Dron: DRN-0571  Fecha: 2020/02/28
+    Infraccion: 335
+      Dron: DRN-0147  Fecha: 2020/08/26
+  Placa: F1F-571
+    Infraccion: 107
+      Dron: DRN-0549  Fecha: 2020/04/30
+    Infraccion: 109
+      Dron: DRN-0043  Fecha: 2020/05/16
+    Infraccion: 206
+      Dron: DRN-0606  Fecha: 2020/01/20
+
+DNI: 68303148  Nombre: PATINO BOLANOS DELICIA VIRGINIA
+  Placa: H1W-140
+    Infraccion: 115
+      Dron: DRN-0072  Fecha: 2020/08/9
+    Infraccion: 156
+      Dron: DRN-0215  Fecha: 2020/04/19
+  Placa: H1W-140
+    Infraccion: 115
+      Dron: DRN-0072  Fecha: 2020/08/9
+    Infraccion: 156
+      Dron: DRN-0215  Fecha: 2020/04/19
+
+DNI: 68310808  Nombre: CANO POLO MILAGROS ISABEL
+  Placa: K2N-341
+    Infraccion: 114
+      Dron: DRN-0222  Fecha: 2020/04/7
+  Placa: W8F-397
+    Infraccion: 315
+      Dron: DRN-0341  Fecha: 2020/10/5
+  Placa: I3A-223
+    Infraccion: 151
+      Dron: DRN-0520  Fecha: 2020/10/16
+    Infraccion: 338
+      Dron: DRN-0610  Fecha: 2020/08/6
+  Placa: I3A-223
+    Infraccion: 151
+      Dron: DRN-0520  Fecha: 2020/10/16
+    Infraccion: 338
+      Dron: DRN-0610  Fecha: 2020/08/6
+
+DNI: 69252518  Nombre: GORDILLO SANCHEZ RONALD JUVENAL
+  Placa: P7I-760
+    Infraccion: 124
+      Dron: DRN-0200  Fecha: 2020/06/22
+    Infraccion: 132
+      Dron: DRN-0373  Fecha: 2020/10/3
+    Infraccion: 306
+      Dron: DRN-0032  Fecha: 2020/10/25
+    Infraccion: 327
+      Dron: DRN-0629  Fecha: 2020/08/30
+  Placa: Y0Y-415
+    Infraccion: 151
+      Dron: DRN-0167  Fecha: 2020/06/30
+  Placa: P7I-760
+    Infraccion: 124
+      Dron: DRN-0200  Fecha: 2020/06/22
+    Infraccion: 306
+      Dron: DRN-0032  Fecha: 2020/10/25
+  Placa: P7I-760
+    Infraccion: 124
+      Dron: DRN-0200  Fecha: 2020/06/22
+    Infraccion: 132
+      Dron: DRN-0373  Fecha: 2020/10/3
+    Infraccion: 306
+      Dron: DRN-0032  Fecha: 2020/10/25
+  Placa: P7I-760
+    Infraccion: 124
+      Dron: DRN-0200  Fecha: 2020/06/22
+    Infraccion: 132
+      Dron: DRN-0373  Fecha: 2020/10/3
+    Infraccion: 306
+      Dron: DRN-0032  Fecha: 2020/10/25
+    Infraccion: 327
+      Dron: DRN-0629  Fecha: 2020/08/30
+
+DNI: 69494747  Nombre: MENDOZA ROMERO VIRGINIA YDALI
+  Placa: J8D-125
+    Infraccion: 104
+      Dron: DRN-0386  Fecha: 2020/09/25
+    Infraccion: 146
+      Dron: DRN-0565  Fecha: 2020/08/8
+  Placa: J8D-125
+    Infraccion: 104
+      Dron: DRN-0386  Fecha: 2020/09/25
+    Infraccion: 146
+      Dron: DRN-0565  Fecha: 2020/08/8
+
+DNI: 70414420  Nombre: AVILA REYES TATIANA
+  Placa: U5T-348
+    Infraccion: 122
+      Dron: DRN-0489  Fecha: 2020/11/24
+    Infraccion: 159
+      Dron: DRN-0035  Fecha: 2020/02/26
+    Infraccion: 301
+      Dron: DRN-0128  Fecha: 2020/06/24
+    Infraccion: 317
+      Dron: DRN-0074  Fecha: 2020/07/25
+    Infraccion: 325
+      Dron: DRN-0583  Fecha: 2020/11/9
+  Placa: U5T-348
+    Infraccion: 159
+      Dron: DRN-0035  Fecha: 2020/02/26
+    Infraccion: 317
+      Dron: DRN-0074  Fecha: 2020/07/25
+  Placa: A7Y-514
+    Infraccion: 201
+      Dron: DRN-0085  Fecha: 2020/11/28
+  Placa: U5T-348
+    Infraccion: 159
+      Dron: DRN-0035  Fecha: 2020/02/26
+    Infraccion: 301
+      Dron: DRN-0128  Fecha: 2020/06/24
+    Infraccion: 317
+      Dron: DRN-0074  Fecha: 2020/07/25
+  Placa: U5T-348
+    Infraccion: 122
+      Dron: DRN-0489  Fecha: 2020/11/24
+    Infraccion: 159
+      Dron: DRN-0035  Fecha: 2020/02/26
+    Infraccion: 301
+      Dron: DRN-0128  Fecha: 2020/06/24
+    Infraccion: 317
+      Dron: DRN-0074  Fecha: 2020/07/25
+  Placa: U5T-348
+    Infraccion: 122
+      Dron: DRN-0489  Fecha: 2020/11/24
+    Infraccion: 159
+      Dron: DRN-0035  Fecha: 2020/02/26
+    Infraccion: 301
+      Dron: DRN-0128  Fecha: 2020/06/24
+    Infraccion: 317
+      Dron: DRN-0074  Fecha: 2020/07/25
+    Infraccion: 325
+      Dron: DRN-0583  Fecha: 2020/11/9
+
+DNI: 71578206  Nombre: ARROYO TOMASICHE NATALIA
+  Placa: Y9F-491
+    Infraccion: 104
+      Dron: DRN-0056  Fecha: 2020/08/21
+    Infraccion: 137
+      Dron: DRN-0395  Fecha: 2020/11/24
+    Infraccion: 313
+      Dron: DRN-0286  Fecha: 2020/11/1
+    Infraccion: 322
+      Dron: DRN-0019  Fecha: 2020/06/23
+    Infraccion: 338
+      Dron: DRN-0239  Fecha: 2020/08/2
+  Placa: Y9F-491
+    Infraccion: 104
+      Dron: DRN-0056  Fecha: 2020/08/21
+    Infraccion: 322
+      Dron: DRN-0019  Fecha: 2020/06/23
+  Placa: G7Z-721
+    Infraccion: 120
+      Dron: DRN-0164  Fecha: 2020/02/17
+    Infraccion: 133
+      Dron: DRN-0152  Fecha: 2020/08/3
+    Infraccion: 155
+      Dron: DRN-0092  Fecha: 2020/07/10
+    Infraccion: 315
+      Dron: DRN-0490  Fecha: 2020/08/30
+    Infraccion: 318
+      Dron: DRN-0319  Fecha: 2020/10/31
+    Infraccion: 324
+      Dron: DRN-0644  Fecha: 2020/11/2
+    Infraccion: 332
+      Dron: DRN-0389  Fecha: 2020/09/30
+  Placa: G7Z-721
+    Infraccion: 133
+      Dron: DRN-0152  Fecha: 2020/08/3
+    Infraccion: 155
+      Dron: DRN-0092  Fecha: 2020/07/10
+  Placa: G7Z-721
+    Infraccion: 120
+      Dron: DRN-0164  Fecha: 2020/02/17
+    Infraccion: 133
+      Dron: DRN-0152  Fecha: 2020/08/3
+    Infraccion: 155
+      Dron: DRN-0092  Fecha: 2020/07/10
+  Placa: Y9F-491
+    Infraccion: 104
+      Dron: DRN-0056  Fecha: 2020/08/21
+    Infraccion: 322
+      Dron: DRN-0019  Fecha: 2020/06/23
+    Infraccion: 338
+      Dron: DRN-0239  Fecha: 2020/08/2
+  Placa: Y9F-491
+    Infraccion: 104
+      Dron: DRN-0056  Fecha: 2020/08/21
+    Infraccion: 313
+      Dron: DRN-0286  Fecha: 2020/11/1
+    Infraccion: 322
+      Dron: DRN-0019  Fecha: 2020/06/23
+    Infraccion: 338
+      Dron: DRN-0239  Fecha: 2020/08/2
+  Placa: G7Z-721
+    Infraccion: 120
+      Dron: DRN-0164  Fecha: 2020/02/17
+    Infraccion: 133
+      Dron: DRN-0152  Fecha: 2020/08/3
+    Infraccion: 155
+      Dron: DRN-0092  Fecha: 2020/07/10
+    Infraccion: 318
+      Dron: DRN-0319  Fecha: 2020/10/31
+  Placa: G7Z-721
+    Infraccion: 120
+      Dron: DRN-0164  Fecha: 2020/02/17
+    Infraccion: 133
+      Dron: DRN-0152  Fecha: 2020/08/3
+    Infraccion: 155
+      Dron: DRN-0092  Fecha: 2020/07/10
+    Infraccion: 318
+      Dron: DRN-0319  Fecha: 2020/10/31
+    Infraccion: 332
+      Dron: DRN-0389  Fecha: 2020/09/30
+  Placa: Y9F-491
+    Infraccion: 104
+      Dron: DRN-0056  Fecha: 2020/08/21
+    Infraccion: 137
+      Dron: DRN-0395  Fecha: 2020/11/24
+    Infraccion: 313
+      Dron: DRN-0286  Fecha: 2020/11/1
+    Infraccion: 322
+      Dron: DRN-0019  Fecha: 2020/06/23
+    Infraccion: 338
+      Dron: DRN-0239  Fecha: 2020/08/2
+  Placa: G7Z-721
+    Infraccion: 120
+      Dron: DRN-0164  Fecha: 2020/02/17
+    Infraccion: 133
+      Dron: DRN-0152  Fecha: 2020/08/3
+    Infraccion: 155
+      Dron: DRN-0092  Fecha: 2020/07/10
+    Infraccion: 315
+      Dron: DRN-0490  Fecha: 2020/08/30
+    Infraccion: 318
+      Dron: DRN-0319  Fecha: 2020/10/31
+    Infraccion: 332
+      Dron: DRN-0389  Fecha: 2020/09/30
+  Placa: G7Z-721
+    Infraccion: 120
+      Dron: DRN-0164  Fecha: 2020/02/17
+    Infraccion: 133
+      Dron: DRN-0152  Fecha: 2020/08/3
+    Infraccion: 155
+      Dron: DRN-0092  Fecha: 2020/07/10
+    Infraccion: 315
+      Dron: DRN-0490  Fecha: 2020/08/30
+    Infraccion: 318
+      Dron: DRN-0319  Fecha: 2020/10/31
+    Infraccion: 324
+      Dron: DRN-0644  Fecha: 2020/11/2
+    Infraccion: 332
+      Dron: DRN-0389  Fecha: 2020/09/30
+
+DNI: 71832810  Nombre: SUELDO SEDANO ADRIA
+  Placa: W1C-444
+    Infraccion: 160
+      Dron: DRN-0061  Fecha: 2020/03/30
+  Placa: T1K-210
+    Infraccion: 116
+      Dron: DRN-0326  Fecha: 2020/08/7
+    Infraccion: 154
+      Dron: DRN-0186  Fecha: 2020/01/19
+  Placa: T1K-210
+    Infraccion: 116
+      Dron: DRN-0326  Fecha: 2020/08/7
+    Infraccion: 154
+      Dron: DRN-0186  Fecha: 2020/01/19
+
+DNI: 73357516  Nombre: TRIGUEROS JUGO LUZ
+  Placa: G0B-604
+    Infraccion: 122
+      Dron: DRN-0626  Fecha: 2020/03/14
+    Infraccion: 139
+      Dron: DRN-0078  Fecha: 2020/03/12
+    Infraccion: 166
+      Dron: DRN-0264  Fecha: 2020/08/27
+    Infraccion: 170
+      Dron: DRN-0099  Fecha: 2020/02/4
+  Placa: G0B-604
+    Infraccion: 139
+      Dron: DRN-0078  Fecha: 2020/03/12
+    Infraccion: 170
+      Dron: DRN-0099  Fecha: 2020/02/4
+  Placa: J2K-636
+    Infraccion: 103
+      Dron: DRN-0114  Fecha: 2020/05/10
+    Infraccion: 112
+      Dron: DRN-0348  Fecha: 2020/01/6
+    Infraccion: 134
+      Dron: DRN-0251  Fecha: 2020/12/26
+  Placa: P1T-781
+    Infraccion: 314
+      Dron: DRN-0248  Fecha: 2020/10/13
+  Placa: J2K-636
+    Infraccion: 103
+      Dron: DRN-0114  Fecha: 2020/05/10
+    Infraccion: 134
+      Dron: DRN-0251  Fecha: 2020/12/26
+  Placa: G0B-604
+    Infraccion: 139
+      Dron: DRN-0078  Fecha: 2020/03/12
+    Infraccion: 166
+      Dron: DRN-0264  Fecha: 2020/08/27
+    Infraccion: 170
+      Dron: DRN-0099  Fecha: 2020/02/4
+  Placa: J2K-636
+    Infraccion: 103
+      Dron: DRN-0114  Fecha: 2020/05/10
+    Infraccion: 112
+      Dron: DRN-0348  Fecha: 2020/01/6
+    Infraccion: 134
+      Dron: DRN-0251  Fecha: 2020/12/26
+  Placa: G0B-604
+    Infraccion: 122
+      Dron: DRN-0626  Fecha: 2020/03/14
+    Infraccion: 139
+      Dron: DRN-0078  Fecha: 2020/03/12
+    Infraccion: 166
+      Dron: DRN-0264  Fecha: 2020/08/27
+    Infraccion: 170
+      Dron: DRN-0099  Fecha: 2020/02/4
+
+DNI: 73567806  Nombre: ARCA SANCHEZ MAGALI BEATRIZ
+  Placa: W9Z-281
+    Infraccion: 103
+      Dron: DRN-0088  Fecha: 2020/11/25
+    Infraccion: 105
+      Dron: DRN-0263  Fecha: 2020/09/15
+    Infraccion: 319
+      Dron: DRN-0426  Fecha: 2020/07/23
+    Infraccion: 341
+      Dron: DRN-0311  Fecha: 2020/01/23
+  Placa: Q9D-870
+    Infraccion: 105
+      Dron: DRN-0134  Fecha: 2020/01/25
+    Infraccion: 118
+      Dron: DRN-0365  Fecha: 2020/11/2
+    Infraccion: 129
+      Dron: DRN-0539  Fecha: 2020/04/14
+    Infraccion: 207
+      Dron: DRN-0633  Fecha: 2020/10/23
+    Infraccion: 305
+      Dron: DRN-0305  Fecha: 2020/01/22
+    Infraccion: 321
+      Dron: DRN-0109  Fecha: 2020/09/21
+  Placa: Q9D-870
+    Infraccion: 105
+      Dron: DRN-0134  Fecha: 2020/01/25
+    Infraccion: 321
+      Dron: DRN-0109  Fecha: 2020/09/21
+  Placa: W9Z-281
+    Infraccion: 103
+      Dron: DRN-0088  Fecha: 2020/11/25
+    Infraccion: 105
+      Dron: DRN-0263  Fecha: 2020/09/15
+  Placa: Q9D-870
+    Infraccion: 105
+      Dron: DRN-0134  Fecha: 2020/01/25
+    Infraccion: 305
+      Dron: DRN-0305  Fecha: 2020/01/22
+    Infraccion: 321
+      Dron: DRN-0109  Fecha: 2020/09/21
+  Placa: W9Z-281
+    Infraccion: 103
+      Dron: DRN-0088  Fecha: 2020/11/25
+    Infraccion: 105
+      Dron: DRN-0263  Fecha: 2020/09/15
+    Infraccion: 341
+      Dron: DRN-0311  Fecha: 2020/01/23
+  Placa: A7Y-833
+    Infraccion: 164
+      Dron: DRN-0415  Fecha: 2020/12/21
+    Infraccion: 203
+      Dron: DRN-0649  Fecha: 2020/03/13
+    Infraccion: 334
+      Dron: DRN-0318  Fecha: 2020/07/11
+  Placa: Q9D-870
+    Infraccion: 105
+      Dron: DRN-0134  Fecha: 2020/01/25
+    Infraccion: 118
+      Dron: DRN-0365  Fecha: 2020/11/2
+    Infraccion: 305
+      Dron: DRN-0305  Fecha: 2020/01/22
+    Infraccion: 321
+      Dron: DRN-0109  Fecha: 2020/09/21
+  Placa: A7Y-833
+    Infraccion: 164
+      Dron: DRN-0415  Fecha: 2020/12/21
+    Infraccion: 334
+      Dron: DRN-0318  Fecha: 2020/07/11
+  Placa: W9Z-281
+    Infraccion: 103
+      Dron: DRN-0088  Fecha: 2020/11/25
+    Infraccion: 105
+      Dron: DRN-0263  Fecha: 2020/09/15
+    Infraccion: 319
+      Dron: DRN-0426  Fecha: 2020/07/23
+    Infraccion: 341
+      Dron: DRN-0311  Fecha: 2020/01/23
+  Placa: E2D-493
+    Infraccion: 309
+      Dron: DRN-0514  Fecha: 2020/01/24
+  Placa: Q9D-870
+    Infraccion: 105
+      Dron: DRN-0134  Fecha: 2020/01/25
+    Infraccion: 118
+      Dron: DRN-0365  Fecha: 2020/11/2
+    Infraccion: 129
+      Dron: DRN-0539  Fecha: 2020/04/14
+    Infraccion: 305
+      Dron: DRN-0305  Fecha: 2020/01/22
+    Infraccion: 321
+      Dron: DRN-0109  Fecha: 2020/09/21
+  Placa: Q9D-870
+    Infraccion: 105
+      Dron: DRN-0134  Fecha: 2020/01/25
+    Infraccion: 118
+      Dron: DRN-0365  Fecha: 2020/11/2
+    Infraccion: 129
+      Dron: DRN-0539  Fecha: 2020/04/14
+    Infraccion: 207
+      Dron: DRN-0633  Fecha: 2020/10/23
+    Infraccion: 305
+      Dron: DRN-0305  Fecha: 2020/01/22
+    Infraccion: 321
+      Dron: DRN-0109  Fecha: 2020/09/21
+  Placa: A7Y-833
+    Infraccion: 164
+      Dron: DRN-0415  Fecha: 2020/12/21
+    Infraccion: 203
+      Dron: DRN-0649  Fecha: 2020/03/13
+    Infraccion: 334
+      Dron: DRN-0318  Fecha: 2020/07/11
+
