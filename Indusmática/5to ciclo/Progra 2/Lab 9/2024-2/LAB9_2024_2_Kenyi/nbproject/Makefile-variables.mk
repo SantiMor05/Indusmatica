@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=MinGW-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW-Windows
-CND_ARTIFACT_NAME_Debug=lab9_2024_2
-CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/lab9_2024_2
+CND_ARTIFACT_NAME_Debug=lab9_2024_2_kenyi
+CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/lab9_2024_2_kenyi
 CND_PACKAGE_DIR_Debug=dist/Debug/MinGW-Windows/package
-CND_PACKAGE_NAME_Debug=lab920242.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/lab920242.tar
+CND_PACKAGE_NAME_Debug=lab920242kenyi.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/lab920242kenyi.tar
 # Release configuration
 CND_PLATFORM_Release=MinGW-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
-CND_ARTIFACT_NAME_Release=lab9_2024_2
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/lab9_2024_2
+CND_ARTIFACT_NAME_Release=lab9_2024_2_kenyi
+CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/lab9_2024_2_kenyi
 CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
-CND_PACKAGE_NAME_Release=lab920242.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/lab920242.tar
+CND_PACKAGE_NAME_Release=lab920242kenyi.tar
+CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/lab920242kenyi.tar
 #
 # include compiler specific variables
 #
