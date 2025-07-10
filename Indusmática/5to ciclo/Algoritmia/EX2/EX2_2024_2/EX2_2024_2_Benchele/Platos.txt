@@ -1,0 +1,5 @@
+Lomo Saltado, 50, 30
+Ceviche, 40, 35
+Ají de Gallina, 30, 10
+Causa Limeña, 20, 20
+Arroz con Pollo, 60, 45
