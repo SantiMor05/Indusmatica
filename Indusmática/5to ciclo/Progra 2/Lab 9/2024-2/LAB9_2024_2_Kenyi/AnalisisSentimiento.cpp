@@ -170,12 +170,17 @@ void AnalisisSentimiento::leerComentarios2(ifstream& arch) {
 
 void AnalisisSentimiento::procesarComentario(string& comentario) {
     string resultado = "";
-    char ant;
-    for (char c : comentario) {
+    bool empieza = false;
 
-        if (isalpha(c) or (c == ' ' and ant != ' ')) {
+    for (char c : comentario) {
+        if (isalpha(c)) {
             resultado += tolower(c);
-            ant = c;
+            empieza = true;
+        } else {
+            if (empieza) {
+                resultado += ' ';
+            }
+            empieza = false;
         }
     }
     comentario = resultado;
@@ -194,21 +199,21 @@ void AnalisisSentimiento::imprimir_analisis() {
         arch << "Restaurante: " << m.first << endl;
         pos = 0, neg = 0, neu = 0;
         for (Oracion v : m.second) {
-            //            arch << "Comentario " << contador << ": " << endl;
-            //            v.imprimir(arch);
-            //            arch << endl;
+            arch << "Comentario " << contador << ": " << endl;
+            v.imprimir(arch);
+            arch << endl;
             if (v.GetPolaridad_total() > 0) {
-                //                arch << "Comentario Positivo" << endl;
+                arch << "Comentario Positivo" << endl;
                 pos++;
             } else if (v.GetPolaridad_total() < 0) {
-                //                arch << "Comentario Negativo" << endl;
+                arch << "Comentario Negativo" << endl;
                 neg++;
             } else {
-                //                arch << "Comentario Neutro" << endl;
+                arch << "Comentario Neutro" << endl;
                 neu++;
             }
-            //            contador++;
-            //            imprimirLinea(arch, 150, '-');
+            contador++;
+            imprimirLinea(arch, 150, '-');
         }
         arch << "Comentario positivos: " << pos << endl;
         arch << "Comentario negativo: " << neg << endl;
