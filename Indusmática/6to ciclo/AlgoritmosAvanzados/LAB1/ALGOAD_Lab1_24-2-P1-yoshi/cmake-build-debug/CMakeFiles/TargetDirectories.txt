@@ -1,0 +1,3 @@
+D:/YOSHI proyectos/PUCP/2025/25-2/ALGOAD/ALGOAD_Lab1_24-2-yoshi/cmake-build-debug/CMakeFiles/ALGOAD_Lab1_24_2_yoshi.dir
+D:/YOSHI proyectos/PUCP/2025/25-2/ALGOAD/ALGOAD_Lab1_24-2-yoshi/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/YOSHI proyectos/PUCP/2025/25-2/ALGOAD/ALGOAD_Lab1_24-2-yoshi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
