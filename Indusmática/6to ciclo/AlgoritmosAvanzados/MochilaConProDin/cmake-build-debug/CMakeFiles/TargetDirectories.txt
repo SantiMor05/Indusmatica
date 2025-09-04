@@ -1,0 +1,3 @@
+D:/YOSHI proyectos/PUCP/2025/25-2/ALGOAD/MochilaConProDin/cmake-build-debug/CMakeFiles/MochilaConProDin.dir
+D:/YOSHI proyectos/PUCP/2025/25-2/ALGOAD/MochilaConProDin/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/YOSHI proyectos/PUCP/2025/25-2/ALGOAD/MochilaConProDin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
