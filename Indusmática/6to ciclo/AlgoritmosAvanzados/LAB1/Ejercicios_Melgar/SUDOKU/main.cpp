@@ -44,7 +44,7 @@ int hayConflicto(int x,int y,int num) {
     int iniFila=x-x%3;
     for(int i=iniFila;i<3;i++) {
         for(int j=iniCol;j<3;j++) {
-            if(tablero[x+i][y+j]==num)
+            if(tablero[i][j]==num)
                 return 1;
         }
     }
