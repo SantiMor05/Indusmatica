@@ -42,8 +42,8 @@ int hayConflicto(int x,int y,int num) {
     //validar Tablero
     int iniCol=y-y%3;
     int iniFila=x-x%3;
-    for(int i=iniFila;i<3;i++) {
-        for(int j=iniCol;j<3;j++) {
+    for(int i=iniFila;i<iniFil+3;i++) {
+        for(int j=iniCol;j<iniCol+3;j++) {
             if(tablero[i][j]==num)
                 return 1;
         }
