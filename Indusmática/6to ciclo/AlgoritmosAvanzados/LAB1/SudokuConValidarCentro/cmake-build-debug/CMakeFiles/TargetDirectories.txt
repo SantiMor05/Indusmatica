@@ -1,0 +1,3 @@
+D:/YOSHI proyectos/PUCP/2025/25-2/ALGOAD/WordSearch/cmake-build-debug/CMakeFiles/WordSearch.dir
+D:/YOSHI proyectos/PUCP/2025/25-2/ALGOAD/WordSearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/YOSHI proyectos/PUCP/2025/25-2/ALGOAD/WordSearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
