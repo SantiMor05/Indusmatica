@@ -1,0 +1,3 @@
+C:/Users/kenyi/Documents/GitHub/6toCiclo_Kenyi/AlgoritmosAvanzados/LAB1/RecorridoCaballo/cmake-build-debug/CMakeFiles/RecorridoCaballo.dir
+C:/Users/kenyi/Documents/GitHub/6toCiclo_Kenyi/AlgoritmosAvanzados/LAB1/RecorridoCaballo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kenyi/Documents/GitHub/6toCiclo_Kenyi/AlgoritmosAvanzados/LAB1/RecorridoCaballo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

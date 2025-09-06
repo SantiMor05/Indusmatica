@@ -1,0 +1,3 @@
+C:/Users/kenyi/Documents/GitHub/6toCiclo_Kenyi/AlgoritmosAvanzados/LAB1/Sudoku/cmake-build-debug/CMakeFiles/Sudoku.dir
+C:/Users/kenyi/Documents/GitHub/6toCiclo_Kenyi/AlgoritmosAvanzados/LAB1/Sudoku/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kenyi/Documents/GitHub/6toCiclo_Kenyi/AlgoritmosAvanzados/LAB1/Sudoku/cmake-build-debug/CMakeFiles/rebuild_cache.dir
