@@ -46,7 +46,6 @@ bool verificar(int x, int y, int num) {
 
     for (int i = fil1; i < fil1 + 3; i++) {
         for (int j = col1; j < col1 + 3; j++) {
-            if (i == x && j == y) continue;
             if (tablero[i][j] == num) return false;
         }
     }
