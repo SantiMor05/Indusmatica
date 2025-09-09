@@ -1,0 +1,1 @@
+El shell manda un mensaje que el padre murió y esto hace pensar que el programa fue escrito correctamente,como mencioné en la pregunta anteriror, el primer hijo sí logra matar a sus hermanos y el padre, pero todo eso solo en la primera iteración y ahi acaba todo el programa.
