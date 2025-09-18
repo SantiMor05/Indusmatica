@@ -1,0 +1,3 @@
+C:/MAT/6TO/CLION/ALGAV/DINAMICA/MOCHILA_CLASE/cmake-build-debug/CMakeFiles/MOCHILA_CLASE.dir
+C:/MAT/6TO/CLION/ALGAV/DINAMICA/MOCHILA_CLASE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/MAT/6TO/CLION/ALGAV/DINAMICA/MOCHILA_CLASE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
