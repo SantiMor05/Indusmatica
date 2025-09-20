@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2025.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Conjuntos.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~2.2\bin\mingw\bin\ar.exe qc CMakeFiles\Conjuntos.dir/objects.a @CMakeFiles\Conjuntos.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~2.2\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Conjuntos.dir/objects.a -Wl,--no-whole-archive -o Conjuntos.exe -Wl,--out-implib,libConjuntos.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Conjuntos.dir\linkLibs.rsp
