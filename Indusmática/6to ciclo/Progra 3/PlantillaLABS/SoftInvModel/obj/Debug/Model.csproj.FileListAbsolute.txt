@@ -1,0 +1,6 @@
+D:\YOSHI proyectos\PUCP\2025\25-2\PROGRA3\PlantillaLABS\SoftInvModel\bin\Debug\SoftInvModel.dll
+D:\YOSHI proyectos\PUCP\2025\25-2\PROGRA3\PlantillaLABS\SoftInvModel\bin\Debug\SoftInvModel.pdb
+D:\YOSHI proyectos\PUCP\2025\25-2\PROGRA3\PlantillaLABS\SoftInvModel\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\YOSHI proyectos\PUCP\2025\25-2\PROGRA3\PlantillaLABS\SoftInvModel\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\YOSHI proyectos\PUCP\2025\25-2\PROGRA3\PlantillaLABS\SoftInvModel\obj\Debug\SoftInvModel.dll
+D:\YOSHI proyectos\PUCP\2025\25-2\PROGRA3\PlantillaLABS\SoftInvModel\obj\Debug\SoftInvModel.pdb
