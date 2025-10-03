@@ -1,3 +1,0 @@
-C:/MAT/6TO/CLION/ALGAV/CHISTEURISTICA/2024_2/P2_MelgarSA/cmake-build-debug/CMakeFiles/P2_MelgarSA.dir
-C:/MAT/6TO/CLION/ALGAV/CHISTEURISTICA/2024_2/P2_MelgarSA/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/MAT/6TO/CLION/ALGAV/CHISTEURISTICA/2024_2/P2_MelgarSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
