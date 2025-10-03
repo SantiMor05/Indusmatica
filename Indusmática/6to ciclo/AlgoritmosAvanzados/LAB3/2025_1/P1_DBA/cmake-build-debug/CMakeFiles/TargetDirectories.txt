@@ -1,0 +1,3 @@
+C:/MAT/6TO/CLION/ALGAV/CHISTEURISTICA/2025_1/P1_DBA/cmake-build-debug/CMakeFiles/P1_DBA.dir
+C:/MAT/6TO/CLION/ALGAV/CHISTEURISTICA/2025_1/P1_DBA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/MAT/6TO/CLION/ALGAV/CHISTEURISTICA/2025_1/P1_DBA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
