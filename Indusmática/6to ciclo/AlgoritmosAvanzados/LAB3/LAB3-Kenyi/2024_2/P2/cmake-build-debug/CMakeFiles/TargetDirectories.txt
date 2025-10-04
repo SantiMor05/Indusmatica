@@ -1,0 +1,3 @@
+C:/Users/kenyi/Documents/GitHub/6toCiclo_Kenyi/AlgoritmosAvanzados/LAB3/2024_2/P2/cmake-build-debug/CMakeFiles/P2.dir
+C:/Users/kenyi/Documents/GitHub/6toCiclo_Kenyi/AlgoritmosAvanzados/LAB3/2024_2/P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kenyi/Documents/GitHub/6toCiclo_Kenyi/AlgoritmosAvanzados/LAB3/2024_2/P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
