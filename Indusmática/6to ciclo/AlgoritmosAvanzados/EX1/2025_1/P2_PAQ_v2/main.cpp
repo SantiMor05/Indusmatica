@@ -60,20 +60,21 @@ int calcAlturaMaxima(int paq[][4],int n) {
     //cant combinaciones n*3
     int paqMaxima[n*3][4];
     rotaciones(paqMaxima,paq,n);
-    int dp[n*3][n*3]{};
-    int best=0;
+    int dp[n*3]{};
+    int best = 0;
     for (int i = 0; i < n*3; ++i) {
-        dp[i][i] = paqMaxima[i][H];                         // caso base: solo i
+        dp[i] = paqMaxima[i][H];  // base: solo i
         for (int j = 0; j < i; ++j) {
-            if (paqMaxima[i][A] < paqMaxima[j][A] && paqMaxima[i][B] < paqMaxima[j][B] && paqMaxima[i][W] <= paqMaxima[j][W]) {
-                int cand = paqMaxima[i][H] + dp[j][j];
-                dp[i][j] = cand;                 // matriz de candidatos
-                if (cand > dp[i][i]) dp[i][i] = cand;
+            if (paqMaxima[i][A] < paqMaxima[j][A] and paqMaxima[i][B] < paqMaxima[j][B] and paqMaxima[i][W] <= paqMaxima[j][W]) {
+                dp[i] = max(dp[i], dp[j] + paqMaxima[i][H]);
             }
         }
-        if (dp[i][i] > best) best = dp[i][i];
+        if (dp[i] > best) best = dp[i];
     }
-
+    for (int i=0;i<n*3;i++) {
+        cout<<dp[i]<<" ";
+    }
+    cout<<endl;
     return best;
 }
 
