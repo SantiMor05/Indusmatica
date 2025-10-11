@@ -1,0 +1,3 @@
+C:/MAT/6TO/CLION/ALGAV/EX1/2024_2/P2_PARENTESIS/cmake-build-debug/CMakeFiles/P2_PARENTESIS.dir
+C:/MAT/6TO/CLION/ALGAV/EX1/2024_2/P2_PARENTESIS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/MAT/6TO/CLION/ALGAV/EX1/2024_2/P2_PARENTESIS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
